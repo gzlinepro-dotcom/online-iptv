@@ -1,21 +1,20 @@
+
 {
   "LATINOAMERICA": [
     {
       "Canal": "ESPN",
       "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=espn"
+      "Link": "https://la18hd.com/vivo/canales.php?stream=espn",
+      "Logo": "https://ejemplo.com/logo_espn.png"
     },
     {
       "Canal": "ESPN 4",
       "Estado": "Activo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=espn4"
-    },
-    {
-      "Canal": "DSports",
-      "Estado": "Activo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=dsports"
+      "Link": "https://la18hd.com/vivo/canales.php?stream=espn4",
+      "Logo": "https://ejemplo.com/logo_espn4.png"
     }
-  ],
+  ]
+}
   "ARGENTINA": [
     {
       "Canal": "Fox Sports",
