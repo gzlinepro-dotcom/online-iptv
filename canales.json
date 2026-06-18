@@ -61,22 +61,16 @@
       "Logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1774576205616"
     },
     {
-      "Canal": "GOLTV",
-      "Estado": "Activo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=goltv",
-      "Logo": ""
-    },
-    {
       "Canal": "VTV Plus",
       "Estado": "Activo",
       "Link": "https://la18hd.com/vivo/canales.php?stream=vtvplus",
-      "Logo": ""
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png"
     },
     {
       "Canal": "ECDF LigaPro (eventos)",
       "Estado": "Activo",
       "Link": "https://la18hd.com/vivo/canales.php?stream=ecdf_ligapro",
-      "Logo": ""
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Football_of_Ecuador_-_Liga_Pro_logo_%28mini%29.svg/3840px-Football_of_Ecuador_-_Liga_Pro_logo_%28mini%29.svg.png"
     }
   ],
   "ARGENTINA": [
