@@ -1,20 +1,20 @@
 {
-  "LATINOAMERICA": [
+  "DEPORTES": [
     {
       "Canal": "ESPN",
-      "Estado": "Inactivo",
+      "Estado": "Activo",
       "Link": "https://la18hd.com/vivo/canales.php?stream=espn1",
       "Logo": "https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo-768x461.png"
     },
     {
       "Canal": "ESPN 2",
-      "Estado": "Inactivo",
+      "Estado": "Activo",
       "Link": "https://la18hd.com/vivo/canales.php?stream=espn2",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
     },
     {
       "Canal": "ESPN 3",
-      "Estado": "Inactivo",
+      "Estado": "Activo",
       "Link": "https://la18hd.com/vivo/canales.php?stream=espn3",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png"
     },
@@ -109,21 +109,9 @@
       "Logo": ""
     },
     {
-      "Canal": "TyC Sports Internacional (USA)",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=tycinternacional",
-      "Logo": ""
-    },
-    {
       "Canal": "Telefe",
       "Estado": "Activo",
       "Link": "https://la18hd.com/vivo/canales.php?stream=telefe",
-      "Logo": ""
-    },
-    {
-      "Canal": "TV Pública",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=tvpublica",
       "Logo": ""
     },
     {
@@ -139,13 +127,7 @@
       "Logo": ""
     },
     {
-      "Canal": "Win Sports Plus",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=winsportsplus",
-      "Logo": ""
-    },
-    {
-      "Canal": "Win Sports plus (2)",
+      "Canal": "Win Sports plus",
       "Estado": "Activo",
       "Link": "https://la18hd.com/vivo/canales.php?stream=winsports2",
       "Logo": ""
@@ -155,67 +137,11 @@
       "Estado": "Activo",
       "Link": "https://la18hd.com/vivo/canales.php?stream=winsports",
       "Logo": ""
-    }
-  ],
-  "MÉXICO": [
-    {
-      "Canal": "Fox Sports",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=foxsportsmx",
-      "Logo": ""
-    },
-    {
-      "Canal": "Fox Sports 2",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=foxsports2mx",
-      "Logo": ""
-    },
-    {
-      "Canal": "Fox Sports 3",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=foxsports3mx",
-      "Logo": ""
-    },
-    {
-      "Canal": "Fox Sports Premium",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=foxsportspremium",
-      "Logo": ""
     },
     {
       "Canal": "TUDN",
       "Estado": "Activo",
       "Link": "https://la18hd.com/vivo/canales.php?stream=tudn_mx",
-      "Logo": ""
-    },
-    {
-      "Canal": "ESPN",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=espnmx",
-      "Logo": ""
-    },
-    {
-      "Canal": "ESPN 2",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=espn2mx",
-      "Logo": ""
-    },
-    {
-      "Canal": "ESPN 3",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=espn3mx",
-      "Logo": ""
-    },
-    {
-      "Canal": "ESPN 4",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=espn4mx",
-      "Logo": ""
-    },
-    {
-      "Canal": "Caliente TV",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=calientetv",
       "Logo": ""
     },
     {
@@ -237,27 +163,9 @@
       "Logo": ""
     },
     {
-      "Canal": "Azteca Deportes",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=azteca_deportes",
-      "Logo": ""
-    },
-    {
-      "Canal": "Hisports",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=hisports",
-      "Logo": ""
-    },
-    {
       "Canal": "Sky Sports LaLiga",
       "Estado": "Activo",
       "Link": "https://la18hd.com/vivo/canales.php?stream=sky_sports_laliga",
-      "Logo": ""
-    },
-    {
-      "Canal": "Sky Sports Bundesliga",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=sky_bundesliga_mx",
       "Logo": ""
     },
     {
@@ -285,82 +193,28 @@
       "Logo": ""
     },
     {
-      "Canal": "DAZN 2",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=dazn2",
+      "Canal": "Liga de Campeones 2",
+      "Estado": "Activo",
+      "Link": "https://la18hd.com/vivo/canales.php?stream=ligadecampeones2",
       "Logo": ""
-    },
+    }
+
+  ],
+
+
+  "TV EN VIVO": [
     {
-      "Canal": "DAZN 3 (eventos)",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=dazn3",
-      "Logo": ""
-    },
-    {
-      "Canal": "DAZN 4 (eventos)",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=dazn4",
-      "Logo": ""
-    },
-    {
-      "Canal": "DAZN LaLiga",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=dazn_laliga",
-      "Logo": ""
-    },
-    {
-      "Canal": "La 1 TVE",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=la1tve",
-      "Logo": ""
-    },
-    {
-      "Canal": "Liga de Campeones 1",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=ligadecampeones1",
+      "Canal": "DAZN 1",
+      "Estado": "Activo",
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=80_",
       "Logo": ""
     },
     {
       "Canal": "Liga de Campeones 2",
       "Estado": "Activo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=ligadecampeones2",
-      "Logo": ""
-    },
-    {
-      "Canal": "Liga de Campeones 3",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=ligadecampeones3",
-      "Logo": ""
-    },
-    {
-      "Canal": "LaLigaTV BAR",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=laligatvbar",
-      "Logo": ""
-    },
-    {
-      "Canal": "ESPN 1 NL",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=espn1_nl",
-      "Logo": ""
-    },
-    {
-      "Canal": "ESPN 2 NL",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=espn2_nl",
-      "Logo": ""
-    },
-    {
-      "Canal": "ESPN 3 NL",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=espn3_nl",
-      "Logo": ""
-    },
-    {
-      "Canal": "Dazn Eleven Pro 1 BE",
-      "Estado": "Inactivo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=elevenpro1_be",
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=81_",
       "Logo": ""
     }
+
   ]
 }
