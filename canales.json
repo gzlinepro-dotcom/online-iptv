@@ -270,77 +270,71 @@
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png"
     },
                 {
-      "Canal": "92",
+      "Canal": "HBO +",
       "Estado": "Activo",
       "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=92_",
-      "Logo": ""
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg"
     },
 
   {
-    "Canal": "93",
+    "Canal": "HBO FAMILY",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=93_",
-    "Logo": ""
+    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRIWFgQrQ5k4ZufJyms_2wa89EkiimMjmog&s"
   },
   {
-    "Canal": "94",
+    "Canal": "HBO POP",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=94_",
-    "Logo": ""
+    "Logo": "https://conectateawee.com.ar/wp-content/uploads/2025/10/hbo-pop.webp"
   },
   {
-    "Canal": "95",
+    "Canal": "CLOVER CHANNEL",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=95_",
-    "Logo": ""
+    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfGk-3otoO8UFkcU6cs_cr7zmoJXsxLEWBVA&s"
   },
   {
-    "Canal": "96",
+    "Canal": "SPORTS MAX",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=96_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sports_Max_Logo.png"
   },
   {
-    "Canal": "97",
+    "Canal": "HBO SIGNATURE",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=97_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg"
   },
   {
-    "Canal": "98",
+    "Canal": "HBO XTREME",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=98_",
-    "Logo": ""
+    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s"
   },
   {
-    "Canal": "99",
+    "Canal": "SONY CINE",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=99_",
-    "Logo": ""
+    "Logo": "https://lh3.googleusercontent.com/tTYC8fnu1c50cyfvFJLvgW_F075qZMFYRk03HcAtuYlqrFVV5PVyW7mrLzz9e9vSw0nWJOLMR-140w"
   },
   {
-    "Canal": "100",
+    "Canal": "SONY MOVIES",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=100_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/3840px-Sony_Movies_Logo.svg.png"
   },
   {
-    "Canal": "101",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=101_",
-    "Logo": ""
-  },
-  {
-    "Canal": "102",
+    "Canal": "SUN CHANNEL",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=102_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp"
   },
   {
-    "Canal": "103",
+    "Canal": "LATINA (PE)",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=103_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Latina_Television_-_Logotipo.png"
   },
   {
     "Canal": "104",
@@ -349,16 +343,16 @@
     "Logo": ""
   },
   {
-    "Canal": "105",
+    "Canal": "CINE FAMILIAR",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=105_",
-    "Logo": ""
+    "Logo": "https://static.wikia.nocookie.net/rarter/images/2/23/Laosoaoaoaaoaoao.png/revision/latest?cb=20240430152417"
   },
   {
-    "Canal": "106",
+    "Canal": "AMERICA (AR)",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=106_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
   },
   {
     "Canal": "107",
@@ -367,124 +361,94 @@
     "Logo": ""
   },
   {
-    "Canal": "108",
+    "Canal": "ELNUEVE",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=108_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"
   },
   {
-    "Canal": "109",
+    "Canal": "MC",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=109_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png"
   },
   {
-    "Canal": "110",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=110_",
-    "Logo": ""
-  },
-  {
-    "Canal": "111",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=111_",
-    "Logo": ""
-  },
-  {
-    "Canal": "112",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=112_",
-    "Logo": ""
-  },
-  {
-    "Canal": "113",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=113_",
-    "Logo": ""
-  },
-  {
-    "Canal": "114",
+    "Canal": "LOVE NATURE",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=114_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg"
   },
   {
-    "Canal": "115",
+    "Canal": "TA PENDIENTEE",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=115_",
     "Logo": ""
   },
   {
-    "Canal": "116",
+    "Canal": "116 PENDIENTE",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=116_",
-    "Logo": ""
+    "Logo": "https://www.reporterosasociados.com.co/wp/wp-content/uploads/2016/04/Canal-RCN-01.jpg"
   },
   {
-    "Canal": "117",
+    "Canal": "RCN FUTBOL",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=117_",
-    "Logo": ""
+    "Logo": "https://www.reporterosasociados.com.co/wp/wp-content/uploads/2016/04/Canal-RCN-01.jpg"
   },
   {
-    "Canal": "118",
+    "Canal": "DHE",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=118_",
-    "Logo": ""
+    "Logo": "https://logowik.com/content/uploads/images/canal-dhe5540.logowik.com.webp"
   },
   {
-    "Canal": "119",
+    "Canal": "FMH KIDS",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=119_",
-    "Logo": ""
+    "Logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_640_360.png"
   },
   {
-    "Canal": "120",
+    "Canal": "CLARO SPORTS 2",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=120_",
-    "Logo": ""
+    "Logo": "https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest?cb=20180803141855"
   },
   {
-    "Canal": "121",
+    "Canal": "UNIVERSAL CINEMA",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=121_",
-    "Logo": ""
+    "Logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932"
   },
   {
-    "Canal": "122",
+    "Canal": "TNT NOVELAS",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=122_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png"
   },
   {
-    "Canal": "123",
+    "Canal": "UNIVERSAL PREMIERE",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=123_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png"
   },
   {
-    "Canal": "124",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=124_",
-    "Logo": ""
-  },
-  {
-    "Canal": "125",
+    "Canal": "DISNEY CHANNEL",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=125_",
-    "Logo": ""
+    "Logo": "https://static.wikia.nocookie.net/logopedia/images/f/f0/DISNEYCHANNEL-2025.svg/revision/latest/scale-to-width-down/300?cb=20260221212341"
   },
   {
-    "Canal": "126",
+    "Canal": "TELEMEDELLIN",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=126_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png"
   },
   {
-    "Canal": "127",
+    "Canal": "WB",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=127_",
-    "Logo": ""
+    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjnrwvzDbNAlBvLo_WeiC9ayzmIGU79UXbA&s"
   },
   {
     "Canal": "128",
@@ -493,136 +457,130 @@
     "Logo": ""
   },
   {
-    "Canal": "129",
+    "Canal": "ANTENA 3 INT",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=129_",
-    "Logo": ""
+    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzfTJOz2iT9HpZYFGCoCCt_c2uDXi4qecYQ&s"
   },
   {
-    "Canal": "130",
+    "Canal": "PANICO HD",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=130_",
-    "Logo": ""
+    "Logo": "https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_Panico_HD.png/revision/latest/scale-to-width-down/200?cb=20161218051240"
   },
   {
-    "Canal": "131",
+    "Canal": "GOLDEN",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=131_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png"
   },
   {
-    "Canal": "132",
+    "Canal": "DW NOTICIAS",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=132_",
-    "Logo": ""
+    "Logo": "https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj"
   },
   {
-    "Canal": "133",
+    "Canal": "GLOBAL (PE)",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=133_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png"
   },
   {
-    "Canal": "134",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=134_",
-    "Logo": ""
-  },
-  {
-    "Canal": "135",
+    "Canal": "TV AZTECA",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=135_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Logotipo_de_TV_Azteca.png"
   },
   {
-    "Canal": "136",
+    "Canal": "DISCOVERY KIDS",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=136_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Discovery_Kids_2021_2D_Gradient.svg"
   },
   {
-    "Canal": "137",
+    "Canal": "TOONCAST",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=137_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/3840px-Tooncast_logo.svg.png"
   },
   {
-    "Canal": "138",
+    "Canal": "CARTOONITO",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=138_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Cartoonito_-_Logo_2021.svg"
   },
   {
-    "Canal": "139",
+    "Canal": "CN CARTON NETWORK",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=139_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg"
   },
   {
-    "Canal": "140",
+    "Canal": "NICK JR.",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=140_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg"
   },
   {
-    "Canal": "141",
+    "Canal": "NICKELODEON",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=141_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg"
   },
   {
-    "Canal": "142",
+    "Canal": "DISNEY JR.",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=142_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/3840px-2024_Disney_Jr._Logo.svg.png"
   },
   {
-    "Canal": "143",
+    "Canal": "143 PENDIENTE",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=143_",
     "Logo": ""
   },
   {
-    "Canal": "144",
+    "Canal": "LIFETIME",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=144_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"
   },
   {
-    "Canal": "145",
+    "Canal": "145 PENDIENTE",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=145_",
     "Logo": ""
   },
   {
-    "Canal": "146",
+    "Canal": "146 PENDIENTE ",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=146_",
     "Logo": ""
   },
   {
-    "Canal": "147",
+    "Canal": "DISCOVERY THEATER",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=147_",
-    "Logo": ""
+    "Logo": "https://static.wikia.nocookie.net/tvcable/images/b/b4/LOGO_THEATER_BLACK1.png/revision/latest?cb=20150325154716&path-prefix=es"
   },
   {
-    "Canal": "148",
+    "Canal": "CINEMA TV AZTECA",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=148_",
-    "Logo": ""
+    "Logo": "https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png"
   },
   {
-    "Canal": "149",
+    "Canal": "A&E",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=149_",
-    "Logo": ""
+    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s"
   },
   {
-    "Canal": "150",
+    "Canal": "DISCOVERY INVESTIGACION",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=150_",
-    "Logo": ""
+    "Logo": "https://www.pngfind.com/pngs/m/431-4313978_investigation-discov-id-discovery-logo-png-transparent-png.png"
   },
   {
     "Canal": "151",
