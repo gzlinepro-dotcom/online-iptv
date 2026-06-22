@@ -9,13 +9,13 @@
     {
       "Canal": "TELEMUNDO HD",
       "Estado": "Activo",
-      "Link": "https://cxm3.futbolonlinehd.com/telemundo/mono.m3u8",
+      "Link": "https://cxm3.futbolonlinehd.com/telemundo/mono.m3u8?token=9018a1b57ed925931d3a9b54d1db328651d96f65-d9-1782164753-1782146753",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
     },
     {
-      "Canal": "ESPN 3",
+      "Canal": "TCY SPORTS HD",
       "Estado": "Activo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=espn3",
+      "Link": "https://cxm6.futbolonlinehd.com/tycsports/mono.m3u8?token=d96b6d0044f9d69728ec70b16ab1d62d53e83153-b6-1782164979-1782146979",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png"
     },
     {
