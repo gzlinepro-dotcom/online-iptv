@@ -1,33 +1,33 @@
 {
   "DEPORTES": [
     {
-      "Canal": "DSP",
+      "Canal": "ESPN",
       "Estado": "Activo",
-      "Link": "https://stream-xhd.com/channel3/?id=dsports1",
+      "Link": "https://stream-xhd.com/live1.php?stream=espn",
       "Logo": "https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo-768x461.png"
     },
     {
       "Canal": "ESPN 2",
       "Estado": "Activo",
-      "Link": "",
+      "Link": "https://la18hd.com/vivo/canales.php?stream=espn2",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
     },
     {
       "Canal": "ESPN 3",
       "Estado": "Activo",
-      "Link": "",
+      "Link": "https://la18hd.com/vivo/canales.php?stream=espn3",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png"
     },
     {
       "Canal": "ESPN 4",
       "Estado": "Activo",
-      "Link": "",
+      "Link": "https://la18hd.com/vivo/canales.php?stream=espn4",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/3840px-ESPN_4_logo.svg.png"
     },
     {
       "Canal": "ESPN 5",
       "Estado": "Activo",
-      "Link": "",
+      "Link": "https://la18hd.com/vivo/canales.php?stream=espn5",
       "Logo": "https://images.seeklogo.com/logo-png/52/3/espn-5-logo-png_seeklogo-522715.png"
     },
     {
