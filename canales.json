@@ -179,9 +179,9 @@
 
   "TV EN VIVO": [
     {
-      "Canal": "canal240",
+      "Canal": "TV AZTECA",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=240_",
+      "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=80_",
       "Logo": ""
     },
         {
@@ -1248,9 +1248,9 @@
 
 
     {
-      "Canal": "",
+      "Canal": "PRUEBA",
       "Estado": "Activo",
-      "Link": "",
+      "Link": "https://tv.m3uts.xyz/stream/secure/m/177.m3u8",
       "Logo": ""
     }
 
