@@ -67,12 +67,6 @@
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png"
     },
     {
-      "Canal": "ECDF LigaPro",
-      "Estado": "Activo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=ecdf_ligapro",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Football_of_Ecuador_-_Liga_Pro_logo_%28mini%29.svg/3840px-Football_of_Ecuador_-_Liga_Pro_logo_%28mini%29.svg.png"
-    },
-    {
       "Canal": "Fox Sports",
       "Estado": "Activo",
       "Link": "https://stream-xhd.com/live1.php?stream=fox1ar",
@@ -129,7 +123,7 @@
     {
       "Canal": "Win Sports plus",
       "Estado": "Activo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=winsports2",
+      "Link": "https://stream-xhd.com/live1.php?stream=winplus",
       "Logo": ""
     },
     {
@@ -141,7 +135,7 @@
     {
       "Canal": "TUDN",
       "Estado": "Activo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=tudn_mx",
+      "Link": "https://stream-xhd.com/live1.php?stream=tudnmx",
       "Logo": ""
     },
     {
@@ -157,60 +151,29 @@
       "Logo": ""
     },
     {
-      "Canal": "TVC Deportes",
-      "Estado": "Activo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=tvc_deportes",
-      "Logo": ""
-    },
-    {
-      "Canal": "Sky Sports LaLiga",
-      "Estado": "Activo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=sky_sports_laliga",
-      "Logo": ""
-    },
-    {
       "Canal": "Sportv",
       "Estado": "Activo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=sportv",
+      "Link": "https://stream-xhd.com/live1.php?stream=sporttvbr1",
       "Logo": ""
     },
     {
       "Canal": "Sportv 2",
       "Estado": "Activo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=sportv2",
-      "Logo": ""
-    },
-    {
-      "Canal": "Sportv 3",
-      "Estado": "Activo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=sportv3",
-      "Logo": ""
-    },
-    {
-      "Canal": "DAZN 1",
-      "Estado": "Activo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=dazn1",
+      "Link": "https://stream-xhd.com/live1.php?stream=sporttvbr2",
       "Logo": ""
     },
         {
     "Canal": "AMERICA TV GO",
     "Estado": "Activo",
     "Link": "https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_1080p5Mb.m3u8",
-    "Logo": ""
+    "Logo": "https://e-tg.americatv.com.pe/tvgo-900x600-405039.jpg"
   },
   {
     "Canal": "TELEMUNDO HD",
     "Estado": "Activo",
-    "Link": "https://la18hd.com/vivo/canales.php?stream=telemundo",
-    "Logo": ""
-  },
-    {
-      "Canal": "Liga de Campeones 2",
-      "Estado": "Activo",
-      "Link": "https://la18hd.com/vivo/canales.php?stream=ligadecampeones2",
-      "Logo": ""
-    }
-
+    "Link": "https://stream-xhd.com/live1.php?stream=telemundo",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"
+  }
   ],
 
 
@@ -222,33 +185,33 @@
       "Logo": ""
     },
         {
-      "Canal": "aaaaaa",
+      "Canal": "CANAL 5",
       "Estado": "Activo",
-     "Link": "https://script.google.com/macros/s/AKfycbxRT962hga4Mmc1ZCCYYR8OfdhQJGwdM03AvKks0ucIPdjpPa8P0TZfJkZH_QnaLnCa/exec?id=137",
+     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=81_",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/500px-Canal_5_2016.svg.png"
     },
         {
       "Canal": "ELTRECE",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=82_",
+      "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=82_",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"
     },
         {
       "Canal": "TELEFE",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=83_",
+      "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=83_",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"
     },
             {
       "Canal": "TELEMUNDO 51",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=85_",
+      "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=85_",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/960px-Telemundo_51_%282018%29.svg.png"
     },
             {
       "Canal": "TELEMUNDO INTERNACIONAL",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=86_",
+      "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=86_",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"
     },
             {
@@ -260,116 +223,116 @@
             {
       "Canal": "UNIVISION",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=88_",
+      "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=88_",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg"
     },
             {
       "Canal": "PASION",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=89_",
+      "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=89_",
       "Logo": "https://logowik.com/content/uploads/images/pasiones-tv1683.jpg"
     },
             {
       "Canal": "HBO",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=90_",
+      "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=90_",
       "Logo": "https://1000marcas.net/wp-content/uploads/2020/01/HBO.jpg"
     },
                 {
       "Canal": "HBO 2",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=91",
+      "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=91_",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png"
     },
                 {
       "Canal": "HBO +",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=92_",
+      "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=92_",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg"
     },
 
   {
     "Canal": "HBO FAMILY",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=93_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=93_",
     "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRIWFgQrQ5k4ZufJyms_2wa89EkiimMjmog&s"
   },
   {
     "Canal": "HBO POP",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=94_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=94_",
     "Logo": "https://conectateawee.com.ar/wp-content/uploads/2025/10/hbo-pop.webp"
   },
   {
     "Canal": "CLOVER CHANNEL",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=95_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=95_",
     "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfGk-3otoO8UFkcU6cs_cr7zmoJXsxLEWBVA&s"
   },
   {
     "Canal": "SPORTS MAX",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=96_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=96_",
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sports_Max_Logo.png"
   },
   {
     "Canal": "HBO SIGNATURE",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=97_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=97_",
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg"
   },
   {
     "Canal": "HBO XTREME",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=98_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=98_",
     "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s"
   },
   {
     "Canal": "SONY CINE",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=99_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=99_",
     "Logo": "https://lh3.googleusercontent.com/tTYC8fnu1c50cyfvFJLvgW_F075qZMFYRk03HcAtuYlqrFVV5PVyW7mrLzz9e9vSw0nWJOLMR-140w"
   },
   {
     "Canal": "SONY MOVIES",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=100_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=100_",
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/3840px-Sony_Movies_Logo.svg.png"
   },
   {
     "Canal": "SUN CHANNEL",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=102_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=102_",
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp"
   },
   {
     "Canal": "LATINA (PE)",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=103_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=103_",
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Latina_Television_-_Logotipo.png"
   },
   {
     "Canal": "104",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=104_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=104_",
     "Logo": ""
   },
   {
     "Canal": "CINE FAMILIAR",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=105_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=105_",
     "Logo": "https://static.wikia.nocookie.net/rarter/images/2/23/Laosoaoaoaaoaoao.png/revision/latest?cb=20240430152417"
   },
   {
     "Canal": "AMERICA (AR)",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=106_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=106_",
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
   },
   {
     "Canal": "107",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=107_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=107_",
     "Logo": ""
   },
   {
