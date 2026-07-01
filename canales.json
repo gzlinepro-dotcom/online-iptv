@@ -216,9 +216,9 @@
 
   "TV EN VIVO": [
     {
-      "Canal": "AEEEEEEE",
+      "Canal": "canal240",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/reproductor.php?id=240",
+      "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=240_",
       "Logo": ""
     },
         {
