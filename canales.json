@@ -338,37 +338,37 @@
   {
     "Canal": "ELNUEVE",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=108_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=108_",
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"
   },
   {
     "Canal": "MC",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=109_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=109_",
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png"
   },
   {
     "Canal": "LOVE NATURE",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=114_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=114_",
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg"
   },
   {
     "Canal": "TA PENDIENTEE",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=115_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=115_",
     "Logo": ""
   },
   {
     "Canal": "116 PENDIENTE",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=116_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=116_",
     "Logo": "https://www.reporterosasociados.com.co/wp/wp-content/uploads/2016/04/Canal-RCN-01.jpg"
   },
   {
     "Canal": "RCN FUTBOL",
     "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=117_",
+    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=117_",
     "Logo": "https://www.reporterosasociados.com.co/wp/wp-content/uploads/2016/04/Canal-RCN-01.jpg"
   },
   {
@@ -1239,24 +1239,18 @@
     "Logo": ""
   },
   {
-    "Canal": "az2",
+    "Canal": "TELEMUNDO HD",
     "Estado": "Activo",
-    "Link": "https://tv.m3uts.xyz/stream/secure/m/160.m3u8",
+    "Link": "https://la18hd.com/vivo/canales.php?stream=telemundo",
     "Logo": ""
   },
 
-{
-  "Canal": "TUDN",
-  "Estado": "Activo",
-  "Categoria": "Prueba",
-  "Link": "http://apps2026.online/nuevorqtv/rqtvpro.php?p=MDAxIExBVDogVFVETiBNWA==&t=p&f=.m3u8",
-  "Logo": "https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo-768x461.png"
-},
+
 
     {
-      "Canal": "AZ",
+      "Canal": "PRUEBA",
       "Estado": "Activo",
-      "Link": "https://enc2.firemedia.mx/hls/basket.americas.m3u8?st=Lyn2EQRTHc5jSV-9tUy1uw&e=1783551737",
+      "Link": "https://tv.m3uts.xyz/stream/secure/m/177.m3u8",
       "Logo": ""
     }
 
