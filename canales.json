@@ -1232,27 +1232,20 @@
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=272_",
     "Logo": ""
   },
+"NIÑOS": [
     {
-    "Canal": "AMERICA TV GO",
-    "Estado": "Activo",
-    "Link": "https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_1080p5Mb.m3u8",
-    "Logo": ""
-  },
-  {
-    "Canal": "TELEMUNDO HD",
-    "Estado": "Activo",
-    "Link": "https://la18hd.com/vivo/canales.php?stream=telemundo",
-    "Logo": ""
-  },
-
-
-
-    {
-      "Canal": "PRUEBA",
+      "Canal": "Cartoon Network",
       "Estado": "Activo",
-      "Link": "https://tv.m3uts.xyz/stream/secure/m/177.m3u8",
-      "Logo": ""
+      "Link": "https://stream-xhd.com/live1.php?stream=cartoon",
+      "Logo": "https://link-del-logo.com/cartoon.png"
     }
-
+  ],
+  "DOCUMENTALES": [
+    {
+      "Canal": "Discovery Channel",
+      "Estado": "Activo",
+      "Link": "https://stream-xhd.com/live1.php?stream=discovery",
+      "Logo": "https://link-del-logo.com/discovery.png"
+    }
   ]
 }
