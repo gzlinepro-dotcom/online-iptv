@@ -1337,5 +1337,32 @@
       "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=154_",
       "Logo": "https://images.seeklogo.com/logo-png/40/2/discovery-animal-planet-logo-png_seeklogo-407430.png"
     }
+  ],
+  "UNIVERSAL": [
+    {
+      "Canal": "Universal Reality",
+      "Estado": "Activo",
+      "Link": "https://enc2.firemedia.mx/hls/universalreality.m3u8?st=Q8dlRzVvEtVxioHq-_HUag&e=1783555217",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg"
+    },
+        {
+      "Canal": "Universal Premiere",
+      "Estado": "Activo",
+      "Link": "http://apps2026.online/nuevorqtv/rqtvpro.php?p=NTI4IExBVDogVW5pdmVyc2FsIFByZW1pZXJlIC8gVW5pdmVyc2FsIFByZW1pZXJl&t=p&f=.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg"
+    },
+        {
+      "Canal": "Universal Crime",
+      "Estado": "Activo",
+      "Link": "http://apps2026.online/nuevorqtv/rqtvpro.php?p=NTI3IExBVDogVW5pdmVyc2FsIENyaW1lIC8gVW5pdmVyc2FsIENyaW1l&t=p&f=.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg"
+    },
+        {
+      "Canal": "Universal Comedy",
+      "Estado": "Activo",
+      "Link": "http://apps2026.online/nuevorqtv/rqtvpro.php?p=NTI2IExBVDogVW5pdmVyc2FsIENvbWVkeSAvIFVuaXZlcnNhbCBDb21lZHk=&t=p&f=.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg"
+    }
+
   ]
 }
