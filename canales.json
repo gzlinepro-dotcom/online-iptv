@@ -176,7 +176,6 @@
   }
   ],
 
-
   "TV EN VIVO": [
     {
       "Canal": "TV AZTECA",
@@ -1231,21 +1230,112 @@
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=272_",
     "Logo": ""
-  },
-"NIÑOS": [
+  }
+  ],
+  "NIÑOS": [
     {
-      "Canal": "Cartoon Network",
+      "Canal": "FMH KIDS",
       "Estado": "Activo",
-      "Link": "https://stream-xhd.com/live1.php?stream=cartoon",
-      "Logo": "https://link-del-logo.com/cartoon.png"
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=119_",
+      "Logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_640_360.png"
+    },
+    {
+      "Canal": "DISNEY CHANNEL",
+      "Estado": "Activo",
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=125_",
+      "Logo": "https://static.wikia.nocookie.net/logopedia/images/f/f0/DISNEYCHANNEL-2025.svg/revision/latest/scale-to-width-down/300?cb=20260221212341"
+    },
+    {
+      "Canal": "DISCOVERY KIDS",
+      "Estado": "Activo",
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=136_",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Discovery_Kids_2021_2D_Gradient.svg"
+    },
+    {
+      "Canal": "TOONCAST",
+      "Estado": "Activo",
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=137_",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/3840px-Tooncast_logo.svg.png"
+    },
+    {
+      "Canal": "CARTOONITO",
+      "Estado": "Activo",
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=138_",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Cartoonito_-_Logo_2021.svg"
+    },
+    {
+      "Canal": "CN CARTON NETWORK",
+      "Estado": "Activo",
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=139_",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg"
+    },
+    {
+      "Canal": "NICK JR.",
+      "Estado": "Activo",
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=140_",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg"
+    },
+    {
+      "Canal": "NICKELODEON",
+      "Estado": "Activo",
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=141_",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg"
+    },
+    {
+      "Canal": "DISNEY JR.",
+      "Estado": "Activo",
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=142_",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/3840px-2024_Disney_Jr._Logo.svg.png"
     }
   ],
   "DOCUMENTALES": [
     {
-      "Canal": "Discovery Channel",
+      "Canal": "LOVE NATURE",
       "Estado": "Activo",
-      "Link": "https://stream-xhd.com/live1.php?stream=discovery",
-      "Logo": "https://link-del-logo.com/discovery.png"
+      "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=114_",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg"
+    },
+    {
+      "Canal": "HISTORY 2",
+      "Estado": "Activo",
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=183_",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png"
+    },
+    {
+      "Canal": "HISTORY",
+      "Estado": "Activo",
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=184_",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg"
+    },
+    {
+      "Canal": "DISCOVERY THEATER",
+      "Estado": "Activo",
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=147_",
+      "Logo": "https://static.wikia.nocookie.net/tvcable/images/b/b4/LOGO_THEATER_BLACK1.png/revision/latest?cb=20150325154716&path-prefix=es"
+    },
+    {
+      "Canal": "DISCOVERY INVESTIGACION",
+      "Estado": "Activo",
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=150_",
+      "Logo": "https://www.pngfind.com/pngs/m/431-4313978_investigation-discov-id-discovery-logo-png-transparent-png.png"
+    },
+    {
+      "Canal": "H&H",
+      "Estado": "Activo",
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=151_",
+      "Logo": "https://i.pinimg.com/736x/cb/ee/51/cbee5187a24efc4d11c0bd3d19181f3d.jpg"
+    },
+    {
+      "Canal": "DISCOVERY ",
+      "Estado": "Activo",
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=153_",
+      "Logo": "https://brandemia.org/sites/default/files/inline/images/discovery_logo_antes.jpg"
+    },
+    {
+      "Canal": "DISCOVERY ANIMAL PLANET",
+      "Estado": "Activo",
+      "Link": "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=154_",
+      "Logo": "https://images.seeklogo.com/logo-png/40/2/discovery-animal-planet-logo-png_seeklogo-407430.png"
     }
   ]
 }
