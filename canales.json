@@ -1245,7 +1245,13 @@
     "Logo": ""
   },
 
-
+{
+  "Canal": "TUDN",
+  "Estado": "Activo",
+  "Categoria": "Prueba",
+  "Link": "http://apps2026.online/nuevorqtv/rqtvpro.php?p=MDAxIExBVDogVFVETiBNWA==&t=p&f=.m3u8",
+  "Logo": "https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo-768x461.png"
+},
 
     {
       "Canal": "AZ",
