@@ -181,7 +181,7 @@
       "Canal": "TV AZTECA",
       "Estado": "Activo",
       "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=80_",
-      "Logo": ""
+      "Logo": "https://images.seeklogo.com/logo-png/38/1/tv-azteca-2015-logo-png_seeklogo-381630.png"
     },
         {
       "Canal": "CANAL 5",
@@ -210,20 +210,14 @@
             {
       "Canal": "TELEMUNDO INTERNACIONAL",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=86_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"
-    },
-            {
-      "Canal": "25",
-      "Estado": "Activo",
       "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=87_",
-      "Logo": ""
+      "Logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Z3WNRcnuhTxMOlZtslC2MAwymXrWLNNgi-_LHvFmxlavSH6_taHFqfXqLKVIKpDJUVzZOc2NsVbXG-JIZnNkrQxdStUBocGNL3nJsE-GTeZJYkA66LWkD_iA79me5t1F3EceZStySek/s340/TelemundoInternacional-2018.png"
     },
             {
       "Canal": "UNIVISION",
       "Estado": "Activo",
       "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=88_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg"
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/3840px-Logo_Univision.svg.png"
     },
             {
       "Canal": "PASION",
@@ -247,7 +241,7 @@
       "Canal": "HBO +",
       "Estado": "Activo",
       "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=92_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg"
+      "Logo": "https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png"
     },
 
   {
@@ -278,7 +272,7 @@
     "Canal": "HBO SIGNATURE",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=97_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg"
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/500px-HBO_Signature.svg.png"
   },
   {
     "Canal": "HBO XTREME",
@@ -304,18 +298,7 @@
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=102_",
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp"
   },
-  {
-    "Canal": "LATINA (PE)",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=103_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Latina_Television_-_Logotipo.png"
-  },
-  {
-    "Canal": "104",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=104_",
-    "Logo": ""
-  },
+
   {
     "Canal": "CINE FAMILIAR",
     "Estado": "Activo",
@@ -329,10 +312,10 @@
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
   },
   {
-    "Canal": "107",
+    "Canal": "LA RED",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=107_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png"
   },
   {
     "Canal": "ELNUEVE",
@@ -350,7 +333,7 @@
     "Canal": "LOVE NATURE",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=114_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg"
+    "Logo": "https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png"
   },
   {
     "Canal": "TA PENDIENTEE",
@@ -359,13 +342,13 @@
     "Logo": ""
   },
   {
-    "Canal": "116 PENDIENTE",
+    "Canal": "CANAL EUROPA",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=116_",
-    "Logo": "https://www.reporterosasociados.com.co/wp/wp-content/uploads/2016/04/Canal-RCN-01.jpg"
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png"
   },
   {
-    "Canal": "RCN FUTBOL",
+    "Canal": "RCN",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=117_",
     "Logo": "https://www.reporterosasociados.com.co/wp/wp-content/uploads/2016/04/Canal-RCN-01.jpg"
@@ -375,12 +358,6 @@
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=118_",
     "Logo": "https://logowik.com/content/uploads/images/canal-dhe5540.logowik.com.webp"
-  },
-  {
-    "Canal": "FMH KIDS",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=119_",
-    "Logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_640_360.png"
   },
   {
     "Canal": "CLARO SPORTS 2",
@@ -466,53 +443,12 @@
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=135_",
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Logotipo_de_TV_Azteca.png"
   },
+
   {
-    "Canal": "DISCOVERY KIDS",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=136_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Discovery_Kids_2021_2D_Gradient.svg"
-  },
-  {
-    "Canal": "TOONCAST",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=137_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/3840px-Tooncast_logo.svg.png"
-  },
-  {
-    "Canal": "CARTOONITO",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=138_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Cartoonito_-_Logo_2021.svg"
-  },
-  {
-    "Canal": "CN CARTON NETWORK",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=139_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg"
-  },
-  {
-    "Canal": "NICK JR.",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=140_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg"
-  },
-  {
-    "Canal": "NICKELODEON",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=141_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg"
-  },
-  {
-    "Canal": "DISNEY JR.",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=142_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/3840px-2024_Disney_Jr._Logo.svg.png"
-  },
-  {
-    "Canal": "143 PENDIENTE",
+    "Canal": "ELGOURMET",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=143_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png"
   },
   {
     "Canal": "LIFETIME",
@@ -521,16 +457,16 @@
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"
   },
   {
-    "Canal": "145 PENDIENTE",
+    "Canal": "CANAL E",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=145_",
-    "Logo": ""
+    "Logo": "https://logosenvector.com/logo/img/entertainment-tv-3299.jpg"
   },
   {
-    "Canal": "146 PENDIENTE ",
+    "Canal": "WORLD DISCOVERY",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=146_",
-    "Logo": ""
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/3840px-World_Discovery_HD_logo.svg.png"
   },
   {
     "Canal": "DISCOVERY THEATER",
@@ -572,7 +508,7 @@
     "Canal": "DISCOVERY ANIMAL PLANET",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=154_",
-    "Logo": "https://images.seeklogo.com/logo-png/40/2/discovery-animal-planet-logo-png_seeklogo-407430.png"
+    "Logo": "https://images.seeklogo.com/logo-png/61/3/animal-planet-logo-png_seeklogo-616978.png"
   },
   {
     "Canal": "155",
@@ -608,7 +544,7 @@
     "Canal": "MULTI PREMIER",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=160_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/14/Multipremier_logo_2015.svg"
+    "Logo": "https://images.seeklogo.com/logo-png/33/2/multipremier-logo-png_seeklogo-332359.png"
   },
   {
     "Canal": "ESTUDIO UNIVERSAL",
@@ -723,7 +659,7 @@
     "Canal": "FOX",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=180_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg"
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/3840px-Fox_Channel_logo.svg.png"
   },
   {
     "Canal": "CINEMA",
@@ -735,7 +671,7 @@
     "Canal": "AZTECA INTERNACIONAL",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=182_",
-    "Logo": "https://www.prensario.net/multimedios/imgs/65048_750.jpg"
+    "Logo": "https://parrotmarketing.mx/wp-content/uploads/2025/05/Imagen-220-1-1210x684.jpg"
   },
   {
     "Canal": "HISTORY 2",
@@ -747,13 +683,13 @@
     "Canal": "HISTORY",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=184_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg"
+    "Logo": "https://images.seeklogo.com/logo-png/42/1/history-logo-png_seeklogo-426513.png"
   },
   {
     "Canal": "TELEMUNDO",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=185_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"
   },
   {
     "Canal": "DISTRITO COMEDIA",
@@ -774,10 +710,10 @@
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png"
   },
   {
-    "Canal": "DISNEY CHANNEL",
+    "Canal": "STAR CHANNEL",
     "Estado": "Activo",
     "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=189_",
-    "Logo": "https://static.wikia.nocookie.net/countryclub9732/images/9/94/Disney_Channel_2024_logo.svg/revision/latest?cb=20251002105037"
+    "Logo": "https://i.imgur.com/iTLnX5R.png"
   },
   {
     "Canal": "TNT",
@@ -1249,7 +1185,7 @@
       "Canal": "DISCOVERY KIDS",
       "Estado": "Activo",
       "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=136_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Discovery_Kids_2021_2D_Gradient.svg"
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Discovery_Kids_%282009%29.png"
     },
     {
       "Canal": "TOONCAST",
@@ -1261,25 +1197,25 @@
       "Canal": "CARTOONITO",
       "Estado": "Activo",
       "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=138_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Cartoonito_-_Logo_2021.svg"
+      "Logo": "https://i.pinimg.com/736x/27/a7/d3/27a7d36f3ac0a60c681d5cc295de819f.jpg"
     },
     {
       "Canal": "CN CARTON NETWORK",
       "Estado": "Activo",
       "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=139_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg"
+      "Logo": "https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png"
     },
     {
       "Canal": "NICK JR.",
       "Estado": "Activo",
       "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=140_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg"
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Nick_Jr._Logo_%282023%E2%80%93present%29.png"
     },
     {
       "Canal": "NICKELODEON",
       "Estado": "Activo",
       "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=141_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg"
+      "Logo": "https://images.seeklogo.com/logo-png/47/1/nickelodeon-logo-png_seeklogo-479267.png"
     },
     {
       "Canal": "DISNEY JR.",
@@ -1293,7 +1229,7 @@
       "Canal": "LOVE NATURE",
       "Estado": "Activo",
       "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=114_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg"
+      "Logo": "https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png"
     },
     {
       "Canal": "HISTORY 2",
@@ -1305,7 +1241,7 @@
       "Canal": "HISTORY",
       "Estado": "Activo",
       "Link": "https://regionales.saohgdasregions.fun/librefutbol.php?stream=184_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg"
+      "Logo": "https://images.seeklogo.com/logo-png/42/1/history-logo-png_seeklogo-426513.png"
     },
     {
       "Canal": "DISCOVERY THEATER",
@@ -1358,9 +1294,9 @@
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg"
     },
         {
-      "Canal": "prueee",
+      "Canal": "Universal Comedy",
       "Estado": "Activo",
-      "Link": "https://lee33.0i52waitxcy8needs.cfd/es/football/brazilian-serie-b-4351013/ponte-preta-vs-criciuma.html?icg=UEU&ilang=es",
+      "Link": "https://enc2.firemedia.mx/hls/universalcomedy.m3u8?st=1yTq2gnOCfjB9QYvmwzQew&e=1783555937",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg"
     }
 
