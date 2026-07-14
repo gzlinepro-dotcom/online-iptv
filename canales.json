@@ -1,9 +1,9 @@
 {
   "DEPORTES": [
     {
-      "Canal": "ESPN",
+      "Canal": "ESPN1",
       "Estado": "Activo",
-      "Link": "https://stream-xhd.com/live1.php?stream=espn",
+      "Link": "http://138.59.227.20:8000/play/a099/index.m3u8",
       "Logo": "https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo-768x461.png"
     },
     {
