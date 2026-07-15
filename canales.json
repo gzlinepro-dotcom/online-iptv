@@ -162,1149 +162,793 @@
       "Link": "https://stream-xhd.com/live1.php?stream=sporttvbr2",
       "Logo": "https://images.seeklogo.com/logo-png/50/3/sport-tv2-2023-logo-png_seeklogo-504105.png"
     },
-        {
-    "Canal": "AMERICA TV GO",
-    "Estado": "Activo",
-    "Link": "https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_1080p5Mb.m3u8",
-    "Logo": "https://e-tg.americatv.com.pe/tvgo-900x600-405039.jpg"
-  },
-            {
-    "Canal": "ATV",
-    "Estado": "Activo",
-    "Link": "https://live-evg17.tv360.bitel.com.pe/netcdn-live-3/bitel/Atv-UDP_abr/bitel/ATV-udp_720p/chunks.m3u8",
-    "Logo": ""
-  },
-  {
-    "Canal": "TELEMUNDO HD",
-    "Estado": "Activo",
-    "Link": "https://stream-xhd.com/live1.php?stream=telemundo",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"
-  }
-  ],
-
-  "TV EN VIVO": [
     {
-      "Canal": "TV AZTECA",
+      "Canal": "AMERICA TV GO",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=80_",
-      "Logo": "https://images.seeklogo.com/logo-png/38/1/tv-azteca-2015-logo-png_seeklogo-381630.png"
+      "Link": "https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_1080p5Mb.m3u8",
+      "Logo": "https://e-tg.americatv.com.pe/tvgo-900x600-405039.jpg"
     },
-        {
-      "Canal": "CANAL 5",
+    {
+      "Canal": "ATV",
       "Estado": "Activo",
-     "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=81_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/500px-Canal_5_2016.svg.png"
+      "Link": "https://live-evg17.tv360.bitel.com.pe/netcdn-live-3/bitel/Atv-UDP_abr/bitel/ATV-udp_720p/chunks.m3u8",
+      "Logo": ""
     },
-        {
-      "Canal": "ELTRECE",
+    {
+      "Canal": "TELEMUNDO HD",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=82_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"
-    },
-        {
-      "Canal": "TELEFE",
+      "Link": "https://stream-xhd.com/live1.php?stream=telemundo",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"
+    }
+  ],
+  "GENERAL": [
+    {
+      "Canal": "A&E",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=83_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"
+      "Link": "http://190.7.19.197:232/play/a00c/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a-and-e-ar.png?raw=true"
     },
-            {
-      "Canal": "TELEMUNDO 51",
+    {
+      "Canal": "AXN",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=85_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/960px-Telemundo_51_%282018%29.svg.png"
+      "Link": "http://143.14.178.40:7777/AXN_HD/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/axn-ar.png?raw=true"
     },
-            {
-      "Canal": "TELEMUNDO INTERNACIONAL",
+    {
+      "Canal": "Bravo TV",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=87_",
-      "Logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Z3WNRcnuhTxMOlZtslC2MAwymXrWLNNgi-_LHvFmxlavSH6_taHFqfXqLKVIKpDJUVzZOc2NsVbXG-JIZnNkrQxdStUBocGNL3nJsE-GTeZJYkA66LWkD_iA79me5t1F3EceZStySek/s340/TelemundoInternacional-2018.png"
+      "Link": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8",
+      "Logo": "https://mediakit.perfil.com/img/logo-bravo-tv.png"
     },
-            {
-      "Canal": "UNIVISION",
+    {
+      "Canal": "Caras TV",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=88_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/3840px-Logo_Univision.svg.png"
+      "Link": "https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8",
+      "Logo": "https://fotos.perfil.com/2024/03/01/trim/987/555/caras-tv-1763217.jpg"
     },
-            {
-      "Canal": "PASION",
+    {
+      "Canal": "Comedy Central",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=89_",
-      "Logo": "https://logowik.com/content/uploads/images/pasiones-tv1683.jpg"
+      "Link": "http://190.7.19.197:232/play/a01d/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true"
     },
-            {
+    {
+      "Canal": "FXX",
+      "Estado": "Activo",
+      "Link": "http://23.237.104.106:8080/USA_FXX/index.m3u8",
+      "Logo": "https://static.wikia.nocookie.net/logopedia/images/9/98/FXX_%28Yellow%29.svg/revision/latest/scale-to-width-down/250?cb=20200423152548"
+    },
+    {
+      "Canal": "Hola TV",
+      "Estado": "Activo",
+      "Link": "http://45.167.1.136:8000/play/a05z",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hola-tv-ar.png?raw=true"
+    },
+    {
+      "Canal": "Multishow",
+      "Estado": "Activo",
+      "Link": "http://143.14.178.40:7777/Multishow_HD/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/multishow-br.png?raw=true"
+    },
+    {
+      "Canal": "MTV",
+      "Estado": "Activo",
+      "Link": "http://190.7.19.197:232/play/a04q/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/mtv-ar.png?raw=true"
+    },
+    {
+      "Canal": "Star Channel",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf_720p/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StarChannel.png?raw=true"
+    },
+    {
+      "Canal": "Studio Universal",
+      "Estado": "Activo",
+      "Link": "http://190.7.19.197:232/play/a049/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StudioUniversal.png?raw=true"
+    },
+    {
+      "Canal": "TBS",
+      "Estado": "Activo",
+      "Link": "http://41.205.93.154/TBS/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true"
+    },
+    {
+      "Canal": "VH1",
+      "Estado": "Activo",
+      "Link": "http://23.237.104.106:8080/USA_VH1/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true"
+    },
+    {
+      "Canal": "Warner Channel",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a_720p/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/05-Warner.png?raw=true"
+    }
+  ],
+  "NOTICIAS": [
+    {
+      "Canal": "A24",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true"
+    },
+    {
+      "Canal": "C5N",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i_720p/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-C5N.png?raw=true"
+    },
+    {
+      "Canal": "Canal 26",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/l4bk3-m0kk9-e914k-dm053_720p/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-Canal26.png?raw=true"
+    },
+    {
+      "Canal": "Crónica TV",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/50l1p-9en4e-g05p7-n6588_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cronica-hd-ar.png?raw=true"
+    },
+    {
+      "Canal": "GloboNews",
+      "Estado": "Activo",
+      "Link": "http://143.14.178.40:7777/GloboNews_HD/index.m3u8",
+      "Logo": "https://i.imgur.com/3yZyaCm.png"
+    },
+    {
+      "Canal": "LN+",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/la-nacion-mas-ar.png?raw=true"
+    },
+    {
+      "Canal": "TN",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true"
+    }
+  ],
+  "INFANTIL": [
+    {
+      "Canal": "Adult Swim",
+      "Estado": "Activo",
+      "Link": "http://190.7.19.197:232/play/a01s/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true"
+    },
+    {
+      "Canal": "Tooncast",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tooncast-ar.png?raw=true"
+    }
+  ],
+  "CINE": [
+    {
+      "Canal": "AMC",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/bi2ih-e4ike-kb3hi-4fhf5_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/amc-ar.png?raw=true"
+    },
+    {
+      "Canal": "CineCanal",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/6bhnd-ee8d5-hegm2-b6l5e_720p/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-Cinecanal.png?raw=true"
+    },
+    {
+      "Canal": "Cinemax",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/cinemax-br.png?raw=true"
+    },
+    {
+      "Canal": "FX",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310_720p/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-FX.png?raw=true"
+    },
+    {
       "Canal": "HBO",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=90_",
-      "Logo": "https://1000marcas.net/wp-content/uploads/2020/01/HBO.jpg"
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true"
     },
-                {
+    {
       "Canal": "HBO 2",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=91_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png"
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true"
     },
-                {
+    {
+      "Canal": "HBO Family",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png?raw=true"
+    },
+    {
+      "Canal": "HBO Mundi",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/c5o8j-78n4c-apc1g-j3ph5_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-mundi-ar.png?raw=true"
+    },
+    {
       "Canal": "HBO +",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=92_",
-      "Logo": "https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png"
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-plus-ar.png?raw=true"
     },
-
-  {
-    "Canal": "HBO FAMILY",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=93_",
-    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRIWFgQrQ5k4ZufJyms_2wa89EkiimMjmog&s"
-  },
-  {
-    "Canal": "HBO POP",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=94_",
-    "Logo": "https://conectateawee.com.ar/wp-content/uploads/2025/10/hbo-pop.webp"
-  },
-  {
-    "Canal": "CLOVER CHANNEL",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=95_",
-    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfGk-3otoO8UFkcU6cs_cr7zmoJXsxLEWBVA&s"
-  },
-  {
-    "Canal": "SPORTS MAX",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=96_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sports_Max_Logo.png"
-  },
-  {
-    "Canal": "HBO SIGNATURE",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=97_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/500px-HBO_Signature.svg.png"
-  },
-  {
-    "Canal": "HBO XTREME",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=98_",
-    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s"
-  },
-  {
-    "Canal": "SONY CINE",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=99_",
-    "Logo": "https://lh3.googleusercontent.com/tTYC8fnu1c50cyfvFJLvgW_F075qZMFYRk03HcAtuYlqrFVV5PVyW7mrLzz9e9vSw0nWJOLMR-140w"
-  },
-  {
-    "Canal": "SONY MOVIES",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=100_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/3840px-Sony_Movies_Logo.svg.png"
-  },
-  {
-    "Canal": "SUN CHANNEL",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=102_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp"
-  },
-
-  {
-    "Canal": "CINE FAMILIAR",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=105_",
-    "Logo": "https://static.wikia.nocookie.net/rarter/images/2/23/Laosoaoaoaaoaoao.png/revision/latest?cb=20240430152417"
-  },
-  {
-    "Canal": "AMERICA (AR)",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=106_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
-  },
-  {
-    "Canal": "LA RED",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=107_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png"
-  },
-  {
-    "Canal": "ELNUEVE",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=108_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"
-  },
-  {
-    "Canal": "MC",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=109_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png"
-  },
-  {
-    "Canal": "LOVE NATURE",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=114_",
-    "Logo": "https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png"
-  },
-  {
-    "Canal": "TA PENDIENTEE",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=115_",
-    "Logo": ""
-  },
-  {
-    "Canal": "CANAL EUROPA",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=116_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png"
-  },
-  {
-    "Canal": "RCN",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=117_",
-    "Logo": "https://www.reporterosasociados.com.co/wp/wp-content/uploads/2016/04/Canal-RCN-01.jpg"
-  },
-  {
-    "Canal": "DHE",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=118_",
-    "Logo": "https://logowik.com/content/uploads/images/canal-dhe5540.logowik.com.webp"
-  },
-  {
-    "Canal": "CLARO SPORTS 2",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=120_",
-    "Logo": "https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest?cb=20180803141855"
-  },
-  {
-    "Canal": "UNIVERSAL CINEMA",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=121_",
-    "Logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932"
-  },
-  {
-    "Canal": "TNT NOVELAS",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=122_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png"
-  },
-  {
-    "Canal": "UNIVERSAL PREMIERE",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=123_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png"
-  },
-  {
-    "Canal": "DISNEY CHANNEL",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=125_",
-    "Logo": "https://static.wikia.nocookie.net/logopedia/images/f/f0/DISNEYCHANNEL-2025.svg/revision/latest/scale-to-width-down/300?cb=20260221212341"
-  },
-  {
-    "Canal": "TELEMEDELLIN",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=126_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png"
-  },
-  {
-    "Canal": "WB",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=127_",
-    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjnrwvzDbNAlBvLo_WeiC9ayzmIGU79UXbA&s"
-  },
-  {
-    "Canal": "128",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=128_",
-    "Logo": ""
-  },
-  {
-    "Canal": "ANTENA 3 INT",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=129_",
-    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzfTJOz2iT9HpZYFGCoCCt_c2uDXi4qecYQ&s"
-  },
-  {
-    "Canal": "PANICO HD",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=130_",
-    "Logo": "https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_Panico_HD.png/revision/latest/scale-to-width-down/200?cb=20161218051240"
-  },
-  {
-    "Canal": "GOLDEN",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=131_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png"
-  },
-  {
-    "Canal": "DW NOTICIAS",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=132_",
-    "Logo": "https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj"
-  },
-  {
-    "Canal": "GLOBAL (PE)",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=133_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png"
-  },
-  {
-    "Canal": "TV AZTECA",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=135_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Logotipo_de_TV_Azteca.png"
-  },
-
-  {
-    "Canal": "ELGOURMET",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=143_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png"
-  },
-  {
-    "Canal": "LIFETIME",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=144_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"
-  },
-  {
-    "Canal": "CANAL E",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=145_",
-    "Logo": "https://logosenvector.com/logo/img/entertainment-tv-3299.jpg"
-  },
-  {
-    "Canal": "WORLD DISCOVERY",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=146_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/3840px-World_Discovery_HD_logo.svg.png"
-  },
-  {
-    "Canal": "DISCOVERY THEATER",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=147_",
-    "Logo": "https://static.wikia.nocookie.net/tvcable/images/b/b4/LOGO_THEATER_BLACK1.png/revision/latest?cb=20150325154716&path-prefix=es"
-  },
-  {
-    "Canal": "CINEMA TV AZTECA",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=148_",
-    "Logo": "https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png"
-  },
-  {
-    "Canal": "A&E",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=149_",
-    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s"
-  },
-  {
-    "Canal": "DISCOVERY INVESTIGACION",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=150_",
-    "Logo": "https://www.pngfind.com/pngs/m/431-4313978_investigation-discov-id-discovery-logo-png-transparent-png.png"
-  },
-  {
-    "Canal": "H&H",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=151_",
-    "Logo": "https://i.pinimg.com/736x/cb/ee/51/cbee5187a24efc4d11c0bd3d19181f3d.jpg"
-  },
-  {
-    "Canal": "DISCOVERY ",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=153_",
-    "Logo": "https://brandemia.org/sites/default/files/inline/images/discovery_logo_antes.jpg"
-  },
-  {
-    "Canal": "DISCOVERY ANIMAL PLANET",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=154_",
-    "Logo": "https://images.seeklogo.com/logo-png/61/3/animal-planet-logo-png_seeklogo-616978.png"
-  },
-  {
-    "Canal": "155",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=155_",
-    "Logo": ""
-  },
-  {
-    "Canal": "COMEDY CENTRAL",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=156_",
-    "Logo": "https://logos-world.net/wp-content/uploads/2022/06/Comedy-Central-Productions-Logo.jpg"
-  },
-  {
-    "Canal": "MTV",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=157_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png"
-  },
-  {
-    "Canal": "UNIVERSAL COMEDY",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=158_",
-    "Logo": "https://static.wikia.nocookie.net/dreamlogos/images/0/06/Universal_Comedy.png/revision/latest/scale-to-width-down/300?cb=20220209221930"
-  },
-  {
-    "Canal": "AMC",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=159_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png"
-  },
-  {
-    "Canal": "MULTI PREMIER",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=160_",
-    "Logo": "https://images.seeklogo.com/logo-png/33/2/multipremier-logo-png_seeklogo-332359.png"
-  },
-  {
-    "Canal": "ESTUDIO UNIVERSAL",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=161_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png"
-  },
-  {
-    "Canal": "UNIVERSAL TV",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=162_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png"
-  },
-  {
-    "Canal": "AXN",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=163_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/3840px-AXN_logo.svg.png"
-  },
-  {
-    "Canal": "SONY CHANNEL",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=164_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"
-  },
-  {
-    "Canal": "TNT SERIES",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=165_",
-    "Logo": "https://images.seeklogo.com/logo-png/49/2/tnt-serie-logo-png_seeklogo-492417.png"
-  },
-  {
-    "Canal": "G PREMIER",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=166_",
-    "Logo": "https://static.wikia.nocookie.net/logopedia/images/1/1e/Golden_Premier_2013.jpg/revision/latest?cb=20191216003210&path-prefix=es"
-  },
-  {
-    "Canal": "G PREMIER 2",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=167_",
-    "Logo": "https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es"
-  },
-  {
-    "Canal": "G EDGE",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=168_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"
-  },
-  {
-    "Canal": "G PLUS",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=169_",
-    "Logo": "https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es"
-  },
-
-  {
-    "Canal": "FX",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=171_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/330px-FX_Logo_2023.svg.png"
-  },
-  {
-    "Canal": "IMAGEN",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=172_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png"
-  },
-  {
-    "Canal": "UNICABLE",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=173_",
-    "Logo": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Unicable2018-2.png/revision/latest/scale-to-width-down/175?cb=20210514025931&path-prefix=es"
-  },
-  {
-    "Canal": "PBO (PE)",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=174_",
-    "Logo": "https://static.wikia.nocookie.net/logopedia/images/c/c5/PBO.svg/revision/latest/scale-to-width-down/1200?cb=20220628145649&path-prefix=es"
-  },
-  {
-    "Canal": "ATV (PE)",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=175_",
-    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREdmtdmLin9lMxNacM0SueSwnERYPRxKfgym54zD8OoK8UuzGiry-j6TZ5&s=10"
-  },
-  {
-    "Canal": "CARACOL TV",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=176_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png"
-  },
-  {
-    "Canal": "USA",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=177_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/USA_Network_2020.svg"
-  },
-  {
-    "Canal": "LAS ESTRELLAS",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=178_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
-  },
-  {
-    "Canal": "TLN NOVELAS",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=179_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png"
-  },
-  {
-    "Canal": "FOX",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=180_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/3840px-Fox_Channel_logo.svg.png"
-  },
-  {
-    "Canal": "CINEMA",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=181_",
-    "Logo": "https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037"
-  },
-  {
-    "Canal": "AZTECA INTERNACIONAL",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=182_",
-    "Logo": "https://parrotmarketing.mx/wp-content/uploads/2025/05/Imagen-220-1-1210x684.jpg"
-  },
-  {
-    "Canal": "HISTORY 2",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=183_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png"
-  },
-  {
-    "Canal": "HISTORY",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=184_",
-    "Logo": "https://images.seeklogo.com/logo-png/42/1/history-logo-png_seeklogo-426513.png"
-  },
-  {
-    "Canal": "TELEMUNDO",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=185_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"
-  },
-  {
-    "Canal": "DISTRITO COMEDIA",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=186_",
-    "Logo": "https://iili.io/CuGwCWQ.png"
-  },
-  {
-    "Canal": "CINE CANAL",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=187_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png"
-  },
-  {
-    "Canal": "CINEMAX",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=188_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png"
-  },
-  {
-    "Canal": "STAR CHANNEL",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=189_",
-    "Logo": "https://i.imgur.com/iTLnX5R.png"
-  },
-  {
-    "Canal": "TNT",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=190_",
-    "Logo": "https://1000marcas.net/wp-content/uploads/2025/01/TNT-Logo.jpg"
-  },
-  {
-    "Canal": "SPACE",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=191_",
-    "Logo": "https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png"
-  },
-  {
-    "Canal": "AMERICA TV (PE)",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=192_",
-    "Logo": "https://iili.io/CuGUgzF.png"
-  },
-  {
-    "Canal": "LATINA (PE)",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=193_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/16/Latina_Digital_Logotipo_2025.svg"
-  },
-  {
-    "Canal": "TVN",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=194_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile_%282004-2016%29.png"
-  },
-  {
-    "Canal": "EL LIDER",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=195_",
-    "Logo": "https://images.seeklogo.com/logo-png/31/2/canal-5-el-lider-honduras-logo-png_seeklogo-319416.png"
-  },
-  {
-    "Canal": "TELEHIT MUSICA",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=196_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png"
-  },
-  {
-    "Canal": "TELEHIT",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=198_",
-    "Logo": "https://yt3.googleusercontent.com/ytc/AIdro_muuLweOEYvyKkKHOr3bzu8Pn1yu6nrM2--xe_KdD62LQ=s900-c-k-c0x00ffffff-no-rj"
-  },
-  {
-    "Canal": "TCM",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=199_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1280px-TCM_Latam_logo.svg.png"
-  },
-  {
-    "Canal": "FUTV",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=200_",
-    "Logo": "https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg"
-  },
-
-  {
-    "Canal": "ESPN",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=201_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png"
-  },
-  {
-    "Canal": "TVC",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=202_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Tvc_2003.png"
-  },
-  {
-    "Canal": "TNT SPORTS PREMIUM",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=203_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png"
-  },
-  {
-    "Canal": "ESPN +",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=204_",
-    "Logo": "https://e7.pngegg.com/pngimages/1002/931/png-clipart-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television.png"
-  },
-  {
-    "Canal": "TYC SPORTS",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=205_",
-    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW50IOCxtjCLwl6svHSjApY-e2xnNlwVNVKQAl8Vju5IOTKgOU3qJB5cE&s=10"
-  },
-  {
-    "Canal": "206",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=206_",
-    "Logo": ""
-  },
-  {
-    "Canal": "FOX SPORTS",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=207_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Fox_Sports_logo.jpg"
-  },
-  {
-    "Canal": "UNIVERSAL CRIME",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=208_",
-    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbemzyESrRzBR_wz8e22yqQfNcKpdBDUxouABMDsYA0Q&s=10"
-  },
-  {
-    "Canal": "FOX 2 SPORTS",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=209_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/3840px-Fox_sports_2_logo.svg.png"
-  },
-  {
-    "Canal": "FOX 3 SPORTS",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=210_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png"
-  },
-  {
-    "Canal": "ESPN",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=211_",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png"
-  },
-  {
-    "Canal": "ESPN 2",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=212_",
-    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRon_G8d0FfqDMdGW0vBKgiB5s3W68nuhEzugR6me4VjQ&s=10"
-  },
-  {
-    "Canal": "213",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=213_",
-    "Logo": ""
-  },
-  {
-    "Canal": "214",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=214_",
-    "Logo": ""
-  },
-  {
-    "Canal": "215",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=215_",
-    "Logo": ""
-  },
-  {
-    "Canal": "216",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=216_",
-    "Logo": ""
-  },
-  {
-    "Canal": "217",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=217_",
-    "Logo": ""
-  },
-  {
-    "Canal": "218",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=218_",
-    "Logo": ""
-  },
-  {
-    "Canal": "219",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=219_",
-    "Logo": ""
-  },
-  {
-    "Canal": "220",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=220_",
-    "Logo": ""
-  },
-  {
-    "Canal": "221",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=221_",
-    "Logo": ""
-  },
-  {
-    "Canal": "222",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=222_",
-    "Logo": ""
-  },
-  {
-    "Canal": "223",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=223_",
-    "Logo": ""
-  },
-  {
-    "Canal": "224",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=224_",
-    "Logo": ""
-  },
-  {
-    "Canal": "225",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=225_",
-    "Logo": ""
-  },
-  {
-    "Canal": "226",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=226_",
-    "Logo": ""
-  },
-  {
-    "Canal": "227",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=227_",
-    "Logo": ""
-  },
-  {
-    "Canal": "228",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=228_",
-    "Logo": ""
-  },
-  {
-    "Canal": "229",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=229_",
-    "Logo": ""
-  },
-  {
-    "Canal": "230",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=230_",
-    "Logo": ""
-  },
-  {
-    "Canal": "231",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=231_",
-    "Logo": ""
-  },
-  {
-    "Canal": "232",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=232_",
-    "Logo": ""
-  },
-  {
-    "Canal": "233",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=233_",
-    "Logo": ""
-  },
-  {
-    "Canal": "234",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=234_",
-    "Logo": ""
-  },
-  {
-    "Canal": "235",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=235_",
-    "Logo": ""
-  },
-  {
-    "Canal": "236",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=236_",
-    "Logo": ""
-  },
-  {
-    "Canal": "237",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=237_",
-    "Logo": ""
-  },
-  {
-    "Canal": "238",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=238_",
-    "Logo": ""
-  },
-  {
-    "Canal": "239",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=239_",
-    "Logo": ""
-  },
-  {
-    "Canal": "240",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=240_",
-    "Logo": ""
-  },
-  {
-    "Canal": "241",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=241_",
-    "Logo": ""
-  },
-  {
-    "Canal": "242",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=242_",
-    "Logo": ""
-  },
-  {
-    "Canal": "243",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=243_",
-    "Logo": ""
-  },
-  {
-    "Canal": "244",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=244_",
-    "Logo": ""
-  },
-  {
-    "Canal": "245",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=245_",
-    "Logo": ""
-  },
-  {
-    "Canal": "246",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=246_",
-    "Logo": ""
-  },
-  {
-    "Canal": "247",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=247_",
-    "Logo": ""
-  },
-  {
-    "Canal": "248",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=248_",
-    "Logo": ""
-  },
-  {
-    "Canal": "249",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=249_",
-    "Logo": ""
-  },
-  {
-    "Canal": "250",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=250_",
-    "Logo": ""
-  },
-  {
-    "Canal": "251",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=251_",
-    "Logo": ""
-  },
-  {
-    "Canal": "252",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=252_",
-    "Logo": ""
-  },
-  {
-    "Canal": "253",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=253_",
-    "Logo": ""
-  },
-
-  {
-    "Canal": "261",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=261_",
-    "Logo": ""
-  },
-  {
-    "Canal": "262",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=262_",
-    "Logo": ""
-  },
-  {
-    "Canal": "263",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=263_",
-    "Logo": ""
-  },
-  {
-    "Canal": "264",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=264_",
-    "Logo": ""
-  },
-  {
-    "Canal": "265",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=265_",
-    "Logo": ""
-  },
-  {
-    "Canal": "266",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=266_",
-    "Logo": ""
-  },
-  {
-    "Canal": "267",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=267_",
-    "Logo": ""
-  },
-  {
-    "Canal": "268",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=268_",
-    "Logo": ""
-  },
-  {
-    "Canal": "269",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=269_",
-    "Logo": ""
-  },
-  {
-    "Canal": "270",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=270_",
-    "Logo": ""
-  },
-  {
-    "Canal": "271",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=271_",
-    "Logo": ""
-  },
-  {
-    "Canal": "272",
-    "Estado": "Activo",
-    "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=272_",
-    "Logo": ""
-  }
+    {
+      "Canal": "HBO POP",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/le3g2-kjc00-e7d3p-m3aoc_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-pop-ar.png?raw=true"
+    },
+    {
+      "Canal": "HBO Signature",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-signature-ar.png?raw=true"
+    },
+    {
+      "Canal": "HBO Xtreme",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/5o27b-5alop-lcagn-834c8_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-xtreme-ar.png?raw=true"
+    },
+    {
+      "Canal": "Sony Channel",
+      "Estado": "Activo",
+      "Link": "https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/sony-channel-ar.png?raw=true"
+    },
+    {
+      "Canal": "Sony Movies",
+      "Estado": "Activo",
+      "Link": "https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movies-us.png?raw=true"
+    },
+    {
+      "Canal": "Space",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/space-ar.png?raw=true"
+    },
+    {
+      "Canal": "SyFy",
+      "Estado": "Activo",
+      "Link": "http://23.237.104.106:8080/USA_SYFY/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true"
+    },
+    {
+      "Canal": "TNT",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n_720p/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true"
+    },
+    {
+      "Canal": "Universal Cinema",
+      "Estado": "Activo",
+      "Link": "http://177.10.184.193:8000/play/a0a9/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-cinema-lam.png?raw=true"
+    },
+    {
+      "Canal": "Universal Comedy",
+      "Estado": "Activo",
+      "Link": "http://45.5.117.99:8000/play/a0i5/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-comedy-lam.png?raw=true"
+    },
+    {
+      "Canal": "Universal Crime",
+      "Estado": "Activo",
+      "Link": "http://45.5.119.43:4000/play/a0i4/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-crime-lam.png?raw=true"
+    },
+    {
+      "Canal": "Universal Premiere",
+      "Estado": "Activo",
+      "Link": "http://45.5.119.43:4000/play/a0i2/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-premiere-lam.png?raw=true"
+    },
+    {
+      "Canal": "Universal TV",
+      "Estado": "Activo",
+      "Link": "http://190.7.19.197:232/play/a03u/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/universal-tv-ar.png?raw=true"
+    },
+    {
+      "Canal": "Universal",
+      "Estado": "Activo",
+      "Link": "http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-universalchannel.playlist.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/universal-tv-ar.png?raw=true"
+    },
+    {
+      "Canal": "USA Network",
+      "Estado": "Activo",
+      "Link": "http://190.7.19.197:232/play/a04a/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/usa-network-lam.png?raw=true"
+    }
   ],
-  "NIÑOS": [
+  "ARGENTINA": [
     {
-      "Canal": "FMH KIDS",
+      "Canal": "América TV",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=119_",
-      "Logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_640_360.png"
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true"
     },
     {
-      "Canal": "DISNEY CHANNEL",
+      "Canal": "El Nueve",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=125_",
-      "Logo": "https://static.wikia.nocookie.net/logopedia/images/f/f0/DISNEYCHANNEL-2025.svg/revision/latest/scale-to-width-down/300?cb=20260221212341"
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1_720p/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Nueve.png?raw=true"
     },
     {
-      "Canal": "DISCOVERY KIDS",
+      "Canal": "El Trece",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=136_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Discovery_Kids_%282009%29.png"
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m_720p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true"
     },
     {
-      "Canal": "TOONCAST",
+      "Canal": "NetTV",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=137_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/3840px-Tooncast_logo.svg.png"
+      "Link": "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/net-tv-ar.png?raw=true"
     },
     {
-      "Canal": "CARTOONITO",
+      "Canal": "Telefe HD",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=138_",
-      "Logo": "https://i.pinimg.com/736x/27/a7/d3/27a7d36f3ac0a60c681d5cc295de819f.jpg"
+      "Link": "http://138.59.227.20:8000/play/a08a/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Telefe.png?raw=true"
     },
     {
-      "Canal": "CN CARTON NETWORK",
+      "Canal": "Telemax",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=139_",
-      "Logo": "https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png"
+      "Link": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Telemax.png?raw=true"
     },
     {
-      "Canal": "NICK JR.",
+      "Canal": "TV Pública",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=140_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Nick_Jr._Logo_%282023%E2%80%93present%29.png"
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8",
+      "Logo": "https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png"
     },
     {
-      "Canal": "NICKELODEON",
+      "Canal": "Volver",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=141_",
-      "Logo": "https://images.seeklogo.com/logo-png/47/1/nickelodeon-logo-png_seeklogo-479267.png"
-    },
-    {
-      "Canal": "DISNEY JR.",
-      "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=142_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/3840px-2024_Disney_Jr._Logo.svg.png"
+      "Link": "http://190.7.19.197:232/play/a048/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/e5e262a0a5e42c025e296159e95fe0c45afad7c2/icons/05-Volver.png?raw=true"
     }
   ],
   "DOCUMENTALES": [
     {
-      "Canal": "LOVE NATURE",
+      "Canal": "Animal Planet",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=114_",
-      "Logo": "https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png"
+      "Link": "http://191.97.61.32:8000/play/a05q/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/animal-planet-ar.png?raw=true"
     },
     {
-      "Canal": "HISTORY 2",
+      "Canal": "Discovery Channel",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=183_",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png"
+      "Link": "http://138.59.227.20:8000/play/a08g/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true"
     },
     {
-      "Canal": "HISTORY",
+      "Canal": "Discovery H&H",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=184_",
-      "Logo": "https://images.seeklogo.com/logo-png/42/1/history-logo-png_seeklogo-426513.png"
+      "Link": "http://138.59.227.20:8000/play/a08f/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-home-and-health-ar.png?raw=true"
     },
     {
-      "Canal": "DISCOVERY THEATER",
+      "Canal": "Discovery Science",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=147_",
-      "Logo": "https://static.wikia.nocookie.net/tvcable/images/b/b4/LOGO_THEATER_BLACK1.png/revision/latest?cb=20150325154716&path-prefix=es"
+      "Link": "http://138.59.227.20:8000/play/a06p/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-science-ar.png?raw=true"
     },
     {
-      "Canal": "DISCOVERY INVESTIGACION",
+      "Canal": "Discovery Theater",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=150_",
-      "Logo": "https://www.pngfind.com/pngs/m/431-4313978_investigation-discov-id-discovery-logo-png-transparent-png.png"
+      "Link": "http://190.7.19.197:232/play/a053/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-theater-hd-ar.png?raw=true"
     },
     {
-      "Canal": "H&H",
+      "Canal": "Discovery Turbo",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=151_",
-      "Logo": "https://i.pinimg.com/736x/cb/ee/51/cbee5187a24efc4d11c0bd3d19181f3d.jpg"
+      "Link": "http://138.59.227.20:8000/play/a062/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-turbo-ar.png?raw=true"
     },
     {
-      "Canal": "DISCOVERY ",
+      "Canal": "Discovery World",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=153_",
-      "Logo": "https://brandemia.org/sites/default/files/inline/images/discovery_logo_antes.jpg"
+      "Link": "http://190.7.19.197:232/play/a055/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-world-hd-ar.png?raw=true"
     },
     {
-      "Canal": "DISCOVERY ANIMAL PLANET",
+      "Canal": "HGTV",
       "Estado": "Activo",
-      "Link": "https://regionales.saohgdasregions.fun/tvenvivo3.php?stream=154_",
-      "Logo": "https://images.seeklogo.com/logo-png/40/2/discovery-animal-planet-logo-png_seeklogo-407430.png"
+      "Link": "http://138.59.227.20:8000/play/a06o/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hgtv-ar.png?raw=true"
+    },
+    {
+      "Canal": "History Channel",
+      "Estado": "Activo",
+      "Link": "http://190.7.19.197:232/play/a03h/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History.png?raw=true"
+    },
+    {
+      "Canal": "History 2",
+      "Estado": "Activo",
+      "Link": "http://190.7.19.197:232/play/a019/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History2.png?raw=true"
+    },
+    {
+      "Canal": "Investigation Discovery",
+      "Estado": "Activo",
+      "Link": "http://190.7.19.197:232/play/a083/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true"
+    },
+    {
+      "Canal": "National Geographic",
+      "Estado": "Activo",
+      "Link": "http://190.7.19.197:232/play/a03s/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Natgeo.png?raw=true"
     }
   ],
-  "UNIVERSAL": [
+  "MUSICA": [
     {
-      "Canal": "Universal Reality",
+      "Canal": "CM El Canal de la Música",
       "Estado": "Activo",
-      "Link": "https://enc2.firemedia.mx/hls/universalreality.m3u8?st=Q8dlRzVvEtVxioHq-_HUag&e=1783555217",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg"
+      "Link": "https://prepublish.f.qaotic.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cm-el-canal-de-la-musica-ar.png?raw=true"
     },
-        {
-      "Canal": "Universal Premiere",
+    {
+      "Canal": "MusicTop",
       "Estado": "Activo",
-      "Link": "https://enc4.firemedia.mx/hls/universalpremier.m3u8?st=AMT_rIFn7c_Ls06zXaDHzw&e=1783555937",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg"
+      "Link": "http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/08-MusicTop.png?raw=true"
     },
-        {
-      "Canal": "Universal Crime",
+    {
+      "Canal": "Quiero Música",
       "Estado": "Activo",
-      "Link": "https://enc3.firemedia.mx/hls/universalcrime.m3u8?st=I4UehpJ5zsh9-z3uyhKnrw&e=1783555937",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg"
+      "Link": "http://190.7.19.197:232/play/a04r/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/quiero-musica-en-mi-idioma-ar.png?raw=true"
     },
-        {
-      "Canal": "Universal Comedy",
+    {
+      "Canal": "BILLBOARD TV",
       "Estado": "Activo",
-      "Link": "https://enc2.firemedia.mx/hls/universalcomedy.m3u8?st=1yTq2gnOCfjB9QYvmwzQew&e=1783555937",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg"
+      "Link": "https://cdn.pontiscloud.com/output/SMT1/BLBD/output.mpd",
+      "Logo": "https://bbartest.com/wp-content/themes/billboard_2023/images/logo_ar_v2_blanco.png"
+    },
+    {
+      "Canal": "Stingray iConcerts",
+      "Estado": "Activo",
+      "Link": "http://181.224.255.210:8001/play/a0pu/index.m3u8?hls",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/stingray-iconcerts-es.png?raw=true"
+    },
+    {
+      "Canal": "Stingray Classic Rock",
+      "Estado": "Activo",
+      "Link": "https://lotus.stingray.com/manifest/ose-101ads-montreal/webapp/master.m3u8",
+      "Logo": "https://i.imgur.com/FBgu8yB.png"
+    },
+    {
+      "Canal": "Stingray Flashback 70s",
+      "Estado": "Activo",
+      "Link": "https://lotus.stingray.com/manifest/ose-115ads-montreal/webapp/master.m3u8",
+      "Logo": "https://i.imgur.com/jf5C9QF.png"
+    },
+    {
+      "Canal": "Stingray Hit List",
+      "Estado": "Activo",
+      "Link": "https://lotus.stingray.com/manifest/ose-107ads-montreal/webapp/master.m3u8",
+      "Logo": "https://i.imgur.com/lgpIwId.png"
+    },
+    {
+      "Canal": "Stingray Nothin But 90s",
+      "Estado": "Activo",
+      "Link": "https://lotus.stingray.com/manifest/ose-142ads-montreal/webapp/master.m3u8",
+      "Logo": "https://i.imgur.com/Tq3I0po.png"
+    },
+    {
+      "Canal": "Stingray Pop Adult",
+      "Estado": "Activo",
+      "Link": "https://lotus.stingray.com/manifest/ose-104ads-montreal/webapp/master.m3u8",
+      "Logo": "https://i.imgur.com/H2ugC9L.png"
+    },
+    {
+      "Canal": "Stingray Remember the 80s",
+      "Estado": "Activo",
+      "Link": "https://lotus.stingray.com/manifest/ose-128ads-montreal/webapp/master.m3u8",
+      "Logo": "https://i.imgur.com/duwc8E8.png"
+    },
+    {
+      "Canal": "Thats 70s",
+      "Estado": "Activo",
+      "Link": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/thats-70s-uk.png?raw=true"
+    },
+    {
+      "Canal": "Thats 80s",
+      "Estado": "Activo",
+      "Link": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/thats-80s-uk.png?raw=true"
+    },
+    {
+      "Canal": "Thats 90s00s",
+      "Estado": "Activo",
+      "Link": "https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8",
+      "Logo": "https://static.wikia.nocookie.net/logopedia/images/d/df/That%27s_90s00s_II.png/revision/latest/scale-to-width-down/250?cb=20260219165635"
+    },
+    {
+      "Canal": "Thats Rock",
+      "Estado": "Activo",
+      "Link": "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/thats-rock-uk.png?raw=true"
+    },
+    {
+      "Canal": "Vevo 2K",
+      "Estado": "Activo",
+      "Link": "https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-2k-vod.png?raw=true"
+    },
+    {
+      "Canal": "Vevo 70s",
+      "Estado": "Activo",
+      "Link": "https://amg00056-vevotv-vevo70saunz-samsungnz-lmeak.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-70s-vod.png?raw=true"
+    },
+    {
+      "Canal": "Vevo 80s",
+      "Estado": "Activo",
+      "Link": "https://amg00056-vevotv-vevo80saunz-samsungnz-96vhe.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-80s-vod.png?raw=true"
+    },
+    {
+      "Canal": "Vevo 90s",
+      "Estado": "Activo",
+      "Link": "https://amg00056-vevotv-vevo90saunz-samsungnz-mpus0.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-90s-vod.png?raw=true"
+    },
+    {
+      "Canal": "Vevo Latino",
+      "Estado": "Activo",
+      "Link": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-latino-vod.png?raw=true"
+    },
+    {
+      "Canal": "Vevo Retro Rock",
+      "Estado": "Activo",
+      "Link": "https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8",
+      "Logo": "https://i.imgur.com/H1Aap4E.png"
     }
-
+  ],
+  "COCINA": [
+    {
+      "Canal": "El Gourmet",
+      "Estado": "Activo",
+      "Link": "http://138.59.227.20:8000/play/a07u/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true"
+    }
+  ],
+  "AUTOMOVILISMO": [
+    {
+      "Canal": "Garage TV",
+      "Estado": "Activo",
+      "Link": "https://stream1.sersat.com/hls/garagetv.m3u8",
+      "Logo": "https://i.imgur.com/FqFxog1.png"
+    }
+  ],
+  "BRASIL": [
+    {
+      "Canal": "RecordTV",
+      "Estado": "Activo",
+      "Link": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+      "Logo": "https://i.imgur.com/sz9gTTr.png"
+    },
+    {
+      "Canal": "Rede Globo",
+      "Estado": "Activo",
+      "Link": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
+      "Logo": "https://static.wikia.nocookie.net/logopedia/images/9/99/Logotipo_da_Rede_Globo_%282015-2021%29.png/revision/latest?cb=20220108173408"
+    },
+    {
+      "Canal": "SBT",
+      "Estado": "Activo",
+      "Link": "http://iptv.vivatele.com:80/live/viva_padrao/viva2384/2.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/sbt-br.png?raw=true"
+    }
+  ],
+  "NOVELAS": [
+    {
+      "Canal": "TNT Novelas",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/3g734-9lf8i-cda6m-pm6a2_720p/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/06-TNTNovelas.png?raw=true"
+    }
+  ],
+  "SERIES": [
+    {
+      "Canal": "TNT Series",
+      "Estado": "Activo",
+      "Link": "https://joy.nx-pc.edge-apps.net/hls/o7hff-5j8a5-kfh7n-focci_720p/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNTSeries.png?raw=true"
+    }
+  ],
+  "24/7": [
+    {
+      "Canal": "ALF  Inglés",
+      "Estado": "Activo",
+      "Link": "http://latinostvhd.club:25461/8642755377/437ca16994/30507",
+      "Logo": "https://image.tmdb.org/t/p/original/hcbVe3vJ8dIe5MxSFYfYj7P9gYM.png"
+    },
+    {
+      "Canal": "Caso Cerrado",
+      "Estado": "Activo",
+      "Link": "https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8",
+      "Logo": "https://static.wikia.nocookie.net/logopedia/images/7/79/Caso_Cerrado_octubre_2018.png/revision/latest/scale-to-width-down/340?cb=20200816205635&path-prefix=es"
+    },
+    {
+      "Canal": "El chavo del 8",
+      "Estado": "Activo",
+      "Link": "https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.m3u8",
+      "Logo": "https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es"
+    },
+    {
+      "Canal": "Friends",
+      "Estado": "Activo",
+      "Link": "http://cdn-abc.xyz:2086/play/j72rdxfUW3_gUo9huYfloUZI6DMvu3LK4j1W7HVqYfw",
+      "Logo": "https://mystickermania.com/cdn/stickers/movies-and-series/friends-logo-512x512.png"
+    },
+    {
+      "Canal": "Friends   Inglés",
+      "Estado": "Activo",
+      "Link": "http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297133.m3u8",
+      "Logo": "https://mystickermania.com/cdn/stickers/movies-and-series/friends-logo-512x512.png"
+    },
+    {
+      "Canal": "Game of Thrones",
+      "Estado": "Activo",
+      "Link": "http://23.153.217.158:8080/998411519tv/pa9qnqi/281224",
+      "Logo": "https://static.wikia.nocookie.net/logopedia/images/b/b0/Game_of_Thrones_%28Stacked%29.svg/revision/latest?cb=20180324065358"
+    },
+    {
+      "Canal": "Happy Tree Friends",
+      "Estado": "Activo",
+      "Link": "http://23.153.217.158:8080/998411519tv/pa9qnqi/281226",
+      "Logo": "https://static.wikia.nocookie.net/logopedia/images/1/10/HTF_Tree_logo.png/revision/latest/scale-to-width-down/250?cb=20231021193938"
+    },
+    {
+      "Canal": "Malcolm in the middle",
+      "Estado": "Activo",
+      "Link": "http://23.153.217.158:8080/998411519tv/pa9qnqi/281253",
+      "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560"
+    },
+    {
+      "Canal": "Malcolm in the middle   Inglés",
+      "Estado": "Activo",
+      "Link": "http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297377.m3u8",
+      "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560"
+    },
+    {
+      "Canal": "Modern Family",
+      "Estado": "Activo",
+      "Link": "http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16167",
+      "Logo": "https://image.tmdb.org/t/p/original/wueq6jo7yBSTVNbslyogZHzgyJ5.png"
+    },
+    {
+      "Canal": "South Park",
+      "Estado": "Activo",
+      "Link": "http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16177",
+      "Logo": "https://pngimg.com/uploads/south_park/south_park_PNG41.png"
+    },
+    {
+      "Canal": "The big bang theory",
+      "Estado": "Activo",
+      "Link": "http://cdn-abc.xyz:2086/play/j72rdxfUW3_gUo9huYflob94NtFAoStHC-_w92fOklk",
+      "Logo": "https://image.tmdb.org/t/p/original/w4SDOkKPIQKQ1swVPqpsdqEybk2.png"
+    },
+    {
+      "Canal": "The big bang theory   Inglés",
+      "Estado": "Activo",
+      "Link": "http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297784.m3u8",
+      "Logo": "https://image.tmdb.org/t/p/original/w4SDOkKPIQKQ1swVPqpsdqEybk2.png"
+    },
+    {
+      "Canal": "The Office",
+      "Estado": "Activo",
+      "Link": "http://cdn-abc.xyz:2086/play/j72rdxfUW3_gUo9huYflofVa7Yv0wy343fJChwiFIK8",
+      "Logo": "https://image.tmdb.org/t/p/original/9h5aA5FhdKSkpLI0JvD4NsJZqIh.png"
+    },
+    {
+      "Canal": "The Simpsons",
+      "Estado": "Activo",
+      "Link": "https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/04-LosSimpsonsTV.png?raw=true"
+    },
+    {
+      "Canal": "Yo soy Betty la fea",
+      "Estado": "Activo",
+      "Link": "http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16128",
+      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/b55b8807ca03e0c2e01aac6710aa1ecf0c2039d973a61835907b7382301eb323.jpg"
+    }
+  ],
+  "NOVELAS BR": [
+    {
+      "Canal": "Globoplay Novelas",
+      "Estado": "Activo",
+      "Link": "http://79.127.238.228:14455",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/globoplay-novelas-br.png?raw=true"
+    }
+  ],
+  "WEBCAMS ARGENTINA": [
+    {
+      "Canal": "Cámara Botavara Pinamar",
+      "Estado": "Activo",
+      "Link": "https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunklist_w555467229_b1344100_sleng.m3u8",
+      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
+    },
+    {
+      "Canal": "Cámara Bunge y El Mar Domo Pinamar",
+      "Estado": "Activo",
+      "Link": "https://wowza.telpin.com.ar:1935/camara-bypdomo/smil:camara-bypdomo.smil/chunklist_w1262995065_b1344100_sleng.m3u8",
+      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
+    },
+    {
+      "Canal": "Cámara Bunge y Libertador Pinamar",
+      "Estado": "Activo",
+      "Link": "https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8",
+      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
+    },
+    {
+      "Canal": "Cámara Las Leñas",
+      "Estado": "Activo",
+      "Link": "https://tv.streamcasthd.com:3895/live/laslenaslive.m3u8",
+      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
+    },
+    {
+      "Canal": "Cámara Villa Gesell Av. 3 y 104",
+      "Estado": "Activo",
+      "Link": "http://cam104y3.gesell.com.ar/playlist.m3u8",
+      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
+    },
+    {
+      "Canal": "Cámara Villa Gesell La Pinocha",
+      "Estado": "Activo",
+      "Link": "http://camlapinocha.gesell.com.ar/playlist.m3u8",
+      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
+    },
+    {
+      "Canal": "Cámara Villa Gesell Buenos Aires y Playa",
+      "Estado": "Activo",
+      "Link": "http://cambsasyplaya.gesell.com.ar/playlist.m3u8",
+      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
+    },
+    {
+      "Canal": "Cámara Villa Gesell 112 Y PLAYA",
+      "Estado": "Activo",
+      "Link": "https://cam112yplaya.gesell.com.ar/playlist.m3u8",
+      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
+    },
+    {
+      "Canal": "Cámara Villa Gesell FARO QUERANDI",
+      "Estado": "Activo",
+      "Link": "https://camfaro.gesell.com.ar/playlist.m3u8",
+      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
+    },
+    {
+      "Canal": "Cámara Villa Gesell MUELLE",
+      "Estado": "Activo",
+      "Link": "https://cammuelle.gesell.com.ar/playlist.m3u8",
+      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
+    }
+  ],
+  "WEBCAMS BRASIL": [
+    {
+      "Canal": "Cámara Loro Gastrobar SP",
+      "Estado": "Activo",
+      "Link": "https://video02.logicahost.com.br/curral/curral/playlist.m3u8",
+      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
+    }
   ]
 }
