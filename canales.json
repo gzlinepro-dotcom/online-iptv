@@ -168,6 +168,12 @@
     "Link": "https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_1080p5Mb.m3u8",
     "Logo": "https://e-tg.americatv.com.pe/tvgo-900x600-405039.jpg"
   },
+            {
+    "Canal": "ATV",
+    "Estado": "Activo",
+    "Link": "https://live-evg17.tv360.bitel.com.pe/netcdn-live-3/bitel/Atv-UDP_abr/bitel/ATV-udp_720p/chunks.m3u8",
+    "Logo": ""
+  },
   {
     "Canal": "TELEMUNDO HD",
     "Estado": "Activo",
