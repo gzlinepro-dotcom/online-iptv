@@ -15,7 +15,7 @@
     {
       "Canal": "ESPN 3",
       "Estado": "Activo",
-      "Link": "https://stream-xhd.com/live1.php?stream=espn3",
+      "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20021",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png"
     },
     {
