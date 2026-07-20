@@ -1,9 +1,9 @@
 {
   "DEPORTES": [
     {
-      "Canal": "ESPN10",
+      "Canal": "ESPN100",
       "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a009/index.m3u8",
+      "Link": "http://138.59.227.20:8000/play/a099/index.m3u8",
       "Logo": "https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo-768x461.png"
     },
     {
