@@ -1,7 +1,7 @@
 {
   "DEPORTES": [
     {
-      "Canal": "ESPN100",
+      "Canal": "ESPN",
       "Estado": "Activo",
       "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20018",
       "Logo": "https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo-768x461.png"
@@ -45,7 +45,7 @@
     {
       "Canal": "DSports",
       "Estado": "Activo",
-      "Link": "https://stream-xhd.com/live1.php?stream=dsports",
+      "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20006",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png"
     },
     {
@@ -99,7 +99,7 @@
     {
       "Canal": "TyC Sports",
       "Estado": "Activo",
-      "Link": "https://stream-xhd.com/live1.php?stream=tycsports",
+      "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20017",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png"
     },
     {
