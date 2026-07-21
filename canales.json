@@ -27,19 +27,19 @@
     {
       "Canal": "ESPN 5",
       "Estado": "Activo",
-      "Link": "https://stream-xhd.com/live1.php?stream=espn5",
+      "Link": "http://46.151.196.223:14456",
       "Logo": "https://i.imgur.com/MOE4Icd.png"
     },
     {
       "Canal": "ESPN 6",
       "Estado": "Activo",
-      "Link": "https://stream-xhd.com/live1.php?stream=espn6",
+      "Link": "http://181.224.255.210:8001/play/a0eq/index.m3u8",
       "Logo": "https://i.imgur.com/UU3wrR0.png"
     },
     {
       "Canal": "ESPN 7",
       "Estado": "Activo",
-      "Link": "https://stream-xhd.com/live1.php?stream=espn7",
+      "Link": "http://181.224.200.5:2277/play/a02l/index.m3u8",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png"
     },
     {
@@ -87,13 +87,13 @@
     {
       "Canal": "TNT Sports",
       "Estado": "Activo",
-      "Link": "https://stream-xhd.com/live1.php?stream=tntsports",
+      "Link": "http://138.59.227.20:8000/play/a06z/index.m3u8",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/3840px-TNT_Sports_Logo.svg.png"
     },
     {
       "Canal": "ESPN Premium",
       "Estado": "Activo",
-      "Link": "https://stream-xhd.com/live1.php?stream=espnpremium",
+      "Link": "http://190.7.19.197:232/play/a038/index.m3u8",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"
     },
     {
@@ -105,7 +105,7 @@
     {
       "Canal": "Telefe",
       "Estado": "Activo",
-      "Link": "https://stream-xhd.com/live1.php?stream=telefe",
+      "Link": "http://190.7.19.197:232/play/a059/index.m3u8",
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"
     },
     {
@@ -181,11 +181,11 @@
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"
     }
   ],
-  "GENERAL": [
+  "ENTRETENIMIENTO": [
     {
-      "Canal": "A&E",
+      "Canal": "WARNER CHANNEL",
       "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a00c/index.m3u8",
+      "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20006",
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a-and-e-ar.png?raw=true"
     },
     {
@@ -267,48 +267,42 @@
       "Logo": "https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/05-Warner.png?raw=true"
     }
   ],
-  "NOTICIAS": [
+  "HBO": [
     {
-      "Canal": "A24",
+      "Canal": "HBO",
       "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih_720p/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true"
+      "Link": "http://190.108.83.69:8000/play/a035/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png"
     },
     {
-      "Canal": "C5N",
+      "Canal": "HBO2",
       "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i_720p/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-C5N.png?raw=true"
+      "Link": "http://45.5.117.99:8000/play/a00c/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png"
     },
     {
-      "Canal": "Canal 26",
+      "Canal": "HBO FAMILY",
       "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/l4bk3-m0kk9-e914k-dm053_720p/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-Canal26.png?raw=true"
+      "Link": "http://45.181.122.46:8090/play/a017",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png"
     },
     {
-      "Canal": "Crónica TV",
+      "Canal": "HBO PLUS",
       "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/50l1p-9en4e-g05p7-n6588_720p/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cronica-hd-ar.png?raw=true"
+      "Link": "http://45.5.116.228:8000/play/a0l4",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-plus-ar.png"
     },
     {
-      "Canal": "GloboNews",
+      "Canal": "HBO POP",
       "Estado": "Activo",
-      "Link": "http://143.14.178.40:7777/GloboNews_HD/index.m3u8",
+      "Link": "http://191.97.14.162:8000/play/a017/index.m3u8",
       "Logo": "https://i.imgur.com/3yZyaCm.png"
     },
     {
-      "Canal": "LN+",
+      "Canal": "HBO SIGNATURE",
       "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b_720p/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/la-nacion-mas-ar.png?raw=true"
-    },
-    {
-      "Canal": "TN",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f_720p/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true"
+      "Link": "http://38.194.226.190:8000/play/a028/index.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-signature-ar.png"
     }
   ],
   "INFANTIL": [
@@ -321,112 +315,59 @@
     {
       "Canal": "Tooncast",
       "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf_720p/index.m3u8",
+      "Link": "http://190.7.19.197:232/play/a01w/index.m3u8",
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tooncast-ar.png?raw=true"
     }
   ],
   "CINE": [
-    {
-      "Canal": "AMC",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/bi2ih-e4ike-kb3hi-4fhf5_720p/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/amc-ar.png?raw=true"
-    },
-    {
-      "Canal": "CineCanal",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/6bhnd-ee8d5-hegm2-b6l5e_720p/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-Cinecanal.png?raw=true"
-    },
-    {
-      "Canal": "Cinemax",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j_720p/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/cinemax-br.png?raw=true"
-    },
-    {
-      "Canal": "FX",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310_720p/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-FX.png?raw=true"
-    },
-    {
-      "Canal": "HBO",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih_720p/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true"
-    },
-    {
-      "Canal": "HBO 2",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b_720p/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true"
-    },
-    {
-      "Canal": "HBO Family",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh_720p/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png?raw=true"
-    },
-    {
-      "Canal": "HBO Mundi",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/c5o8j-78n4c-apc1g-j3ph5_720p/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-mundi-ar.png?raw=true"
-    },
-    {
-      "Canal": "HBO +",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9_720p/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-plus-ar.png?raw=true"
-    },
-    {
-      "Canal": "HBO POP",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/le3g2-kjc00-e7d3p-m3aoc_720p/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-pop-ar.png?raw=true"
-    },
-    {
-      "Canal": "HBO Signature",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4_720p/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-signature-ar.png?raw=true"
-    },
-    {
-      "Canal": "HBO Xtreme",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/5o27b-5alop-lcagn-834c8_720p/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-xtreme-ar.png?raw=true"
-    },
+
     {
       "Canal": "Sony Channel",
       "Estado": "Activo",
-      "Link": "https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8",
+      "Link": "http://190.7.19.197:232/play/a01g/index.m3u8",
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/sony-channel-ar.png?raw=true"
     },
     {
       "Canal": "Sony Movies",
       "Estado": "Activo",
-      "Link": "https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8",
+      "Link": "http://138.59.227.20:8000/play/a09j/index.m3u8",
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movies-us.png?raw=true"
     },
     {
       "Canal": "Space",
       "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4_720p/index.m3u8",
+      "Link": "http://190.7.19.197:232/play/a050/index.m3u8",
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/space-ar.png?raw=true"
     },
     {
-      "Canal": "SyFy",
+      "Canal": "STAR CHANNEL",
       "Estado": "Activo",
-      "Link": "http://23.237.104.106:8080/USA_SYFY/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true"
+      "Link": "http://190.7.19.197:232/play/a05w/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StarChannel.png"
     },
     {
+      "Canal": "STUDIO UNIVERSAL",
+      "Estado": "Activo",
+      "Link": "http://190.7.19.197:232/play/a049/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StudioUniversal.png"
+    },
+        {
       "Canal": "TNT",
       "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n_720p/index.m3u8",
+      "Link": "http://190.7.19.197:232/play/a060/index.m3u8",
       "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true"
+    },
+           {
+      "Canal": "TNT NOVELAS",
+      "Estado": "Activo",
+      "Link": "http://138.59.227.20:8000/play/a08e/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/06-TNTNovelas.png?raw=true"
+    },
+               {
+      "Canal": "TNT SERIES",
+      "Estado": "Activo",
+      "Link": "http://190.7.19.197:232/play/a088/index.m3u8",
+      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNTSeries.png?raw=true"
     },
     {
       "Canal": "Universal Cinema",
@@ -443,15 +384,10 @@
     {
       "Canal": "Universal Crime",
       "Estado": "Activo",
-      "Link": "http://45.5.119.43:4000/play/a0i4/index.m3u8",
+      "Link": "http://177.10.184.193:8000/play/a09w/index.m3u8",
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-crime-lam.png?raw=true"
     },
-    {
-      "Canal": "Universal Premiere",
-      "Estado": "Activo",
-      "Link": "http://45.5.119.43:4000/play/a0i2/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-premiere-lam.png?raw=true"
-    },
+
     {
       "Canal": "Universal TV",
       "Estado": "Activo",
@@ -459,16 +395,10 @@
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/universal-tv-ar.png?raw=true"
     },
     {
-      "Canal": "Universal",
+      "Canal": "USA NETWORK",
       "Estado": "Activo",
-      "Link": "http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-universalchannel.playlist.m3u8",
+      "Link": "http://latinostvhd.club:25461/8642755377/437ca16994/45977",
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/universal-tv-ar.png?raw=true"
-    },
-    {
-      "Canal": "USA Network",
-      "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a04a/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/usa-network-lam.png?raw=true"
     }
   ],
   "ARGENTINA": [
@@ -739,42 +669,7 @@
       "Logo": "https://i.imgur.com/FqFxog1.png"
     }
   ],
-  "BRASIL": [
-    {
-      "Canal": "RecordTV",
-      "Estado": "Activo",
-      "Link": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
-      "Logo": "https://i.imgur.com/sz9gTTr.png"
-    },
-    {
-      "Canal": "Rede Globo",
-      "Estado": "Activo",
-      "Link": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
-      "Logo": "https://static.wikia.nocookie.net/logopedia/images/9/99/Logotipo_da_Rede_Globo_%282015-2021%29.png/revision/latest?cb=20220108173408"
-    },
-    {
-      "Canal": "SBT",
-      "Estado": "Activo",
-      "Link": "http://iptv.vivatele.com:80/live/viva_padrao/viva2384/2.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/sbt-br.png?raw=true"
-    }
-  ],
-  "NOVELAS": [
-    {
-      "Canal": "TNT Novelas",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/3g734-9lf8i-cda6m-pm6a2_720p/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/06-TNTNovelas.png?raw=true"
-    }
-  ],
-  "SERIES": [
-    {
-      "Canal": "TNT Series",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/o7hff-5j8a5-kfh7n-focci_720p/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNTSeries.png?raw=true"
-    }
-  ],
+
   "24/7": [
     {
       "Canal": "ALF  Inglés",
@@ -873,76 +768,7 @@
       "Logo": "https://m.media-amazon.com/images/S/pv-target-images/b55b8807ca03e0c2e01aac6710aa1ecf0c2039d973a61835907b7382301eb323.jpg"
     }
   ],
-  "NOVELAS BR": [
-    {
-      "Canal": "Globoplay Novelas",
-      "Estado": "Activo",
-      "Link": "http://79.127.238.228:14455",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/globoplay-novelas-br.png?raw=true"
-    }
-  ],
-  "WEBCAMS ARGENTINA": [
-    {
-      "Canal": "Cámara Botavara Pinamar",
-      "Estado": "Activo",
-      "Link": "https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunklist_w555467229_b1344100_sleng.m3u8",
-      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
-    },
-    {
-      "Canal": "Cámara Bunge y El Mar Domo Pinamar",
-      "Estado": "Activo",
-      "Link": "https://wowza.telpin.com.ar:1935/camara-bypdomo/smil:camara-bypdomo.smil/chunklist_w1262995065_b1344100_sleng.m3u8",
-      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
-    },
-    {
-      "Canal": "Cámara Bunge y Libertador Pinamar",
-      "Estado": "Activo",
-      "Link": "https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8",
-      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
-    },
-    {
-      "Canal": "Cámara Las Leñas",
-      "Estado": "Activo",
-      "Link": "https://tv.streamcasthd.com:3895/live/laslenaslive.m3u8",
-      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
-    },
-    {
-      "Canal": "Cámara Villa Gesell Av. 3 y 104",
-      "Estado": "Activo",
-      "Link": "http://cam104y3.gesell.com.ar/playlist.m3u8",
-      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
-    },
-    {
-      "Canal": "Cámara Villa Gesell La Pinocha",
-      "Estado": "Activo",
-      "Link": "http://camlapinocha.gesell.com.ar/playlist.m3u8",
-      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
-    },
-    {
-      "Canal": "Cámara Villa Gesell Buenos Aires y Playa",
-      "Estado": "Activo",
-      "Link": "http://cambsasyplaya.gesell.com.ar/playlist.m3u8",
-      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
-    },
-    {
-      "Canal": "Cámara Villa Gesell 112 Y PLAYA",
-      "Estado": "Activo",
-      "Link": "https://cam112yplaya.gesell.com.ar/playlist.m3u8",
-      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
-    },
-    {
-      "Canal": "Cámara Villa Gesell FARO QUERANDI",
-      "Estado": "Activo",
-      "Link": "https://camfaro.gesell.com.ar/playlist.m3u8",
-      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
-    },
-    {
-      "Canal": "Cámara Villa Gesell MUELLE",
-      "Estado": "Activo",
-      "Link": "https://cammuelle.gesell.com.ar/playlist.m3u8",
-      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
-    }
-  ],
+
   "WEBCAMS BRASIL": [
     {
       "Canal": "Cámara Loro Gastrobar SP",
