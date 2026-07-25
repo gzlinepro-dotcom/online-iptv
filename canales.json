@@ -313,9 +313,33 @@
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true"
     },
         {
-      "Canal": "CANAL N",
+      "Canal": "EXITOSA TV",
       "Estado": "Activo",
-      "Link": "http://8.243.126.131:8000/play/a058/42444795.m3u8",
+      "Link": "http://187.102.210.46/EXITOSA/tracks-v1a1/mono.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true"
+    },
+            {
+      "Canal": "LATINA DEPORTES",
+      "Estado": "Activo",
+      "Link": "https://dai.google.com/linear/hls/pa/event/oYQGDqEGTmGdHE_fz9oLlg/stream/8bd893db-6cab-4ada-86a2-a9c51d2cb24c:CBF2/master.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true"
+    },
+            {
+      "Canal": "LATINA CLASICAS",
+      "Estado": "Activo",
+      "Link": "http://45.171.108.253:8888/LATINA/tracks-v1a1/mono.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true"
+    },
+            {
+      "Canal": "PANAMERICANA",
+      "Estado": "Activo",
+      "Link": "http://45.171.108.253:8888/PANAMERICANA/tracks-v1a1/mono.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true"
+    },
+            {
+      "Canal": "AMERICA TV GO",
+      "Estado": "Activo",
+      "Link": "https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_1080p5Mb.m3u8",
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true"
     },
     {
