@@ -219,18 +219,6 @@
       "Logo": "https://static.wikia.nocookie.net/logopedia/images/9/98/FXX_%28Yellow%29.svg/revision/latest/scale-to-width-down/250?cb=20200423152548"
     },
     {
-      "Canal": "WILLAX",
-      "Estado": "Activo",
-      "Link": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(4jIFESy5TmK9t5VXo8A_p70apQpoOWpGlBdjwEOmGk0yIp5xjlaQTjyfEM_lWGd-FX_GWgv6HpJYyKccTKev-MWyhs81evLAgB-y1nEJKq2le6Ac0abATtc62cUuAH3a)/cloud/3/xa63dow/s/live-1080.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hola-tv-ar.png?raw=true"
-    },
-    {
-      "Canal": "ATVVVV",
-      "Estado": "Activo",
-      "Link": "https://d2b5h5wyivfnfl.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/multishow-br.png?raw=true"
-    },
-    {
       "Canal": "MTV",
       "Estado": "Activo",
       "Link": "http://190.7.19.197:232/play/a04q/index.m3u8",
@@ -305,11 +293,29 @@
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-signature-ar.png"
     }
   ],
-  "INFANTIL": [
+  "PERÚ": [
     {
-      "Canal": "Adult Swim",
+      "Canal": "ATV",
       "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a01s/index.m3u8",
+      "Link": "https://d19e55ehz2il4i.cloudfront.net/medialist_15609871089997455276_hls.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true"
+    },
+        {
+      "Canal": "ATV +",
+      "Estado": "Activo",
+      "Link": "http://popup.play4you.top/pts5udmn95et",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true"
+    },
+        {
+      "Canal": "IPE",
+      "Estado": "Activo",
+      "Link": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true"
+    },
+        {
+      "Canal": "CANAL N",
+      "Estado": "Activo",
+      "Link": "http://8.243.126.131:8000/play/a058/42444795.m3u8",
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true"
     },
     {
