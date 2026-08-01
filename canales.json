@@ -14,20 +14,20 @@
       "Link": "https://tv360.bitel.com.pe/tv/america-tv?ch=322&c=0",
       "Logo": "https://i.ibb.co/d4JdCjVF/logo-optimizado.webp"
     },
-
-            {
-      "Canal": "LATINA DEPORTES",
-      "Estado": "Activo",
-      "Link": "https://jireh-7-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true"
-    },
                 {
       "Canal": "LATINA",
       "Estado": "Activo",
       "Link": "https://jireh-8-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8",
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true"
     },
+         
             {
+      "Canal": "LATINA DEPORTES",
+      "Estado": "Activo",
+      "Link": "https://jireh-7-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8",
+      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true"
+    },
+   {
       "Canal": "LATINA CLASICAS",
       "Estado": "Activo",
       "Link": "http://45.171.108.253:8888/LATINA/tracks-v1a1/mono.m3u8",
@@ -45,6 +45,18 @@
       "Estado": "Activo",
       "Link": "http://179.60.51.134:8888/ATV/tracks-v1a1/mono.m3u8",
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true"
+    },
+            {
+      "Canal": "WILLAX",
+      "Estado": "Activo",
+      "Link": "https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8",
+      "Logo": "https://i.ibb.co/fGS0mBVV/logo-optimizado.webp"
+    },
+                {
+      "Canal": "WILLAX 2",
+      "Estado": "Activo",
+      "Link": "http://187.102.210.46/WILLAX/tracks-v1a1/mono.m3u8",
+      "Logo": "https://i.ibb.co/fGS0mBVV/logo-optimizado.webp"
     },
         {
       "Canal": "IPE",
