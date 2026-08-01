@@ -75,10 +75,10 @@
 
   "DEPORTES": [
     {
-      "Canal": "ESPN",
+      "Canal": "ESPN1",
       "Estado": "Activo",
       "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20018",
-      "Logo": "https://i.ibb.co/BHJyT0XP/blob.png"
+      "Logo": "https://i.ibb.co/k6mQXx9T/logo-optimizado.webp"
     },
     {
       "Canal": "ESPN 2",
