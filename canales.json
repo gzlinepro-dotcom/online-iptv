@@ -59,7 +59,12 @@
       "Link": "https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8",
       "Logo": "https://i.ibb.co/Fbb1fTC8/logo-optimizado.webp"
     },
-
+        {
+      "Canal": "PLANETA SALVAJE",
+      "Estado": "Activo",
+      "Link": "https://live-evg10.tv360.bitel.com.pe/bitel/planetasalSRT/chunks.m3u8",
+      "Logo": "https://i.ibb.co/bYbQxCY/logo-optimizado.webp"
+    },
         {
       "Canal": "IPE",
       "Estado": "Activo",
