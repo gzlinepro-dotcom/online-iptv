@@ -19,13 +19,13 @@
       "Canal": "LATINA DEPORTES",
       "Estado": "Activo",
       "Link": "https://jireh-7-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8",
-      "Logo": "https://i.ibb.co/cKXtb8vZ/logo-optimizado.webp"
+      "Logo": "https://i.ibb.co/gZDLFV19/logo-renderizado.webp"
     },
    {
-      "Canal": "LATINA CLASICAS",
+      "Canal": "LATINA CLASICOS",
       "Estado": "Activo",
       "Link": "http://45.171.108.253:8888/LATINA/tracks-v1a1/mono.m3u8",
-      "Logo": "https://i.ibb.co/ks3PVpXr/logo-optimizado.webp"
+      "Logo": "https://i.ibb.co/9H7g0qJ9/logo-renderizado.webp"
     },
 
     {
@@ -45,7 +45,7 @@
       "Canal": "PANAMERICANA",
       "Estado": "Activo",
       "Link": "http://45.171.108.253:8888/PANAMERICANA/tracks-v1a1/mono.m3u8",
-      "Logo": "https://i.ibb.co/PZ6SMvCf/logo-optimizado.webp"
+      "Logo": "https://i.ibb.co/CKfZNKZ1/logo-renderizado.webp"
     },
                     {
       "Canal": "WILLAX",
@@ -57,7 +57,50 @@
       "Canal": "PBO",
       "Estado": "Activo",
       "Link": "https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8",
-      "Logo": "https://i.ibb.co/Fbb1fTC8/logo-optimizado.webp"
+      "Logo": "https://i.ibb.co/S4fPypLz/logo-renderizado.webp"
+    },
+                {
+      "Canal": "RPP",
+      "Estado": "Activo",
+      "Link": "https://es2-p2-netcdn.bitel.com.pe/netcdn-live-7/bitel/rpp_abr/bitel/rpp-UDP_1080p/chunks.m3u8",
+      "Logo": "https://i.ibb.co/rRbSZXWL/logo-renderizado.webp"
+    },
+
+            {
+      "Canal": "BICOLOR+",
+      "Estado": "Activo",
+      "Link": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorSRT/chunks.m3u8",
+      "Logo": "https://i.ibb.co/d095GKQJ/logo-optimizado.webp"
+    },
+                {
+      "Canal": "FMH MOVIES",
+      "Estado": "Activo",
+      "Link": "https://es4-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8",
+      "Logo": "https://i.ibb.co/60Pzp72T/logo-renderizado.webp"
+    },
+                {
+      "Canal": "FMH KIDS",
+      "Estado": "Activo",
+      "Link": "https://es5-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8",
+      "Logo": "https://i.ibb.co/VWF6xHsN/logo-renderizado.webp"
+    },
+                {
+      "Canal": "CREO LATINO TU CINE",
+      "Estado": "Activo",
+      "Link": "https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8",
+      "Logo": "https://i.ibb.co/WN6F9PVJ/logo-renderizado.webp"
+    },
+                {
+      "Canal": "CREO KIDS",
+      "Estado": "Activo",
+      "Link": "https://es1-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/CreoKidsSRT/chunks.m3u8",
+      "Logo": "https://i.ibb.co/zTsXxHC3/logo-renderizado.webp"
+    },
+                    {
+      "Canal": "ANIMA KIDS",
+      "Estado": "Activo",
+      "Link": "https://live-evg8.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8",
+      "Logo": "https://i.ibb.co/Q7C2RfvW/logo-renderizado.webp"
     },
         {
       "Canal": "PLANETA SALVAJE",
@@ -65,11 +108,23 @@
       "Link": "https://live-evg10.tv360.bitel.com.pe/bitel/planetasalSRT/chunks.m3u8",
       "Logo": "https://i.ibb.co/bYbQxCY/logo-optimizado.webp"
     },
+            {
+      "Canal": "PLANETA HISTORIA",
+      "Estado": "Activo",
+      "Link": "https://live-evg10.tv360.bitel.com.pe/bitel/planetahisSRT/chunks.m3u8",
+      "Logo": "https://i.ibb.co/zTrJXk2F/logo-renderizado.webp"
+    },
         {
       "Canal": "IPE",
       "Estado": "Activo",
       "Link": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8",
       "Logo": "https://i.ibb.co/d095GKQJ/logo-optimizado.webp"
+    },
+                    {
+      "Canal": "RUMBO MINERO",
+      "Estado": "Activo",
+      "Link": "https://live-evg8.tv360.bitel.com.pe/bitel/minero/chunks.m3u8",
+      "Logo": "https://i.ibb.co/CKwhNM4Q/logo-renderizado.webp"
     },
 
     {
@@ -110,13 +165,13 @@
       "Canal": "ESPN 5",
       "Estado": "Activo",
       "Link": "https://stream-xhd.com/live1.php?stream=espn5",
-      "Logo": "https://i.imgur.com/MOE4Icd.png"
+      "Logo": "https://i.ibb.co/0jq8fRpK/logo-renderizado.webp"
     },
     {
       "Canal": "ESPN 6",
       "Estado": "Activo",
       "Link": "https://stream-xhd.com/live1.php?stream=espn6",
-      "Logo": "https://i.imgur.com/UU3wrR0.png"
+      "Logo": "https://i.ibb.co/6cxq5kSL/logo-renderizado.webp"
     },
     {
       "Canal": "ESPN 7",
@@ -188,19 +243,19 @@
       "Canal": "Telefe",
       "Estado": "Activo",
       "Link": "http://190.7.19.197:232/play/a059/index.m3u8",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"
+      "Logo": "https://i.ibb.co/yBQ92Fzf/logo-renderizado.webp"
     },
     {
       "Canal": "Liga1 MAX",
       "Estado": "Activo",
       "Link": "https://stream-xhd.com/live1.php?stream=liga1max",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/3840px-L1MAX-LOGO.svg.png"
+      "Logo": "https://i.ibb.co/svfxk8sf/logo-renderizado.webp"
     },
     {
       "Canal": "Movistar Deportes",
       "Estado": "Activo",
       "Link": "https://stream-xhd.com/live1.php?stream=movistar_deportes_peru",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/960px-Movistar_Deportes.svg.png"
+      "Logo": "https://i.ibb.co/vx7q9N5d/logo-renderizado.webp"
     },
     {
       "Canal": "Win Sports plus",
@@ -242,7 +297,7 @@
       "Canal": "Sportv 2",
       "Estado": "Activo",
       "Link": "https://stream-xhd.com/live1.php?stream=sporttvbr2",
-      "Logo": "https://images.seeklogo.com/logo-png/50/3/sport-tv2-2023-logo-png_seeklogo-504105.png"
+      "Logo": "https://i.ibb.co/RTG5r10q/logo-renderizado.webp"
     },
     {
       "Canal": "TELEMUNDO HD",
@@ -257,24 +312,7 @@
 
 
   "ENTRETENIMIENTO": [
-    {
-      "Canal": "WARNER CHANNEL",
-      "Estado": "Activo",
-      "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20006",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a-and-e-ar.png?raw=true"
-    },
-    {
-      "Canal": "AXN",
-      "Estado": "Activo",
-      "Link": "http://143.14.178.40:7777/AXN_HD/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/axn-ar.png?raw=true"
-    },
-    {
-      "Canal": "Bravo TV",
-      "Estado": "Activo",
-      "Link": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8",
-      "Logo": "https://mediakit.perfil.com/img/logo-bravo-tv.png"
-    },
+
     {
       "Canal": "Caras TV",
       "Estado": "Activo",
@@ -285,7 +323,7 @@
       "Canal": "Comedy Central",
       "Estado": "Activo",
       "Link": "http://190.7.19.197:232/play/a01d/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true"
+      "Logo": "https://i.ibb.co/ycWL11kg/logo-renderizado.webp"
     },
     {
       "Canal": "FXX",
@@ -298,36 +336,6 @@
       "Estado": "Activo",
       "Link": "http://190.7.19.197:232/play/a04q/index.m3u8",
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/mtv-ar.png?raw=true"
-    },
-    {
-      "Canal": "Star Channel",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf_720p/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StarChannel.png?raw=true"
-    },
-    {
-      "Canal": "Studio Universal",
-      "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a049/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StudioUniversal.png?raw=true"
-    },
-    {
-      "Canal": "TBS",
-      "Estado": "Activo",
-      "Link": "http://41.205.93.154/TBS/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true"
-    },
-    {
-      "Canal": "VH1",
-      "Estado": "Activo",
-      "Link": "http://23.237.104.106:8080/USA_VH1/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true"
-    },
-    {
-      "Canal": "Warner Channel",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a_720p/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/05-Warner.png?raw=true"
     }
   ],
   "HBO": [
@@ -335,19 +343,19 @@
       "Canal": "HBO",
       "Estado": "Activo",
       "Link": "http://190.108.83.69:8000/play/a035/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png"
+      "Logo": "https://i.ibb.co/6cGkqn2B/logo-renderizado.webp"
     },
     {
       "Canal": "HBO2",
       "Estado": "Activo",
       "Link": "http://45.5.117.99:8000/play/a00c/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png"
+      "Logo": "https://i.ibb.co/Y7HW2tJB/logo-renderizado.webp"
     },
     {
       "Canal": "HBO FAMILY",
       "Estado": "Activo",
       "Link": "http://45.181.122.46:8090/play/a017",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png"
+      "Logo": "https://i.ibb.co/KcJzbGJ2/logo-renderizado.webp"
     },
     {
       "Canal": "HBO PLUS",
