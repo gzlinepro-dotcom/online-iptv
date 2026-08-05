@@ -62,58 +62,23 @@
                 {
       "Canal": "RPP",
       "Estado": "Activo",
-      "Link": "https://es2-p2-netcdn.bitel.com.pe/netcdn-live-7/bitel/rpp_abr/bitel/rpp-UDP_1080p/chunks.m3u8",
+      "Link": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/chunks.m3u8",
       "Logo": "https://i.ibb.co/rRbSZXWL/logo-renderizado.webp"
     },
-
             {
       "Canal": "BICOLOR+",
       "Estado": "Activo",
       "Link": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorSRT/chunks.m3u8",
       "Logo": "https://i.ibb.co/d095GKQJ/logo-optimizado.webp"
     },
-                {
-      "Canal": "FMH MOVIES",
-      "Estado": "Activo",
-      "Link": "https://es4-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8",
-      "Logo": "https://i.ibb.co/60Pzp72T/logo-renderizado.webp"
-    },
-                {
-      "Canal": "FMH KIDS",
-      "Estado": "Activo",
-      "Link": "https://es5-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8",
-      "Logo": "https://i.ibb.co/VWF6xHsN/logo-renderizado.webp"
-    },
+
                 {
       "Canal": "CREO LATINO TU CINE",
       "Estado": "Activo",
       "Link": "https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8",
       "Logo": "https://i.ibb.co/WN6F9PVJ/logo-renderizado.webp"
     },
-                {
-      "Canal": "CREO KIDS",
-      "Estado": "Activo",
-      "Link": "https://es1-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/CreoKidsSRT/chunks.m3u8",
-      "Logo": "https://i.ibb.co/zTsXxHC3/logo-renderizado.webp"
-    },
-                    {
-      "Canal": "ANIMA KIDS",
-      "Estado": "Activo",
-      "Link": "https://live-evg8.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8",
-      "Logo": "https://i.ibb.co/Q7C2RfvW/logo-renderizado.webp"
-    },
-        {
-      "Canal": "PLANETA SALVAJE",
-      "Estado": "Activo",
-      "Link": "https://live-evg10.tv360.bitel.com.pe/bitel/planetasalSRT/chunks.m3u8",
-      "Logo": "https://i.ibb.co/bYbQxCY/logo-optimizado.webp"
-    },
-            {
-      "Canal": "PLANETA HISTORIA",
-      "Estado": "Activo",
-      "Link": "https://live-evg10.tv360.bitel.com.pe/bitel/planetahisSRT/chunks.m3u8",
-      "Logo": "https://i.ibb.co/zTrJXk2F/logo-renderizado.webp"
-    },
+
         {
       "Canal": "IPE",
       "Estado": "Activo",
@@ -147,19 +112,19 @@
       "Canal": "ESPN 2",
       "Estado": "Activo",
       "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20019",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
+      "Logo": "https://i.ibb.co/XkjCg6Jw/logo-renderizado.webp"
     },
     {
       "Canal": "ESPN 3",
       "Estado": "Activo",
       "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20020",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png"
+      "Logo": "https://i.ibb.co/XZLct5Th/logo-renderizado.webp"
     },
     {
       "Canal": "ESPN 4",
       "Estado": "Activo",
       "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20021",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/3840px-ESPN_4_logo.svg.png"
+      "Logo": "https://i.ibb.co/VYPYmDPx/logo-renderizado.webp"
     },
     {
       "Canal": "ESPN 5",
@@ -177,67 +142,67 @@
       "Canal": "ESPN 7",
       "Estado": "Activo",
       "Link": "https://stream-xhd.com/live1.php?stream=espn7",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png"
+      "Logo": "https://i.ibb.co/j9nNSW5J/logo-renderizado.webp"
     },
     {
       "Canal": "DSports",
       "Estado": "Activo",
       "Link": "https://stream-xhd.com/live1.php?stream=dsports",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png"
+      "Logo": "https://i.ibb.co/WhvFMgJ/logo-renderizado.webp"
     },
     {
       "Canal": "DSports 2",
       "Estado": "Activo",
       "Link": "https://stream-xhd.com/live1.php?stream=dsports2",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png"
+      "Logo": "https://i.ibb.co/1YFvx3jn/logo-renderizado.webp"
     },
     {
       "Canal": "DSports Plus",
       "Estado": "Activo",
       "Link": "https://stream-xhd.com/live1.php?stream=dsportsplus",
-      "Logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1774576205616"
+      "Logo": "https://i.ibb.co/xKMccc9G/logo-renderizado.webp"
     },
     {
       "Canal": "VTV Plus",
       "Estado": "Activo",
       "Link": "https://la18hd.com/vivo/canales.php?stream=vtvplus",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png"
+      "Logo": "https://i.ibb.co/LXXzxXjH/logo-renderizado.webp"
     },
     {
       "Canal": "Fox Sports",
       "Estado": "Activo",
       "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20022",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png"
+      "Logo": "https://i.ibb.co/yF84vqgk/logo-renderizado.webp"
     },
     {
       "Canal": "Fox Sports 2",
       "Estado": "Activo",
       "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20023",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/1280px-Fox_sports_2_logo.svg.png"
+      "Logo": "https://i.ibb.co/6cK5DNQn/logo-renderizado.webp"
     },
     {
       "Canal": "Fox Sports 3",
       "Estado": "Activo",
       "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20024",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/3840px-Fox_Sports_3_Argentina_2023.svg.png"
+      "Logo": "https://i.ibb.co/8nty6HhN/logo-renderizado.webp"
     },
     {
       "Canal": "TNT Sports",
       "Estado": "Activo",
       "Link": "http://138.59.227.20:8000/play/a06z/index.m3u8",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/3840px-TNT_Sports_Logo.svg.png"
+      "Logo": "https://i.ibb.co/rGc1Pq13/logo-renderizado.webp"
     },
     {
       "Canal": "ESPN Premium",
       "Estado": "Activo",
       "Link": "http://190.7.19.197:232/play/a038/index.m3u8",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"
+      "Logo": "https://i.ibb.co/sd8RjmMb/logo-renderizado.webp"
     },
     {
       "Canal": "TyC Sports",
       "Estado": "Activo",
       "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20017",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png"
+      "Logo": "https://i.ibb.co/MyBK82qG/logo-renderizado.webp"
     },
     {
       "Canal": "Telefe",
@@ -279,19 +244,19 @@
       "Canal": "Azteca 7",
       "Estado": "Activo",
       "Link": "https://stream-xhd.com/live1.php?stream=azteca7",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/960px-Logo_Azteca_7_2011.svg.png"
+      "Logo": "https://i.ibb.co/pvfj5nDw/logo-renderizado.webp"
     },
     {
       "Canal": "Canal 5",
       "Estado": "Activo",
       "Link": "https://stream-xhd.com/live1.php?stream=canal5mx",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/500px-Canal_5_2016.svg.png"
+      "Logo": "https://i.ibb.co/bjmkHQwR/logo-renderizado.webp"
     },
     {
       "Canal": "Sportv",
       "Estado": "Activo",
       "Link": "https://stream-xhd.com/live1.php?stream=sporttvbr1",
-      "Logo": "https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png"
+      "Logo": "https://i.ibb.co/Cp195WVm/logo-renderizado.webp"
     },
     {
       "Canal": "Sportv 2",
@@ -303,11 +268,9 @@
       "Canal": "TELEMUNDO HD",
       "Estado": "Activo",
       "Link": "https://stream-xhd.com/live1.php?stream=telemundo",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"
+      "Logo": "https://i.ibb.co/Gf9b1j0z/logo-renderizado.webp"
     }
   ],
-
-
 
 
 
@@ -317,27 +280,18 @@
       "Canal": "Caras TV",
       "Estado": "Activo",
       "Link": "https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8",
-      "Logo": "https://fotos.perfil.com/2024/03/01/trim/987/555/caras-tv-1763217.jpg"
+      "Logo": "https://i.ibb.co/F4NWpYGh/logo-renderizado.webp"
     },
-    {
-      "Canal": "Comedy Central",
-      "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a01d/index.m3u8",
-      "Logo": "https://i.ibb.co/ycWL11kg/logo-renderizado.webp"
-    },
+
     {
       "Canal": "FXX",
       "Estado": "Activo",
       "Link": "http://23.237.104.106:8080/USA_FXX/index.m3u8",
-      "Logo": "https://static.wikia.nocookie.net/logopedia/images/9/98/FXX_%28Yellow%29.svg/revision/latest/scale-to-width-down/250?cb=20200423152548"
-    },
-    {
-      "Canal": "MTV",
-      "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a04q/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/mtv-ar.png?raw=true"
+      "Logo": "https://i.ibb.co/jk0Vxbm9/logo-renderizado.webp"
     }
   ],
+
+
   "HBO": [
     {
       "Canal": "HBO",
@@ -361,19 +315,19 @@
       "Canal": "HBO PLUS",
       "Estado": "Activo",
       "Link": "http://45.5.116.228:8000/play/a0l4",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-plus-ar.png"
+      "Logo": "https://i.ibb.co/fVrDb2Yt/logo-renderizado.webp"
     },
     {
       "Canal": "HBO POP",
       "Estado": "Activo",
-      "Link": "http://191.97.14.162:8000/play/a017/index.m3u8",
-      "Logo": "https://i.imgur.com/3yZyaCm.png"
+      "Link": "http://190.108.83.69:8000/play/a03k/index.m3u8",
+      "Logo": "https://i.ibb.co/RGd1dPrS/logo-renderizado.webp"
     },
     {
       "Canal": "HBO SIGNATURE",
       "Estado": "Activo",
-      "Link": "http://38.194.226.190:8000/play/a028/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-signature-ar.png"
+      "Link": "http://181.224.255.210:8001/play/a0re/index.m3u8?hls",
+      "Logo": "https://i.ibb.co/DgPh1QTK/logo-renderizado.webp"
     }
   ],
 
@@ -382,83 +336,90 @@
     {
       "Canal": "Sony Channel",
       "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a01g/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/sony-channel-ar.png?raw=true"
+      "Link": "http://45.188.229.33:8000/play/a1ah/index.m3u8?hls",
+      "Logo": "https://i.ibb.co/svWsJ7g2/logo-renderizado.webp"
     },
     {
       "Canal": "Sony Movies",
       "Estado": "Activo",
-      "Link": "http://138.59.227.20:8000/play/a09j/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movies-us.png?raw=true"
+      "Link": "http://177.53.153.207:8000/play/a00n/index.m3u8",
+      "Logo": "https://i.ibb.co/4RxpV8Hg/logo-renderizado.webp"
     },
     {
       "Canal": "Space",
       "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a050/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/space-ar.png?raw=true"
+      "Link": "http://179.1.146.22:8000/play/a0bl/index.m3u8",
+      "Logo": "https://i.ibb.co/HDFnvsSP/logo-renderizado.webp"
     },
     {
       "Canal": "STAR CHANNEL",
       "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a05w/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StarChannel.png"
+      "Link": "http://15.204.246.24:8080/STARCHANNELHD/index.m3u8",
+      "Logo": "https://i.ibb.co/kg1xYQ9m/logo-renderizado.webp"
     },
     {
       "Canal": "STUDIO UNIVERSAL",
       "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a049/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StudioUniversal.png"
+      "Link": "http://181.209.38.115:8000/play/a01a/index.m3u8",
+      "Logo": "https://i.ibb.co/0j5T57HV/logo-renderizado.webp"
     },
         {
       "Canal": "TNT",
       "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a060/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true"
+      "Link": "http://181.209.38.115:8000/play/a033/index.m3u8",
+      "Logo": "https://i.ibb.co/ZzLSYb78/logo-renderizado.webp"
     },
            {
       "Canal": "TNT NOVELAS",
       "Estado": "Activo",
-      "Link": "http://138.59.227.20:8000/play/a08e/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/06-TNTNovelas.png?raw=true"
+      "Link": "http://45.188.229.33:8000/play/a1dq/index.m3u8?hls",
+      "Logo": "https://i.ibb.co/PZD2WFkR/logo-renderizado.webp"
     },
                {
       "Canal": "TNT SERIES",
       "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a088/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNTSeries.png?raw=true"
+      "Link": "http://45.188.229.33:8000/play/a1do/index.m3u8?hls",
+      "Logo": "https://i.ibb.co/Xr8SzVjX/logo-renderizado.webp"
     },
     {
       "Canal": "Universal Cinema",
       "Estado": "Activo",
       "Link": "http://177.10.184.193:8000/play/a0a9/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-cinema-lam.png?raw=true"
+      "Logo": "https://i.ibb.co/1fRy0rNg/logo-renderizado.webp"
     },
     {
       "Canal": "Universal Comedy",
       "Estado": "Activo",
       "Link": "http://45.5.117.99:8000/play/a0i5/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-comedy-lam.png?raw=true"
-    },
-    {
-      "Canal": "Universal Crime",
-      "Estado": "Activo",
-      "Link": "http://177.10.184.193:8000/play/a09w/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-crime-lam.png?raw=true"
+      "Logo": "https://i.ibb.co/fd0kvb5Z/logo-renderizado.webp"
     },
 
     {
-      "Canal": "Universal TV",
+      "Canal": "Universal Crime",
       "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a03u/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/universal-tv-ar.png?raw=true"
+      "Link": "http://79.127.243.211:14623",
+      "Logo": "https://i.ibb.co/twnDBmfL/logo-renderizado.webp"
     },
-    {
-      "Canal": "USA NETWORK",
+        {
+      "Canal": "CINE HISPANO",
       "Estado": "Activo",
-      "Link": "http://latinostvhd.club:25461/8642755377/437ca16994/45977",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/universal-tv-ar.png?raw=true"
+      "Link": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinehispano.stream/playlist.m3u8",
+      "Logo": "https://i.ibb.co/WNqJrcSb/logo-renderizado.webp"
+    },
+        {
+      "Canal": "CINE PREMIUM",
+      "Estado": "Activo",
+      "Link": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8",
+      "Logo": "https://i.ibb.co/4ZSv01Mg/logo-renderizado.webp"
+    },
+        {
+      "Canal": "CINE FAMILIAR",
+      "Estado": "Activo",
+      "Link": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8",
+      "Logo": "https://i.ibb.co/Mkpb23sq/logo-renderizado.webp"
     }
   ],
+
   "ARGENTINA": [
     {
       "Canal": "América TV",
@@ -711,30 +672,8 @@
       "Logo": "https://i.imgur.com/H1Aap4E.png"
     }
   ],
-  "COCINA": [
-    {
-      "Canal": "El Gourmet",
-      "Estado": "Activo",
-      "Link": "http://138.59.227.20:8000/play/a07u/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true"
-    }
-  ],
-  "AUTOMOVILISMO": [
-    {
-      "Canal": "Garage TV",
-      "Estado": "Activo",
-      "Link": "https://stream1.sersat.com/hls/garagetv.m3u8",
-      "Logo": "https://i.imgur.com/FqFxog1.png"
-    }
-  ],
 
   "24/7": [
-    {
-      "Canal": "ALF  Inglés",
-      "Estado": "Activo",
-      "Link": "http://latinostvhd.club:25461/8642755377/437ca16994/30507",
-      "Logo": "https://image.tmdb.org/t/p/original/hcbVe3vJ8dIe5MxSFYfYj7P9gYM.png"
-    },
     {
       "Canal": "Caso Cerrado",
       "Estado": "Activo",
@@ -747,18 +686,7 @@
       "Link": "https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.m3u8",
       "Logo": "https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es"
     },
-    {
-      "Canal": "Friends",
-      "Estado": "Activo",
-      "Link": "http://cdn-abc.xyz:2086/play/j72rdxfUW3_gUo9huYfloUZI6DMvu3LK4j1W7HVqYfw",
-      "Logo": "https://mystickermania.com/cdn/stickers/movies-and-series/friends-logo-512x512.png"
-    },
-    {
-      "Canal": "Friends   Inglés",
-      "Estado": "Activo",
-      "Link": "http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297133.m3u8",
-      "Logo": "https://mystickermania.com/cdn/stickers/movies-and-series/friends-logo-512x512.png"
-    },
+
     {
       "Canal": "Game of Thrones",
       "Estado": "Activo",
@@ -777,12 +705,7 @@
       "Link": "http://23.153.217.158:8080/998411519tv/pa9qnqi/281253",
       "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560"
     },
-    {
-      "Canal": "Malcolm in the middle   Inglés",
-      "Estado": "Activo",
-      "Link": "http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297377.m3u8",
-      "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560"
-    },
+
     {
       "Canal": "Modern Family",
       "Estado": "Activo",
@@ -795,24 +718,7 @@
       "Link": "http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16177",
       "Logo": "https://pngimg.com/uploads/south_park/south_park_PNG41.png"
     },
-    {
-      "Canal": "The big bang theory",
-      "Estado": "Activo",
-      "Link": "http://cdn-abc.xyz:2086/play/j72rdxfUW3_gUo9huYflob94NtFAoStHC-_w92fOklk",
-      "Logo": "https://image.tmdb.org/t/p/original/w4SDOkKPIQKQ1swVPqpsdqEybk2.png"
-    },
-    {
-      "Canal": "The big bang theory   Inglés",
-      "Estado": "Activo",
-      "Link": "http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297784.m3u8",
-      "Logo": "https://image.tmdb.org/t/p/original/w4SDOkKPIQKQ1swVPqpsdqEybk2.png"
-    },
-    {
-      "Canal": "The Office",
-      "Estado": "Activo",
-      "Link": "http://cdn-abc.xyz:2086/play/j72rdxfUW3_gUo9huYflofVa7Yv0wy343fJChwiFIK8",
-      "Logo": "https://image.tmdb.org/t/p/original/9h5aA5FhdKSkpLI0JvD4NsJZqIh.png"
-    },
+
     {
       "Canal": "The Simpsons",
       "Estado": "Activo",
@@ -824,15 +730,7 @@
       "Estado": "Activo",
       "Link": "http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16128",
       "Logo": "https://m.media-amazon.com/images/S/pv-target-images/b55b8807ca03e0c2e01aac6710aa1ecf0c2039d973a61835907b7382301eb323.jpg"
-    }
-  ],
-
-  "WEBCAMS BRASIL": [
-    {
-      "Canal": "TTTTTT",
-      "Estado": "Activo",
-      "Link": "http://apps2026.online/nuevorqtv/rqtvpro.php?p=NTMwIExBVDogVW5pdmVyc2FsIENyaW1lIC8gVW5pdmVyc2FsIENyaW1l&t=p&f=.m3u8",
-      "Logo": "https://www.pngmart.com/files/23/Live-PNG-File.png"
+    
     }
   ]
 }
