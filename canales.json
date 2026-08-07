@@ -171,43 +171,43 @@
     {
       "Canal": "Fox Sports",
       "Estado": "Activo",
-      "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20022",
+      "Link": "https://stream-xhd.com/live1.php?stream=fox1ar",
       "Logo": "https://i.ibb.co/yF84vqgk/logo-renderizado.webp"
     },
     {
       "Canal": "Fox Sports 2",
       "Estado": "Activo",
-      "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20023",
+      "Link": "https://stream-xhd.com/live1.php?stream=fox2ar",
       "Logo": "https://i.ibb.co/6cK5DNQn/logo-renderizado.webp"
     },
     {
       "Canal": "Fox Sports 3",
       "Estado": "Activo",
-      "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20024",
+      "Link": "https://stream-xhd.com/live1.php?stream=fox3ar",
       "Logo": "https://i.ibb.co/8nty6HhN/logo-renderizado.webp"
     },
     {
       "Canal": "TNT Sports",
       "Estado": "Activo",
-      "Link": "http://138.59.227.20:8000/play/a06z/index.m3u8",
+      "Link": "https://stream-xhd.com/live1.php?stream=tntsports",
       "Logo": "https://i.ibb.co/rGc1Pq13/logo-renderizado.webp"
     },
     {
       "Canal": "ESPN Premium",
       "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a038/index.m3u8",
+      "Link": "https://stream-xhd.com/live1.php?stream=espnpremium",
       "Logo": "https://i.ibb.co/sd8RjmMb/logo-renderizado.webp"
     },
     {
       "Canal": "TyC Sports",
       "Estado": "Activo",
-      "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20017",
+      "Link": "https://stream-xhd.com/live1.php?stream=tycsports",
       "Logo": "https://i.ibb.co/MyBK82qG/logo-renderizado.webp"
     },
     {
       "Canal": "Telefe",
       "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a059/index.m3u8",
+      "Link": "https://stream-xhd.com/live1.php?stream=telefe",
       "Logo": "https://i.ibb.co/yBQ92Fzf/logo-renderizado.webp"
     },
     {
@@ -271,6 +271,132 @@
       "Logo": "https://i.ibb.co/Gf9b1j0z/logo-renderizado.webp"
     }
   ],
+
+
+  "ARGENTINA": [
+    {
+      "Canal": "HBO XTREME",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1088962.m3u8",
+      "Logo": "https://i.ibb.co/HpHGfp1S/logo-renderizado.webp"
+    },
+    {
+      "Canal": "El Nueve",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/197718.m3u8",
+      "Logo": "https://i.ibb.co/xKXQryVY/logo-renderizado.webp"
+    },
+    {
+      "Canal": "A24",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/197726.m3u8",
+      "Logo": "https://i.ibb.co/hx0t8Jqn/logo-renderizado.webp"
+    },
+    {
+      "Canal": "TN",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/197729.m3u8",
+      "Logo": "https://i.ibb.co/VWmSYdYd/logo-renderizado.webp"
+    },
+    {
+      "Canal": "TYC SPORTS",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/197732.m3u8",
+      "Logo": "https://i.ibb.co/PsCVGbZV/logo-renderizado.webp"
+    },
+    {
+      "Canal": "AMERICA TV",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/30755.m3u8",
+      "Logo": "https://i.ibb.co/20ydkqDP/logo-renderizado.webp"
+    },
+    {
+      "Canal": "CANAL 26",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/30752.m3u8",
+      "Logo": "https://i.ibb.co/DPdxFdGN/logo-renderizado.webp"
+    },
+        {
+      "Canal": "EL TRECE",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/30740.m3u8",
+      "Logo": "https://i.ibb.co/HL1BH56Q/logo-renderizado.webp"
+    },
+        {
+      "Canal": "C5N",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/197725.m3u8",
+      "Logo": "https://i.ibb.co/7Nz2b2YG/logo-renderizado.webp"
+    },
+        {
+      "Canal": "TELEFE",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/30727.m3u8",
+      "Logo": "https://i.ibb.co/4Rf6921F/logo-renderizado.webp"
+    },
+
+    {
+      "Canal": "CRONICA",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/30745.m3u8",
+      "Logo": "https://i.ibb.co/7dpLXqBB/logo-renderizado.webp"
+    }
+  ],
+
+
+    "CHILE": [
+    {
+      "Canal": "CANAL13",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/187656.m3u8",
+      "Logo": "https://i.ibb.co/8DN1cRxL/logo-renderizado.webp"
+    },
+    {
+      "Canal": "MEGA",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/187657.m3u8",
+      "Logo": "https://i.ibb.co/Lhn1jbFL/logo-renderizado.webp"
+    },
+    {
+      "Canal": "TNT SPORTS 2",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/335503.m3u8",
+      "Logo": "https://i.ibb.co/5WqvG084/logo-renderizado.webp"
+    },
+    {
+      "Canal": "13C",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/187661.m3u8",
+      "Logo": "https://i.ibb.co/gMdzNj4f/logo-renderizado.webp"
+    },
+    {
+      "Canal": "CNN CHILE",
+      "Estado": "Activo",
+      "Link": "hhttp://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/197741.m3u8",
+      "Logo": "https://i.ibb.co/NdPzt7yT/logo-renderizado.webp"
+    },
+    {
+      "Canal": "LA RED",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/187660.m3u8",
+      "Logo": "https://i.ibb.co/DfyrMCw9/logo-renderizado.webp"
+    },
+    {
+      "Canal": "TV CHILE",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1017490.m3u8",
+      "Logo": "https://i.ibb.co/4wT6dVBQ/logo-renderizado.webp"
+    },
+
+
+    {
+      "Canal": "ETC CHILE",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1105988.m3u8",
+      "Logo": "https://i.ibb.co/jqx743R/logo-renderizado.webp"
+    }
+  ],
+
   "BETA": [
 
     {
@@ -507,56 +633,6 @@
     }
   ],
 
-  "ARGENTINA": [
-    {
-      "Canal": "América TV",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97_720p/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true"
-    },
-    {
-      "Canal": "El Nueve",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1_720p/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Nueve.png?raw=true"
-    },
-    {
-      "Canal": "El Trece",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m_720p/index.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true"
-    },
-    {
-      "Canal": "NetTV",
-      "Estado": "Activo",
-      "Link": "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8",
-      "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/net-tv-ar.png?raw=true"
-    },
-    {
-      "Canal": "Telefe HD",
-      "Estado": "Activo",
-      "Link": "http://138.59.227.20:8000/play/a08a/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Telefe.png?raw=true"
-    },
-    {
-      "Canal": "Telemax",
-      "Estado": "Activo",
-      "Link": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Telemax.png?raw=true"
-    },
-    {
-      "Canal": "TV Pública",
-      "Estado": "Activo",
-      "Link": "https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8",
-      "Logo": "https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png"
-    },
-    {
-      "Canal": "Volver",
-      "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a048/index.m3u8",
-      "Logo": "https://github.com/dvds1151/AR-TV/blob/e5e262a0a5e42c025e296159e95fe0c45afad7c2/icons/05-Volver.png?raw=true"
-    }
-  ],
   "DOCUMENTALES": [
     {
       "Canal": "Animal Planet",
