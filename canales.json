@@ -105,25 +105,25 @@
     {
       "Canal": "ESPN1",
       "Estado": "Activo",
-      "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20018",
+      "Link": "https://stream-xhd.com/live1.php?stream=espn",
       "Logo": "https://i.ibb.co/k6mQXx9T/logo-optimizado.webp"
     },
     {
       "Canal": "ESPN 2",
       "Estado": "Activo",
-      "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20019",
+      "Link": "https://stream-xhd.com/live1.php?stream=espn2",
       "Logo": "https://i.ibb.co/XkjCg6Jw/logo-renderizado.webp"
     },
     {
       "Canal": "ESPN 3",
       "Estado": "Activo",
-      "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20020",
+      "Link": "https://stream-xhd.com/live1.php?stream=espn3",
       "Logo": "https://i.ibb.co/XZLct5Th/logo-renderizado.webp"
     },
     {
       "Canal": "ESPN 4",
       "Estado": "Activo",
-      "Link": "http://181.94.205.55:4022/udp/225.2.2.2:20021",
+      "Link": "https://stream-xhd.com/live1.php?stream=espn4",
       "Logo": "https://i.ibb.co/VYPYmDPx/logo-renderizado.webp"
     },
     {
