@@ -80,9 +80,9 @@
     },
 
         {
-      "Canal": "IPE",
+      "Canal":"Casa",
       "Estado": "Activo",
-      "Link": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8",
+      "Link": "http://198.23.190.3:30822/live/cyx_5323D15E76FD55413CE62CD_720p.m3u8",
       "Logo": "https://i.ibb.co/d095GKQJ/logo-optimizado.webp"
     },
                     {
