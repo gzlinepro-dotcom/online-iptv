@@ -6328,6 +6328,41 @@
     }
   ],
 
+
+  "COCINA": [
+    {
+      "Canal": "Gusto TV ",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/123401.m3u8",
+      "Logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34929b38fd8794231ed1bb4f0f59a40c.webp"
+    },
+    {
+      "Canal": "Tastemade Español ",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/123402.m3u8",
+      "Logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c9465caa97bfd3f8cb97caf81909e9b2.webp"
+    },
+    {
+      "Canal": "Tastemade ",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/123404.m3u8",
+      "Logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dfb596b8c6ac58475808d03f05721253.webp"
+    },
+    {
+      "Canal": "GOURMET LATINO",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/139835.m3u8",
+      "Logo": "https://www.kindpng.com/picc/m/458-4585723_canal-gourmet-hd-png-download.png"
+    },
+    {
+      "Canal": "TV COCINA",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/146640.m3u8",
+      "Logo": "https://th.bing.com/th/id/R.7cd05720b1562808e01716763c845db9?rik=zkNptZxm9fzcmw&riu=http%3a%2f%2fblog.chefuri.com%2fwp-content%2fuploads%2f2009%2f10%2flogo-la-cocina-tv.jpg&ehk=BEuJLsr2tgGQTDwJnloYGeQexY5Wjok9h6VnogO45q8%3d&risl=&pid=ImgRaw&r=0"
+    }
+  ],
+
+
     "CINE LATINO": [
     {
       "Canal": "MyTime Movie Network (Spain) ",
