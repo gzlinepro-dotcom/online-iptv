@@ -293,6 +293,353 @@
   ],
 
 
+  "CANALES EN HD": [
+    {
+      "Canal": "A&E",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a07p/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/A%26E_logo.svg/512px-A%26E_logo.svg.png"
+    },
+    {
+      "Canal": "AMC",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a07r/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/AMC_logo.svg/512px-AMC_logo.svg.png"
+    },
+    {
+      "Canal": "AXN",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0bu/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/AXN_logo_2015.svg/512px-AXN_logo_2015.svg.png"
+    },
+    {
+      "Canal": "ANIMAL PLANET",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0bt/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Animal_planet_logo.svg/512px-Animal_planet_logo.svg.png"
+    },
+    {
+      "Canal": "BETHEL TV",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0jo/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bethel_Televisi%C3%B3n.png/512px-Bethel_Televisi%C3%B3n.png"
+    },
+    {
+      "Canal": "BABY TV",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0hn/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/BabyTV_logo.svg/512px-BabyTV_logo.svg.png"
+    },
+    {
+      "Canal": "CGTN E",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0ju/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CGTN_Espa%C3%B1ol.svg/512px-CGTN_Espa%C3%B1ol.svg.png"
+    },
+    {
+      "Canal": "CINE CANAL",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0fj/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cinecanal_2010.svg/512px-Cinecanal_2010.svg.png"
+    },
+    {
+      "Canal": "CINEMAX",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0hc/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Cinemax_logo_2020.svg/512px-Cinemax_logo_2020.svg.png"
+    },
+    {
+      "Canal": "COMEDY CENTRAL",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a07x/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Comedy_Central_logo.svg/512px-Comedy_Central_logo.svg.png"
+    },
+    {
+      "Canal": "DHE",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0br/index.m3u8",
+      "Logo": "https://i.ibb.co/6wD2ZpB/dhe.png"
+    },
+    {
+      "Canal": "DISTRITO COMEDIA",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0gd/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Distrito_Comedia_logo.svg/512px-Distrito_Comedia_logo.svg.png"
+    },
+    {
+      "Canal": "DSPORTS",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0k0/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/DSports_logo_2022.svg/512px-DSports_logo_2022.svg.png"
+    },
+    {
+      "Canal": "DW",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0j2/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/DW_logo_2022.svg/512px-DW_logo_2022.svg.png"
+    },
+    {
+      "Canal": "DE PELICULA",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0he/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/De_Pel%C3%ADcula_logo.svg/512px-De_Pel%C3%ADcula_logo.svg.png"
+    },
+    {
+      "Canal": "DISCOVERY CHANNEL",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a07v/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Channel_logo.svg/512px-Discovery_Channel_logo.svg.png"
+    },
+    {
+      "Canal": "DISCOVERY KIDS",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0jb/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Discovery_Kids_logo_2013.svg/512px-Discovery_Kids_logo_2013.svg.png"
+    },
+    {
+      "Canal": "DISCOVERY THEATER",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0gz/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Discovery_Theater_logo.svg/512px-Discovery_Theater_logo.svg.png"
+    },
+    {
+      "Canal": "DISCOVERTY TURBO",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0gu/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Discovery_Turbo_logo.svg/512px-Discovery_Turbo_logo.svg.png"
+    },
+    {
+      "Canal": "DISCOVERY WORD",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a09e/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Discovery_World_logo.svg/512px-Discovery_World_logo.svg.png"
+    },
+    {
+      "Canal": "DISNEY CHANNEL",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a073/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Disney_Channel_logo_2014.svg/512px-Disney_Channel_logo_2014.svg.png"
+    },
+    {
+      "Canal": "DISNEY JUNIOR",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a06v/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Disney_Junior_logo_2020.svg/512px-Disney_Junior_logo_2020.svg.png"
+    },
+    {
+      "Canal": "E! ENTERTAINMENT",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0cl/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/E%21_logo.svg/512px-E%21_logo.svg.png"
+    },
+    {
+      "Canal": "ESPN ",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0kq/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ESPN_Logo.svg/512px-ESPN_Logo.svg.png"
+    },
+    {
+      "Canal": "ESPN 2",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0kb/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ESPN2_logo.svg/512px-ESPN2_logo.svg.png"
+    },
+    {
+      "Canal": "ESPN 3",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0gy/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESPN3_logo.svg/512px-ESPN3_logo.svg.png"
+    },
+    {
+      "Canal": "ESPN 4",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0h0/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ESPN4_logo.svg/512px-ESPN4_logo.svg.png"
+    },
+    {
+      "Canal": "ESPN 5",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a09a/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ESPN5_logo.svg/512px-ESPN5_logo.svg.png"
+    },
+    {
+      "Canal": "ESPN 6",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0gw/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ESPN6_logo.svg/512px-ESPN6_logo.svg.png"
+    },
+    {
+      "Canal": "ESPN 7",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a09b/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ESPN7_logo.svg/512px-ESPN7_logo.svg.png"
+    },
+    {
+      "Canal": "EL GOURMET",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a07q/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/El_Gourmet_logo.svg/512px-El_Gourmet_logo.svg.png"
+    },
+    {
+      "Canal": "FX",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a09d/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/FX_logo_2013.svg/512px-FX_logo_2013.svg.png"
+    },
+    {
+      "Canal": "Film&Arts",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0jt/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Film%26Arts_logo.svg/512px-Film%26Arts_logo.svg.png"
+    },
+    {
+      "Canal": "Food Network",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0jd/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Food_Network_logo.svg/512px-Food_Network_logo.svg.png"
+    },
+    {
+      "Canal": "GLOBAL",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0ir/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Global_Television_Network_logo.svg/512px-Global_Television_Network_logo.svg.png"
+    },
+    {
+      "Canal": "GLOBAL EDGE",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0ga/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Global_Television_Network_logo.svg/512px-Global_Television_Network_logo.svg.png"
+    },
+    {
+      "Canal": "GOLDEN",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0g9/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Golden_logo.svg/512px-Golden_logo.svg.png"
+    },
+    {
+      "Canal": "HBO FAMILY",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0hp/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HBO_Family_logo.svg/512px-HBO_Family_logo.svg.png"
+    },
+    {
+      "Canal": "HGTV",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0gv/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/HGTV_logo.svg/512px-HGTV_logo.svg.png"
+    },
+    {
+      "Canal": "HTV",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0hr/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/HTV_logo.svg/512px-HTV_logo.svg.png"
+    },
+    {
+      "Canal": "HISTORY 2",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0k9/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/History_2_logo.svg/512px-History_2_logo.svg.png"
+    },
+    {
+      "Canal": "HISTORY",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0k8/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/History_Logo.svg/512px-History_Logo.svg.png"
+    },
+    {
+      "Canal": "Home & Health HD",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0ja/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Home_%26_Health_logo.svg/512px-Discovery_Home_%26_Health_logo.svg.png"
+    },
+    {
+      "Canal": "ID",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a084/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Investigation_Discovery_logo.svg/512px-Investigation_Discovery_logo.svg.png"
+    },
+    {
+      "Canal": "L1",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0iq/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Liga1_Max.png/512px-Liga1_Max.png"
+    },
+    {
+      "Canal": "LIGA MAX",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0j8/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Liga1_Max.png/512px-Liga1_Max.png"
+    },
+    {
+      "Canal": "LAS ESTRELLAS",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0jm/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Las_Estrellas_logo.svg/512px-Las_Estrellas_logo.svg.png"
+    },
+    {
+      "Canal": "LOVE NATURE",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0ix/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Love_Nature_logo.svg/512px-Love_Nature_logo.svg.png"
+    },
+    {
+      "Canal": "NAT GEO",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0go/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/National_Geographic_Logo.svg/512px-National_Geographic_Logo.svg.png"
+    },
+    {
+      "Canal": "PASIONES",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0bq/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pasiones_logo.svg/512px-Pasiones_logo.svg.png"
+    },
+    {
+      "Canal": "STAR CHANNEL",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a08r/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Star_Channel_logo.svg/512px-Star_Channel_logo.svg.png"
+    },
+    {
+      "Canal": "SONY CHANNEL",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a081/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sony_Channel_logo.svg/512px-Sony_Channel_logo.svg.png"
+    },
+    {
+      "Canal": "SPACE",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a085/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Space_logo.svg/512px-Space_logo.svg.png"
+    },
+    {
+      "Canal": "STUDIO UNIVERSAL",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0ig/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Studio_Universal_logo.svg/512px-Studio_Universal_logo.svg.png"
+    },
+    {
+      "Canal": "SUN CHANNEL",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0hs/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sun_Channel_logo.png/512px-Sun_Channel_logo.png"
+    },
+    {
+      "Canal": "TNT",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a0iy/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TNT_logo.svg/512px-TNT_logo.svg.png"
+    },
+    {
+      "Canal": "WARNER CHANNEL",
+      "Estado": "Activo",
+      "Link": "http://190.108.80.138:8000/play/a082/index.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png"
+    }
+  ],
+
+
+  
   "HBO": [
     {
       "Canal": "HBO",
@@ -343,7 +690,7 @@
     {
       "Canal": "Sony Movies",
       "Estado": "Activo",
-      "Link": "http://177.53.153.207:8000/play/a00n/index.m3u8",
+      "Link": "http://181.115.239.66:8000/play/a00x/index.m3u8",
       "Logo": "https://i.ibb.co/4RxpV8Hg/logo-renderizado.webp"
     },
     {
@@ -355,19 +702,19 @@
     {
       "Canal": "STAR CHANNEL",
       "Estado": "Activo",
-      "Link": "http://15.204.246.24:8080/STARCHANNELHD/index.m3u8",
+      "Link": "http://45.188.229.33:8000/play/a1dj/index.m3u8?hls",
       "Logo": "https://i.ibb.co/kg1xYQ9m/logo-renderizado.webp"
     },
     {
       "Canal": "STUDIO UNIVERSAL",
       "Estado": "Activo",
-      "Link": "http://181.209.38.115:8000/play/a01a/index.m3u8",
+      "Link": "http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8",
       "Logo": "https://i.ibb.co/0j5T57HV/logo-renderizado.webp"
     },
         {
       "Canal": "TNT",
       "Estado": "Activo",
-      "Link": "http://181.209.38.115:8000/play/a033/index.m3u8",
+      "Link": "http://45.188.229.33:8000/play/a1dn/index.m3u8?hls",
       "Logo": "https://i.ibb.co/ZzLSYb78/logo-renderizado.webp"
     },
            {
@@ -451,7 +798,7 @@
     {
       "Canal": "Discovery Theater",
       "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a053/index.m3u8",
+      "Link": "https://streamer.metronethn.com/DiscoveryTheater/index.m3u8",
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-theater-hd-ar.png?raw=true"
     },
     {
@@ -463,7 +810,7 @@
     {
       "Canal": "Discovery World",
       "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a055/index.m3u8",
+      "Link": "http://138.59.227.20:8000/play/a076/index.m3u8?hls",
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-world-hd-ar.png?raw=true"
     },
     {
@@ -475,25 +822,25 @@
     {
       "Canal": "History Channel",
       "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a03h/index.m3u8",
+      "Link": "https://streamer.metronethn.com/History/index.m3u8",
       "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History.png?raw=true"
     },
     {
       "Canal": "History 2",
       "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a019/index.m3u8",
+      "Link": "http://177.234.249.178:8888/HISTORY2/index.m3u8",
       "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History2.png?raw=true"
     },
     {
       "Canal": "Investigation Discovery",
       "Estado": "Activo",
-      "Link": "http://190.7.19.197:232/play/a083/index.m3u8",
+      "Link": "http://45.5.117.99:8000/play/a049/index.m3u8",
       "Logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true"
     },
     {
       "Canal": "National GeographicC",
       "Estado": "Activo",
-      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/140312.m3u8",
+      "Link": "http://179.1.146.22:8000/play/a0be/index.m3u8",
       "Logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Natgeo.png?raw=true"
     }
   ],
