@@ -103,9 +103,9 @@
 
   "DEPORTES": [
     {
-      "Canal": "ESPN1",
+      "Canal": "ESPN",
       "Estado": "Activo",
-      "Link": "https://stream-xhd.com/live2.php?stream=espn",
+      "Link": "https://stream-xhd.com/live1.php?stream=espn",
       "Logo": "https://i.ibb.co/k6mQXx9T/logo-optimizado.webp"
     },
     {
