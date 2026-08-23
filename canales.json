@@ -262,6 +262,969 @@
 
 
 
+  "THE SPORTS NETWORK": [
+    {
+      "Canal": "CA | TSN 1 FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/139823.m3u8",
+      "Logo": "https://www.liblogo.com/img-logo/ts5923tc90-tsn-logo-tsn-logo-television--com.png"
+    },
+    {
+      "Canal": "CA | TSN 2 FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/139824.m3u8",
+      "Logo": "https://www.liblogo.com/img-logo/ts5923tc90-tsn-logo-tsn-logo-television--com.png"
+    },
+    {
+      "Canal": "CA | TSN 3 FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/139825.m3u8",
+      "Logo": "https://www.liblogo.com/img-logo/ts5923tc90-tsn-logo-tsn-logo-television--com.png"
+    },
+    {
+      "Canal": "CA | TSN 4 FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/139826.m3u8",
+      "Logo": "https://www.liblogo.com/img-logo/ts5923tc90-tsn-logo-tsn-logo-television--com.png"
+    },
+    {
+      "Canal": "CA | TSN 5 FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/139827.m3u8",
+      "Logo": "https://www.liblogo.com/img-logo/ts5923tc90-tsn-logo-tsn-logo-television--com.png"
+    },
+    {
+      "Canal": "CAN | SPORTSNET",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/345400.m3u8",
+      "Logo": "https://logo.iptveditor.com/sportsnetworld.png"
+    },
+    {
+      "Canal": "CAN | SPORTSNET EAST",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/345401.m3u8",
+      "Logo": "https://logo.iptveditor.com/sportsnetworld.png"
+    },
+    {
+      "Canal": "CAN | SPORSTNET ONE",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/345402.m3u8",
+      "Logo": "https://logo.iptveditor.com/sportsnetworld.png"
+    },
+    {
+      "Canal": "CAN | SPORTSNET ONTARIO",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/345403.m3u8",
+      "Logo": "https://logo.iptveditor.com/sportsnetworld.png"
+    },
+    {
+      "Canal": "CAN | SPORTSNET PACIFICO",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/345404.m3u8",
+      "Logo": "https://logo.iptveditor.com/sportsnetworld.png"
+    },
+    {
+      "Canal": "CAN | SPORTSNET WEST",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/345405.m3u8",
+      "Logo": ""
+    },
+    {
+      "Canal": "CAN | SPORTSNET WORLD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/345406.m3u8",
+      "Logo": ""
+    },
+    {
+      "Canal": "CAN | SPORTSNET 360",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/345407.m3u8",
+      "Logo": ""
+    }
+  ],
+
+    "BOXEO - UFC - WWE": [
+    {
+      "Canal": "Undefined UFC",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/78179.m3u8",
+      "Logo": "https://th.bing.com/th/id/OIP.TmhswdF0vvBxe5RBFO0aHgHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "Canal": "COMBATE ",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/78180.m3u8",
+      "Logo": "https://th.bing.com/th/id/OIP.Qa6FBOouL5qjOTeVu7wHAwHaH7?rs=1&pid=ImgDetMain"
+    },
+    {
+      "Canal": "Lucha Libre AAA",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/78181.m3u8",
+      "Logo": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f1934d61-2adb-4f88-950e-3217dd3fe665_897x897.jpeg"
+    },
+    {
+      "Canal": "UFC FIGTH PASS FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/78393.m3u8",
+      "Logo": "https://th.bing.com/th/id/OIP.QcrvoJi7ml301P54q5md1QHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "Canal": "FIGHT NETWORK",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/78482.m3u8",
+      "Logo": "https://th.bing.com/th/id/R.5a268375b959b99f4812be69abe75362?rik=iFpSpZJ3SxI5BQ&riu=http%3a%2f%2fww1.prweb.com%2fprfiles%2f2018%2f01%2f12%2f15087107%2f16711981_1628883563795361_46719999176224472_n.jpg&ehk=jpFmQwOWPF74XaaKk3H4br%2bjCRxYSrtW9EOuIAe4KMk%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "Canal": "WWE HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/78483.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/WWE_Network_logo.jpeg/220px-WWE_Network_logo.jpeg"
+    },
+    {
+      "Canal": "DAZN Combat ",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/80657.m3u8",
+      "Logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/0b232373-fb80-4704-976f-ecefeaa377b6-width200-quality90.png"
+    }
+  ],
+
+    "BEIN SPORTS": [
+    {
+      "Canal": "BEIN SPORTS EXTRA Ñ",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/138364.m3u8",
+      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRIxNoMYDLaHxtyQn4OPWiORmP621XFGP5fB1J2mn_gazprM5zdiQB_YLIyjOHwzK88O4&usqp=CAU"
+    },
+    {
+      "Canal": "BeIn Sports 1 FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/304608.m3u8",
+      "Logo": "https://static.epg.best/fr/BeinSports1.fr.png"
+    },
+    {
+      "Canal": "BeIn Sports 2 FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/304609.m3u8",
+      "Logo": "https://static.epg.best/fr/BeinSports2.fr.png"
+    },
+    {
+      "Canal": "BeIn Sports 3 FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/304610.m3u8",
+      "Logo": "https://static.epg.best/fr/BeinSports3.fr.png"
+    },
+    {
+      "Canal": "DHD | BEIN Sports Extra USA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/304611.m3u8",
+      "Logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/33d3d5ec9a811182c2c6b64124bfe872.webp"
+    },
+    {
+      "Canal": "BEIN Sports XTRA EN Espanol ",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/304612.m3u8",
+      "Logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+    },
+    {
+      "Canal": "BEIN Sports XTRA (1080p) HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/304613.m3u8",
+      "Logo": "https://tvguatemala.net/wp-content/uploads/2022/11/beIN-Sports-Extra-en-Espanol.webp"
+    },
+    {
+      "Canal": "BEIN Sports XTRA Ñ HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/304614.m3u8",
+      "Logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+    },
+    {
+      "Canal": "BEIN Sports XTRA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/304615.m3u8",
+      "Logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijsB5J5ZednqzoohYCEcBlAegKkpIqCQZVwhAkEM7jKOUnfm3q2pKp4au7BrvQsQ_FUapzf4kLjCpPC_P16dJm4JIvxHCQ1jzL_gMnfHzzZKS2N_dLzPgJAH8LlWSpbhkJl9g8QDLoFx6WbaIsokrZEvrhDj0aq_rWoTlJSMKRDp71Me9hbdlaBz-F/w1200-h630-p-k-no-nu/beinsports.jpg"
+    },
+    {
+      "Canal": "BEIN Sports 1 HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/304616.m3u8",
+      "Logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+    },
+    {
+      "Canal": "USA-bein Sports 5 HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/304618.m3u8",
+      "Logo": "https://www.dailymotion.com/thumbnail/video/x9epzrs"
+    },
+    {
+      "Canal": "USA-bein Sports 7 HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/304620.m3u8",
+      "Logo": "https://www.dailymotion.com/thumbnail/video/x9epzrs"
+    }
+  ],
+
+
+    "LA LIGA ESPAÑOLA": [
+    {
+      "Canal": "DAZN LA LIGA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/1162.m3u8",
+      "Logo": "https://assets.laliga.com/assets/2024/08/29/medium/537560bd575afb72d5f3e2ea5d46ac4f.png"
+    },
+    {
+      "Canal": "DAZN LA LIGA (HD)",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/1163.m3u8",
+      "Logo": "https://assets.laliga.com/assets/2024/08/29/medium/537560bd575afb72d5f3e2ea5d46ac4f.png"
+    },
+    {
+      "Canal": "MOVISTAR LA LIGA (HD)",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/1164.m3u8",
+      "Logo": "https://www.elnacional.cat/uploads/s1/43/05/66/39/laliga-ea-sports-logo-izq_4_1258x630.png"
+    },
+    {
+      "Canal": "MOVISTAR LA LIGA (HD)",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/1165.m3u8",
+      "Logo": "https://www.elnacional.cat/uploads/s1/43/05/66/39/laliga-ea-sports-logo-izq_4_1258x630.png"
+    },
+    {
+      "Canal": "MOVISTAR LA LIGA (HD)",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/1166.m3u8",
+      "Logo": "https://www.elnacional.cat/uploads/s1/43/05/66/39/laliga-ea-sports-logo-izq_4_1258x630.png"
+    },
+    {
+      "Canal": "SKY SPORTS LALIGA",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141367.m3u8",
+      "Logo": "https://i.imgur.com/4KX68Vi.png"
+    }
+  ],
+
+    "SKY SPORTS & DAZN": [
+    {
+      "Canal": "01 | DAZN 1",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/107956.m3u8",
+      "Logo": "https://w7.pngwing.com/pngs/664/528/png-transparent-dazn-hd-logo-thumbnail.png"
+    },
+    {
+      "Canal": "02 | DAZN 2",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/107957.m3u8",
+      "Logo": "https://w7.pngwing.com/pngs/664/528/png-transparent-dazn-hd-logo-thumbnail.png"
+    },
+    {
+      "Canal": "03 | DAZN (COMBAT)",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/107958.m3u8",
+      "Logo": "https://w7.pngwing.com/pngs/664/528/png-transparent-dazn-hd-logo-thumbnail.png"
+    },
+    {
+      "Canal": "04 | DAZN (ES) EUROSPORTS 2",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/107959.m3u8",
+      "Logo": "https://w7.pngwing.com/pngs/664/528/png-transparent-dazn-hd-logo-thumbnail.png"
+    },
+    {
+      "Canal": "05 | SKY SPORTS FOOTBALL",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141359.m3u8",
+      "Logo": "https://i.imgur.com/4KX68Vi.png"
+    },
+    {
+      "Canal": "09 | DAZN F1 HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141363.m3u8",
+      "Logo": "https://i.imgur.com/4KX68Vi.png"
+    },
+    {
+      "Canal": "11 | SKY SPORTS GOLF HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141365.m3u8",
+      "Logo": "https://i.imgur.com/4KX68Vi.png"
+    },
+    {
+      "Canal": "EUR | SKY SPORTS PREMIER LEAGUE",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/345396.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png"
+    },
+    {
+      "Canal": "EUR | SKY SPORTS",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/345397.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png"
+    }
+  ],
+
+
+  "FORMULA 1 & MOTORES": [
+    {
+      "Canal": "DAZN FORMULA 1",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/126567.m3u8",
+      "Logo": "https://th.bing.com/th/id/OIP.PAu5eVErvBYeNhv0kcQ5GQHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "Canal": "Motor Racing TV ",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/126571.m3u8",
+      "Logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcfa04b326ae2d1b6a2c7f86b6452abf.webp"
+    },
+    {
+      "Canal": "Motorvision TV ",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/126576.m3u8",
+      "Logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f2a67a0c02ab0841afbdd8e7623aeae5.webp"
+    },
+    {
+      "Canal": "SKY SPORTS F1",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141368.m3u8",
+      "Logo": "https://th.bing.com/th/id/OIP.6y34vwji82mIwJ226m2mqAAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "Canal": "Auto Motor Sport HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/143202.m3u8",
+      "Logo": "https://www.logotypes101.com/logos/306/887576879B8BE7E8C50C00BE6D568C9C/Auto_Motor_und_Sport.png"
+    },
+    {
+      "Canal": "MotorTrend ",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/143203.m3u8",
+      "Logo": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/6c/1f/0f6c1f5f-e345-9e61-d324-33f228196457/source/200x200bb.jpg"
+    }
+  ],
+
+
+  "DEPORTES LATINO PREMIUM": [
+    {
+      "Canal": "ESPN 1 ARGENTINA",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/253004.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png"
+    },
+    {
+      "Canal": "EUROSPORT 1 HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258733.m3u8",
+      "Logo": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png"
+    },
+    {
+      "Canal": "EUROSPORT 2 HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258734.m3u8",
+      "Logo": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png"
+    },
+    {
+      "Canal": "ESPN DEPORTES USA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258735.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png"
+    },
+    {
+      "Canal": "ESPN 1 MX HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258736.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png"
+    },
+    {
+      "Canal": "ESPN 2 MX HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258737.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png"
+    },
+    {
+      "Canal": "ESPN 3 MX HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258738.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/512px-ESPN3_Logo.png"
+    },
+    {
+      "Canal": "ESPN 4 MX HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258739.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png"
+    },
+    {
+      "Canal": "ESPN 1 ARGENTINA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258740.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png"
+    },
+    {
+      "Canal": "ESPN 2 ARGENTINA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258741.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png"
+    },
+    {
+      "Canal": "ESPN 3 ARGENTINA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258742.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png"
+    },
+    {
+      "Canal": "ESPN 5 ARGENTINA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258743.m3u8",
+      "Logo": "https://images.seeklogo.com/logo-png/52/3/espn-5-logo-png_seeklogo-522715.png"
+    },
+    {
+      "Canal": "ESPN 4 ARGENTINA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258744.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png"
+    },
+    {
+      "Canal": "ESPN PREMIUM ARGENTINA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258745.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png"
+    },
+    {
+      "Canal": "ESPN 1 COLOMBIA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258746.m3u8",
+      "Logo": "https://cdn.freebiesupply.com/logos/large/2x/espn-logo-png-transparent.png"
+    },
+    {
+      "Canal": "ESPN 2 COLOMBIA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258747.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png"
+    },
+    {
+      "Canal": "ESPN 3 COLOMBIA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258748.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/512px-ESPN3_Logo.png"
+    },
+    {
+      "Canal": "ESPN 2 BRASIL HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258749.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png"
+    },
+    {
+      "Canal": "ESPN 1 USA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258750.m3u8",
+      "Logo": "https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography-thumbnail.png"
+    },
+    {
+      "Canal": "ESPN 2 USA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258751.m3u8",
+      "Logo": "https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography-thumbnail.png"
+    },
+    {
+      "Canal": "ESPN NEWS USA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258752.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png"
+    },
+    {
+      "Canal": "ESPN U USA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258753.m3u8",
+      "Logo": "https://i.imgur.com/HiBrysh.png"
+    },
+    {
+      "Canal": "SKY SPORTS LIGA ESPAÑOLA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258754.m3u8",
+      "Logo": "https://www.lyngsat.com/logo/tv/ss/sky_mx_sports.png"
+    },
+    {
+      "Canal": "SKY SPORTS PREMIER LEAGUE HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258755.m3u8",
+      "Logo": "https://i.imgur.com/ChWdcRC.png"
+    },
+    {
+      "Canal": "SKY SPORTS BUNDESLIGA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258756.m3u8",
+      "Logo": "https://www.lyngsat.com/logo/tv/ss/sky_mx_sports.png"
+    },
+    {
+      "Canal": "DSPORTS+ HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258759.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/512px-DirecTV_Sports%2B_Latin_America_%282018%29.png"
+    },
+    {
+      "Canal": "FOX SPORTS 1 MX HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258760.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png"
+    },
+    {
+      "Canal": "FOX SPORTS 2 MX HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258761.m3u8",
+      "Logo": "https://i.postimg.cc/QxKp6qNj/foxsports2.png"
+    },
+    {
+      "Canal": "FOX SPORTS 3 MX HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258762.m3u8",
+      "Logo": "https://i.imgur.com/svwD4Tx.png"
+    },
+    {
+      "Canal": "FOX SPORTS PREMIUM MX HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258763.m3u8",
+      "Logo": "https://i.imgur.com/3lOZWeD.png"
+    },
+    {
+      "Canal": "FOX SPORTS 1 ARG HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258764.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png"
+    },
+    {
+      "Canal": "FOX SPORTS 2 ARG HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258765.m3u8",
+      "Logo": "https://i.imgur.com/oG7HzEf.png"
+    },
+    {
+      "Canal": "FOX SPORTS 3 ARG HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258766.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/512px-Fox_sports_3_logo.svg.png"
+    },
+    {
+      "Canal": "FOX DEPORTES USA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258767.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png"
+    },
+    {
+      "Canal": "FOX SPORTS 1 USA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258768.m3u8",
+      "Logo": "https://i.imgur.com/O9BapV9.png"
+    },
+    {
+      "Canal": "FOX SPORTS 2 USA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258769.m3u8",
+      "Logo": "https://i.imgur.com/LHtxKI8.png"
+    },
+    {
+      "Canal": "FOX SOCCER PLUS USA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258770.m3u8",
+      "Logo": "https://m.media-amazon.com/images/I/41IMHJXWieL.png"
+    },
+    {
+      "Canal": "TUDN MX HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258771.m3u8",
+      "Logo": "https://i.imgur.com/oT5CAvd.png"
+    },
+    {
+      "Canal": "TUDN USA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258772.m3u8",
+      "Logo": "https://i.imgur.com/oT5CAvd.png"
+    },
+    {
+      "Canal": "MOVISTAR DEPORTES HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258773.m3u8",
+      "Logo": "https://i.imgur.com/Zt3iE86.png"
+    },
+    {
+      "Canal": "MOVISTAR + VAMOS HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258774.m3u8",
+      "Logo": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2023/01/deportes-movistar-plus_1040x650.jpg?w=325&h=295&crop=1"
+    },
+    {
+      "Canal": "SPORTV 3 BR HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258776.m3u8",
+      "Logo": "https://archive.org/download/sport-tv-logo/SportTV-logo.png"
+    },
+    {
+      "Canal": "SPORTV 2 BR HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258777.m3u8",
+      "Logo": "https://archive.org/download/sport-tv-logo/SportTV-logo.png"
+    },
+    {
+      "Canal": "SPORTV 1 BR HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258778.m3u8",
+      "Logo": "https://archive.org/download/sport-tv-logo/SportTV-logo.png"
+    },
+    {
+      "Canal": "GOLF CHANNEL USA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258781.m3u8",
+      "Logo": "https://d1qxviojg2h5lt.cloudfront.net/resized-images/310/01EQCPTQ24KQCS65CQK44QQXMG/golfchannel400.webp"
+    },
+    {
+      "Canal": "MLB NETWORK HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258783.m3u8",
+      "Logo": "https://uploads.dailydot.com/2020/07/mlb-network-800x800-1.jpg?auto=compress&fm=pjpg"
+    },
+    {
+      "Canal": "TYC INTERNACIONAL HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258784.m3u8",
+      "Logo": "https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q"
+    },
+    {
+      "Canal": "FOX DEPORTES  HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258787.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png"
+    },
+    {
+      "Canal": "PREMIERE SPORTS 1 HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258788.m3u8",
+      "Logo": "http://fanc.tmsimg.com/assets/s111273_ll_h3_aa.png"
+    },
+    {
+      "Canal": "TYC SPORTS HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258796.m3u8",
+      "Logo": "https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q"
+    },
+    {
+      "Canal": "WWE NETWORK HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258797.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/1200px-WWE_official_logo.svg.png"
+    },
+    {
+      "Canal": "RED BULL TV USA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258798.m3u8",
+      "Logo": "https://i.postimg.cc/8c78JM28/image.png"
+    },
+    {
+      "Canal": "TENNIS CHANNEL US HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258799.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png"
+    },
+    {
+      "Canal": "WIN SPORTS HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258801.m3u8",
+      "Logo": "https://files.winsports.co/assets/public/Win_Nuevo_WEB_02_0.png"
+    },
+    {
+      "Canal": "TSN THE OCHO FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258804.m3u8",
+      "Logo": ""
+    },
+    {
+      "Canal": "FIFA+ HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258805.m3u8",
+      "Logo": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/05/28/12/fifa.jpg?width=1200&height=800&crop=1200:800"
+    },
+    {
+      "Canal": "RED BULL TV HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258806.m3u8",
+      "Logo": "https://i.postimg.cc/8c78JM28/image.png"
+    },
+    {
+      "Canal": "FUEL TV HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258807.m3u8",
+      "Logo": "https://i.imgur.com/I8mviBy.png"
+    },
+    {
+      "Canal": "WIN SPORTS+ HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258809.m3u8",
+      "Logo": "https://i.imgur.com/0UN87vB.png"
+    },
+    {
+      "Canal": "NHL FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258810.m3u8",
+      "Logo": "https://i.imgur.com/UNZ8bef.png"
+    },
+    {
+      "Canal": "NFL NETWORK HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258811.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png"
+    },
+    {
+      "Canal": "TENNIS CHANNEL HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258812.m3u8",
+      "Logo": "https://i.imgur.com/tsljAnY.png"
+    },
+    {
+      "Canal": "REAL MADRID TV HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258813.m3u8",
+      "Logo": "https://i.postimg.cc/2yp7nzVN/realmadridtv.png"
+    },
+    {
+      "Canal": "DSPORTS+ HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258832.m3u8",
+      "Logo": "https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804"
+    },
+    {
+      "Canal": "DSPORTS 1 HD COLOMBIA",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258834.m3u8",
+      "Logo": "https://img.sport-tv-guide.live/images/tv-station-directv-sports-2-cl-1256.png"
+    },
+    {
+      "Canal": "DSPORTS 2 HD COLOMBIA",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258835.m3u8",
+      "Logo": "https://img.sport-tv-guide.live/images/tv-station-directv-sports-2-cl-1256.png"
+    },
+    {
+      "Canal": "DSPORTS 2 HD ECUADOR",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258836.m3u8",
+      "Logo": "https://img.sport-tv-guide.live/images/tv-station-directv-sports-2-cl-1256.png"
+    },
+    {
+      "Canal": "DSPORTS+ SD CHILE",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258838.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/512px-DirecTV_Sports%2B_Latin_America_%282018%29.png"
+    },
+    {
+      "Canal": "DSPORTS 1 SD CHILE",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258839.m3u8",
+      "Logo": "https://www.telextrema.com/img/directvsports.png"
+    },
+    {
+      "Canal": "DSPORTS 2 SD CHILE",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258840.m3u8",
+      "Logo": "https://img.sport-tv-guide.live/images/tv-station-directv-sports-2-cl-1256.png"
+    },
+    {
+      "Canal": "DSPORTS 2 PERU HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258841.m3u8",
+      "Logo": "https://th.bing.com/th/id/R.e1d810052803c4a8576821045e362b3e?rik=BtPAVvpcjAA/vw&riu=http://3.bp.blogspot.com/-EVN2pTPU8x4/UUJiN0uRjCI/AAAAAAAAZVU/Sg6sDwLG-EY/s1600/directv-sports.png&ehk=6L5Lq8TYHue1UP4YBZ5jq1rXi+tvlAxeJXsonB/5wos=&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "Canal": "DSPORTS PERU HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258842.m3u8",
+      "Logo": "https://th.bing.com/th/id/R.e1d810052803c4a8576821045e362b3e?rik=BtPAVvpcjAA/vw&riu=http://3.bp.blogspot.com/-EVN2pTPU8x4/UUJiN0uRjCI/AAAAAAAAZVU/Sg6sDwLG-EY/s1600/directv-sports.png&ehk=6L5Lq8TYHue1UP4YBZ5jq1rXi+tvlAxeJXsonB/5wos=&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "Canal": "DSPORTS URUGUAY",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258843.m3u8",
+      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw6uHlsq46xcOeyP1vULUfQyF7fjptnuboGw&s"
+    },
+    {
+      "Canal": "DSPORTS 1 HD ARGENTINA",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258844.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png"
+    },
+    {
+      "Canal": "DSPORTS 2 HD ARGENTINA",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258845.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/512px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png"
+    },
+    {
+      "Canal": "SKY SPORT LA LIGA HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258846.m3u8",
+      "Logo": "https://epg.pw/media/images/epg/2025/04/23/20250423022300132210_61.png"
+    },
+    {
+      "Canal": "BEIN SPORTS EXTRA EN ESPAÑOL",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/258907.m3u8",
+      "Logo": "https://i.imgur.com/V562tpO.png"
+    }
+  ],
+
+  "DEPORTES INTERNACIONAL": [
+    {
+      "Canal": "ESPN U",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141388.m3u8",
+      "Logo": "https://firestickhacks.com/wp-content/uploads/2022/02/espnu-on-firestick-1024x1024.png"
+    },
+    {
+      "Canal": "TSN The Ocho FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141389.m3u8",
+      "Logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png"
+    },
+    {
+      "Canal": "FIFA+",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141390.m3u8",
+      "Logo": "https://play-lh.googleusercontent.com/NcrdWFjmF2GPRlif4xC-9WM4bQXxHjU4yuWVQjsdDh7xtKPc6nVSRhp-iOlFnpuepg"
+    },
+    {
+      "Canal": "Red Bull TV",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141394.m3u8",
+      "Logo": "https://m.media-amazon.com/images/I/41hkhdw+XvL.png"
+    },
+    {
+      "Canal": "MLB Network FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141395.m3u8",
+      "Logo": "https://uploads.dailydot.com/2020/07/mlb-network-800x800-1.jpg?auto=compress&fm=pjpg"
+    },
+    {
+      "Canal": "Fubo Sports Network",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141397.m3u8",
+      "Logo": "https://cordcuttersanonymous.com/wp-content/uploads/2022/08/logo-fsn.jpg.webp"
+    },
+    {
+      "Canal": "FUEL TV",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141398.m3u8",
+      "Logo": "https://www.sportstribal.tv/home/wp-content/uploads/2021/03/fuel-logo-sml.png"
+    },
+    {
+      "Canal": "Glory Kickboxing FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141399.m3u8",
+      "Logo": "https://yt3.googleusercontent.com/ytc/AIdro_kDm0LgmuZ6YBLmfnip23dHSVP_cyqFB0kZc5BCrys7YAk=s512-c-k-c0x00ffffff-no-rj\" group-title=\"Sports"
+    },
+    {
+      "Canal": "World Poker Tour FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141402.m3u8",
+      "Logo": "https://images.pokerfirma.com/2022/07/wpt_logo_new_2022.jpg"
+    },
+    {
+      "Canal": "Strongman ",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141409.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/023/212/459/original/strongman-gym-intensity-vintage-logo-design-vector.jpg"
+    },
+    {
+      "Canal": "NFL Channel FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141410.m3u8",
+      "Logo": "https://th.bing.com/th/id/OIP.1yLEbwSkZ9pKkowz9lHZzQHaHL?w=1024&h=993&rs=1&pid=ImgDetMain"
+    },
+    {
+      "Canal": "NHL FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141411.m3u8",
+      "Logo": "https://i.pinimg.com/originals/7a/40/7f/7a407ff7611a4cf55813726905a7e956.jpg"
+    },
+    {
+      "Canal": "NFL RedZone FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141412.m3u8",
+      "Logo": "https://th.bing.com/th/id/R.10fe9d242983361e3b62969839cd4ee6?rik=GJWiVng1B9PZsw&riu=http%3a%2f%2fpostersport.com%2fcdn%2fshop%2fcollections%2fFootball-Postersport-8670.jpg%3fv%3d1716835574&ehk=zZp76bgYxYhRk%2b7Ge5eDfAY3PeCigFMmZu%2btnsIzqIc%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "Canal": "NFL Network HD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141413.m3u8",
+      "Logo": "https://th.bing.com/th/id/OIP.oo2p7JjzRqaOxr7VGsU4wQAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "Canal": "Tennis Channel",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141414.m3u8",
+      "Logo": "https://www.sportstribal.tv/home/wp-content/uploads/2022/11/tennischannel-150x150.png"
+    },
+    {
+      "Canal": "SoloCalcioᴴᴰ",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141417.m3u8",
+      "Logo": "https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k=w240-h480"
+    },
+    {
+      "Canal": "REAL MADRID TV",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141419.m3u8",
+      "Logo": "https://th.bing.com/th/id/R.2c1d69fe9058ce118a94d2fa1d0130ab?rik=y9j0tCxA1Ah72A&riu=http%3a%2f%2fcdn.startimestv.com%2fstatic%2ffiles%2fconsole%2fafa6535a-6819-46b8-bf53-e6ab2416fb47.jpg&ehk=P1ULxCNSF41Fm2ywqDDyDc2LlKYYT%2boEqxcFLA9QsCY%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "Canal": "EUROSPORTS 1 ",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141420.m3u8",
+      "Logo": "https://th.bing.com/th/id/OIP.42gGS9I8l-4PThlkxlXPEwHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "Canal": "EUROSPORTS 2",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141421.m3u8",
+      "Logo": "https://www.logotypes101.com/logos/473/D48A2107C19288B28A5A65D4232FCF16/tn_eurosport_2.png"
+    },
+    {
+      "Canal": "AYM SPORT",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141423.m3u8",
+      "Logo": "https://th.bing.com/th/id/OIP.Uh9cyQOZYWt49kKpf4HqgAAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "Canal": "Tennis+",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141740.m3u8",
+      "Logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf15acd5c9ebe40d8482881f72a3f10e.webp"
+    },
+    {
+      "Canal": "SKY LALIGA",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141741.m3u8",
+      "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/a2/71/0ea27146-086b-1b45-87da-61569e96121c/GB-AppIcon-0-1x_U007emarketing-0-7-85-220-0.png/246x0w.webp"
+    },
+    {
+      "Canal": "BEIN SPORT EXTRA Ñ",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141742.m3u8",
+      "Logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/33d3d5ec9a811182c2c6b64124bfe872.webp"
+    },
+    {
+      "Canal": "ITV DEPORTES FHD",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141743.m3u8",
+      "Logo": "https://iili.io/J1kV1Bn.png"
+    },
+    {
+      "Canal": "Teletrack",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141930.m3u8",
+      "Logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f457ddce2f999c3f4b595e0966bd7f94.webp"
+    },
+    {
+      "Canal": "Cricket Gold",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/141931.m3u8",
+      "Logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f71ca401042148e44a5773c5c163d0e7.webp"
+    }
+  ],
+
   "DEPORTES": [
     {
       "Canal": "ESPN",
@@ -1133,6 +2096,290 @@
       "Logo": "https://i.imgur.com/H1Aap4E.png"
     }
   ],
+
+
+
+  "24/7 VIP PREMIUM": [
+    {
+      "Canal": "24-7 Dr House",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/349603.m3u8",
+      "Logo": "http://livenowworld.net:80/images/sLUqvflgikDfzpnTd_HvCud16eO8EfJFwYsZP2FQfwFU2MmkNzfHLdkuJ_ZrxL0m_9U0TxmeQEaB5rh3P4LiLvmLUVaJtCMZALHZTdNeeJWgbvKLlFI59LTJNC1D59x6ADi-5v9idqtHb8yKhAvjTDNGYbzrAPbHAeWJJeAYnhI.jpg"
+    },
+    {
+      "Canal": "24-7 EL CHAPULIN COLORADO 24/7",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/349606.m3u8",
+      "Logo": "http://livenowworld.net:80/images/sLUqvflgikDfzpnTd_HvCl75BOfVlOBywD1lcnoUhzoFFsZyLaGV_AhJd04PuhMXsytiRzemzrELs6pjZM4-PbCjJqIHR8SJ887knwNM7__t0heX7mfrEh30zcBsezuma0EEfW_MWu2vMUEih2yRyw.png"
+    },
+    {
+      "Canal": "24-7 El Chavo del 8",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/349607.m3u8",
+      "Logo": "http://livenowworld.net:80/images/sLUqvflgikDfzpnTd_HvCjfOqcMgI8RboAcQ7JbxjjkMZMLGKAwFlfUmu-dv3ranPITJVXs16lEAE7Ff2tCzkoJTdYt90oHbRdyZCl1hpFSAnigB00VALp5mGGOmWTKrsajY8-vXkY2X32WXbIxR3Dxax_CSXov5SMM90Esywaoe9HrO5OFFrFkxQjasRw_JqKpoVWuLQ__VDDah0AKBFh-kn_xARg1Cav_sAEf-95U.png"
+    },
+    {
+      "Canal": "Marvel",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/349610.m3u8",
+      "Logo": "http://livenowworld.net:80/images/eTlu-PZ-dT80pi_HQRWUEWgtEGOWfpVpzVqktbzQfyLnJZQ1aMHOSp3mvkxXkEtW.png"
+    },
+    {
+      "Canal": "The Big Bang Theory",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/349612.m3u8",
+      "Logo": "https://i.postimg.cc/kMt6sqJp/images.webp"
+    },
+    {
+      "Canal": "Two and Half Men",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/349613.m3u8",
+      "Logo": "http://livenowworld.net:80/images/QCqX5p5x3Y181Q8jwb82JEfFwu5V1KBNQOnVY6cXvsmecoWGHWDTf_prS60fBkeVP0sCnDGubPS7dBS5CDsff8ErPs4o2xpqZexEbQjW2J8GXWEoyc3brj5RsBu5Kdhj-Ox_MHQbGWzuc7RRw8uyjQ.jpg"
+    },
+    {
+      "Canal": "Terror",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/349615.m3u8",
+      "Logo": "http://livenowworld.net:80/images/QCqX5p5x3Y181Q8jwb82JJ3PSNnu6B67s75YVSFvdsWDUexXJvTzZLkPAxR4hrX8.jpg"
+    },
+    {
+      "Canal": "24/7 | Harry Potter",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/349619.m3u8",
+      "Logo": "http://livenowworld.net:80/images/QCqX5p5x3Y181Q8jwb82JP3e-4exs9NiIpKVhB4f_zPYOf-yMCh3vUIxnX_wH_cD.png"
+    },
+    {
+      "Canal": "24/7 | Star Wars",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/349620.m3u8",
+      "Logo": "http://livenowworld.net:80/images/QCqX5p5x3Y181Q8jwb82JC3w9DBHBiK_OZ9DjJIyEKoTtENYFj-0ytlG-PXASe2w.png"
+    },
+    {
+      "Canal": "24/7 | SAW",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/349621.m3u8",
+      "Logo": "http://livenowworld.net:80/images/QCqX5p5x3Y181Q8jwb82JGD4FdKP97MTBF6Kqeriye6lRFlDn_q1TKUSBpdBacfj.jpg"
+    }
+  ],
+
+    "24/7 TELENOVELAS": [
+    {
+      "Canal": "24n Amar y vivir",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402428.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/oTmIP28BCEtgWBdxRMgK33nS0EA.jpg"
+    },
+    {
+      "Canal": "24n Amigas y rivales",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402429.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/l1ufpjYSfQ0yqf860oXmlIaFS1M.jpg"
+    },
+    {
+      "Canal": "24n Amor eterno",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402430.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/al6OCoVRgdHhkGLVSvx4NPb4TJY.jpg"
+    },
+    {
+      "Canal": "24n Cafe con aroma de mujer",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402431.m3u8",
+      "Logo": "https://lgaz.cc/img/rtNrP0O.png"
+    },
+    {
+      "Canal": "24n Como dice el dicho",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402432.m3u8",
+      "Logo": "https://lgaz.cc/img/QAsfN3b.png"
+    },
+    {
+      "Canal": "24n Cuna de lobos",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402433.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n1xy8a7n6GpKEjqxkMFbe8TGC1x.jpg"
+    },
+    {
+      "Canal": "24n Ecomoda",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402434.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/yMwHYtRmbE91pFjorzgfgS6JpKn.jpg"
+    },
+    {
+      "Canal": "24n El Capo",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402435.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/hTwfFidPtRU3BUH8mK90jWyPyBr.jpg"
+    },
+    {
+      "Canal": "24n El Chapo",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402436.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2ClXk4PoOGmkk676y4q6T26GJOb.jpg"
+    },
+    {
+      "Canal": "24n El Chema",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402437.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wuA7gcwhDMbZ4Y1lscXRrgmaJIi.jpg"
+    },
+    {
+      "Canal": "24n El clon",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402438.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/61KPceoQCcmgoiCGGWURFJn9ICA.jpg"
+    },
+    {
+      "Canal": "24n La hija del mariachi",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402439.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/a9J1rl8X4klFNMLTFGIJIHIjXgf.jpg"
+    },
+    {
+      "Canal": "24n La Piloto",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402440.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/upX2fGyD4tPjJJLIOuJlB3yp2OK.jpg"
+    },
+    {
+      "Canal": "24n La Reina Del Sur",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402441.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/p11t8ckTC6EiuVw5FGFKdc2Z7GH.jpg"
+    },
+    {
+      "Canal": "24n La rosa de Guadalupe",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402442.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fdKDNIGDKyWVn7m36s9bGkvM1ai.jpg"
+    },
+    {
+      "Canal": "24n La Viuda Negra",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402443.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xkdGdQDXzL6uKDgSJRz3oJqOcrC.jpg"
+    },
+    {
+      "Canal": "24n Maria la del barrio",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402444.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xGMquh71mh3w3QzUrl1AhCniHys.jpg"
+    },
+    {
+      "Canal": "24n Maria mercedes",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402445.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3sMyQjtS7H9Vxxo6vCMPoHz6vHD.jpg"
+    },
+    {
+      "Canal": "24n Rebelde",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402446.m3u8",
+      "Logo": "https://i.ibb.co/9qWzyvV/rEBELDE.png"
+    },
+    {
+      "Canal": "24n Rosario Tijeras",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402447.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg"
+    },
+    {
+      "Canal": "24n Sobreviviendo A Escobar",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402448.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/97xpke32aNz0XSl6OHLilu9GK63.jpg"
+    },
+    {
+      "Canal": "24n Soñadoras",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402449.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uVgKsSeh3ZvPYuAbk2rU0SBlAmU.jpg"
+    },
+    {
+      "Canal": "24n Yo Soy Betty La Fea",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402450.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg"
+    },
+    {
+      "Canal": "24n El señor de los cielos",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402451.m3u8",
+      "Logo": "https://lgaz.cc/img/PCXseiL.png"
+    },
+    {
+      "Canal": "24n Narcos Mexico",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402452.m3u8",
+      "Logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/yCid4sQkaVzfa2y4yQWs5E0TES9.jpg"
+    },
+    {
+      "Canal": "24n Una Familia de Diez",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402453.m3u8",
+      "Logo": "https://i.ibb.co/wCLsTHj/familia-de-10.png"
+    },
+    {
+      "Canal": "24n Vecinos",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402454.m3u8",
+      "Logo": "https://i.ibb.co/Wf8fM8q/vecinos.png"
+    },
+    {
+      "Canal": "24n VIX Novelas",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/402455.m3u8",
+      "Logo": "https://i.ibb.co/PZbr0bN7/vix.png"
+    }
+  ],
+
+    "24/7 SERIES": [
+    {
+      "Canal": "24/7 El Chavo del Ocho HQ (e)",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/240953.m3u8",
+      "Logo": "http://lun4r7ev3.click:80/images/re1Wd84uFxD7Jj8Uv0PMpjva3j8USD5PbiNvHVM9QG7ozXuTySbu_-1a1v8kQLVTMC-lOYnmw2tOfC22nFQpQ6ZRUrul7eBOhh_SYO6FMFNcHGM9eh74GWsqY6ndjAskFPW5QanPa51gq1LGryWlyQ.jpg"
+    },
+    {
+      "Canal": "Bob Esponja 24/7",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/240954.m3u8",
+      "Logo": "http://lun4r7ev3.click:80/images/jcy16KKq52q4pajuocFPX8_mQYDcefOTlayxAM9vRjwtzw8TbbQu7Z1yj1FSRCKzdfYrPhhZyCj9ykJVZEn62V8ndLd3IpzcwS2RztrOxzg.png"
+    },
+    {
+      "Canal": "Pokemon 24/7",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/240957.m3u8",
+      "Logo": ""
+    },
+    {
+      "Canal": "Super Campeones 24/7",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/240958.m3u8",
+      "Logo": "http://lun4r7ev3.click:80/images/FarAkIVMeWgh1fUeY7dwTGEvEJFi3Qn6_p1-NnQbkM0ag5e2XkHehvNlbC1N0Ay1n8Ftv7MdIOngzOp_zsFsvA.jpg"
+    },
+    {
+      "Canal": "The big bang",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/309634.m3u8",
+      "Logo": ""
+    },
+    {
+      "Canal": "Dragon Ball",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/309635.m3u8",
+      "Logo": ""
+    },
+    {
+      "Canal": "Pingüinos de Madagascar1",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/309638.m3u8",
+      "Logo": ""
+    }
+  ],
+
+
+
 
 
   "24/7": [
