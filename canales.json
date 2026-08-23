@@ -101,6 +101,167 @@
   ],
 
 
+  "CHILE": [
+    {
+      "Canal": "CL | CARACOLA TV (PEÑALOLEN)",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/9424.m3u8",
+      "Logo": "https://i.imgur.com/QGvfqug.png"
+    },
+    {
+      "Canal": "CL | 24 HORAS",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45440.m3u8",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/claros/24_horas_chile-mediano.png"
+    },
+    {
+      "Canal": "CL | CANAL 13",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45441.m3u8",
+      "Logo": "https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/152.png"
+    },
+    {
+      "Canal": "CL | CHILEVISION ᴴᴰ (Op. 1)",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45442.m3u8",
+      "Logo": "https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/151.png"
+    },
+    {
+      "Canal": "CL | CNN CHILE",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45443.m3u8",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/claros/cnn_chile-mediano.png"
+    },
+    {
+      "Canal": "CL | LA RED",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45444.m3u8",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/claros/la_red_chile-mediano.png"
+    },
+    {
+      "Canal": "CL | MEGA ᴴᴰ (Op. 1)",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45445.m3u8",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/claros/mega_chile-mediano.png"
+    },
+    {
+      "Canal": "CL | TV+",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45446.m3u8",
+      "Logo": "https://tvmas.tv/_templates/globals/img/placeholder.png"
+    },
+    {
+      "Canal": "CL | UCV",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45447.m3u8",
+      "Logo": "https://i.postimg.cc/jjGpZf4T/UCV-Logo.png"
+    },
+    {
+      "Canal": "CL | T13",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45448.m3u8",
+      "Logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/T13-Chile-en-vivo-Online.png"
+    },
+    {
+      "Canal": "CL | CANAL 13C (Op. 1)",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45449.m3u8",
+      "Logo": "https://cdn.rudo.video/assets/canal-13/live/live_f4f785de4a7161c44067e2739f11c7221744745430.png"
+    },
+    {
+      "Canal": "CL | CDO",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45450.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png"
+    },
+    {
+      "Canal": "CL | TVN 3",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45451.m3u8",
+      "Logo": "https://i.imgur.com/9LEiQPJ.png"
+    },
+    {
+      "Canal": "CL | MEGA ᴴᴰ (Op. 2)",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45452.m3u8",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/claros/mega_chile-mediano.png"
+    },
+    {
+      "Canal": "CL | 13 Festival",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45453.m3u8",
+      "Logo": "https://static.wikia.nocookie.net/rarter/images/7/74/13_Festival_%282024%29.png"
+    },
+    {
+      "Canal": "CL | CANAL 13C (Op. 2)",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45455.m3u8",
+      "Logo": "https://cdn.rudo.video/assets/canal-13/live/live_f4f785de4a7161c44067e2739f11c7221744745430.png"
+    },
+    {
+      "Canal": "CL | VIA X",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45456.m3u8",
+      "Logo": "https://canalviax.com/wp-content/uploads/2022/12/descarga.png"
+    },
+    {
+      "Canal": "CL | ITV PATAGONIA",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45459.m3u8",
+      "Logo": "https://i.postimg.cc/tJ8F8XJL/339934625-6637234786303842-283053087769760685-n-removebg-preview.png"
+    },
+    {
+      "Canal": "CL | TVN (Op. 1)",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45464.m3u8",
+      "Logo": "https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/149.png"
+    },
+    {
+      "Canal": "CL | TVN (Op. 2)",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45465.m3u8",
+      "Logo": "https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/149.png"
+    },
+    {
+      "Canal": "CL | CHILEVISION ᴴᴰ (Op. 2)",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45466.m3u8",
+      "Logo": "https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/151.png"
+    },
+    {
+      "Canal": "CL | LA CHILENA TV",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45470.m3u8",
+      "Logo": "https://lachilena.tutv.cl/assets/images/la-chilena-tv-logo-480x480.png"
+    },
+    {
+      "Canal": "CL | MEGA 2",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45471.m3u8",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Mega_2_Branding_%282%29.jpg"
+    },
+    {
+      "Canal": "CL | ETC",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45472.m3u8",
+      "Logo": "https://static.etc.cl/_common/images/logoetc_2015.png"
+    },
+    {
+      "Canal": "CL | ZONA LATINA",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45473.m3u8",
+      "Logo": "https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png"
+    },
+    {
+      "Canal": "CL | BIO BIO TV",
+      "Estado": "Activo",
+      "Link": "http://colombiaplay.online:8080/live/12user1425/123456/45474.m3u8",
+      "Logo": "https://cdn.rudo.video/assets/bbtv/live/live_fa82d46be52d063106b1ed968485efae1651699495.jpg"
+    }
+  ],
+
+
+
   "DEPORTES": [
     {
       "Canal": "ESPN",
