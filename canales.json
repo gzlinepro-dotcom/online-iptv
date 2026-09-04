@@ -100,6 +100,58 @@
     }
   ],
 
+
+  "⭐️LA CASA DE LOS FAMOSOS⭐️": [
+    {
+      "Canal": "CASA DE LOS FAMOSOS #1 COCINA",
+      "Estado": "Activo",
+      "Link": "http://mundocorp.pro:55577/live/CARLOS123/CARLOS123/444232.m3u8",
+      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAz2jIB4M0e5jOFhRl-IWPslNurPIsevrPzQ&usqp=CAU"
+    },
+    {
+      "Canal": "CASA DE LOS FAMOSOS #2 MULTICAMARAS",
+      "Estado": "Activo",
+      "Link": "http://mundocorp.pro:55577/live/CARLOS123/CARLOS123/444233.m3u8",
+      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAz2jIB4M0e5jOFhRl-IWPslNurPIsevrPzQ&usqp=CAU"
+    },
+    {
+      "Canal": "CASA DE LOS FAMOSOS #3",
+      "Estado": "Activo",
+      "Link": "http://mundocorp.pro:55577/live/CARLOS123/CARLOS123/444234.m3u8",
+      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAz2jIB4M0e5jOFhRl-IWPslNurPIsevrPzQ&usqp=CAU"
+    },
+    {
+      "Canal": "CASA DE LOS FAMOSOS 4",
+      "Estado": "Activo",
+      "Link": "http://mundocorp.pro:55577/live/CARLOS123/CARLOS123/547343.m3u8",
+      "Logo": ""
+    },
+    {
+      "Canal": "CASA DE LOS FAMOSOS 5",
+      "Estado": "Activo",
+      "Link": "http://mundocorp.pro:55577/live/CARLOS123/CARLOS123/547344.m3u8",
+      "Logo": ""
+    },
+    {
+      "Canal": "CASA DE LOS FAMOSOS 6",
+      "Estado": "Activo",
+      "Link": "http://mundocorp.pro:55577/live/CARLOS123/CARLOS123/547345.m3u8",
+      "Logo": ""
+    },
+    {
+      "Canal": "CASA DE LOS FAMOSOS 7",
+      "Estado": "Activo",
+      "Link": "http://mundocorp.pro:55577/live/CARLOS123/CARLOS123/547346.m3u8",
+      "Logo": ""
+    },
+    {
+      "Canal": "CASA DE LOS FAMOSOS 8",
+      "Estado": "Activo",
+      "Link": "http://mundocorp.pro:55577/live/CARLOS123/CARLOS123/547347.m3u8",
+      "Logo": ""
+    }
+  ],
+
   "⚡️ARGENTINA⚡️": [
     {
       "Canal": "ARG: 13 MAX HD",
