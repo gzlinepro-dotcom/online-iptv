@@ -100,130 +100,656 @@
     }
   ],
 
-
-  "PERU 2": [
+  "EU | ES | CINE & SERIES": [
     {
-      "Canal": "PERU - TV PLUS",
+      "Canal": "##### ES - CINE #####",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/54853.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-tv-plus.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/21274.m3u8",
+      "Logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
     },
     {
-      "Canal": "PERU - ATV",
+      "Canal": "ES - AXN FHD",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/8333.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-ATV.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/21337.m3u8",
+      "Logo": "https://go4.pw/EUROPE/SPAIN/AXN.png"
     },
     {
-      "Canal": "PERU - ATV PLUS",
+      "Canal": "ES - AXN HEVC",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/7449.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-ATV.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1026521.m3u8",
+      "Logo": "https://go4.pw/EUROPE/SPAIN/AXN.png"
     },
     {
-      "Canal": "PERU- LATINA FHD",
+      "Canal": "ES - AXN HD",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/1087195.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-latina.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/21338.m3u8",
+      "Logo": "https://go4.pw/EUROPE/SPAIN/AXN.png"
     },
     {
-      "Canal": "PERU - LATINA HD",
+      "Canal": "ES - AXN MOVIES HEVC",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/56273.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-latina.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1026523.m3u8",
+      "Logo": "https://go4.pw/SPAIN/AXNM.png"
     },
     {
-      "Canal": "PERU - PERU MAGICO",
+      "Canal": "ES - AXN MOVIES HD",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/8323.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-peru-magico.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1026522.m3u8",
+      "Logo": "https://go4.pw/SPAIN/AXNM.png"
     },
     {
-      "Canal": "PERU- AMERICA TV FHD",
+      "Canal": "ES - AXN MOVIES SD",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/1087194.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-america-tv.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1061235.m3u8",
+      "Logo": "https://go4.pw/SPAIN/AXNM.png"
     },
     {
-      "Canal": "PERU - WILLAX TELEVISIÓN HD",
+      "Canal": "ES - A TRES SERIES FHD",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/1085372.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-willax-telvision.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1029370.m3u8",
+      "Logo": "https://go4.pw/SPAIN/TRES.png"
     },
     {
-      "Canal": "PERU - Exitosa Noticias HD",
+      "Canal": "ES - A TRES SERIES HD",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/1279949.m3u8",
-      "Logo": "data:image/jpeg;base64,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"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1029287.m3u8",
+      "Logo": "https://go4.pw/SPAIN/TRES.png"
     },
     {
-      "Canal": "PERU - AMERICA TV SD",
+      "Canal": "ES - ANTENA 3 INTERNACIONAL FHD",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/1068850.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-america-tv.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1029511.m3u8",
+      "Logo": "https://go4.pw/SPAIN/ANTENA.png"
     },
     {
-      "Canal": "PERU - CANAL N",
+      "Canal": "ES - VEO7 FHD",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/7825.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-canal-N.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1259660.m3u8",
+      "Logo": "https://go4.pw/SPAIN/veo7.png"
     },
     {
-      "Canal": "PERU - CANAL N FHD",
+      "Canal": "ES - VEO7 HD",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/1169263.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-canal-N.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1259659.m3u8",
+      "Logo": "https://go4.pw/SPAIN/veo7.png"
     },
     {
-      "Canal": "PERU - PANAMERICANA HD",
+      "Canal": "ES - VEO7 SD",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/1169262.m3u8",
-      "Logo": "http://descargas.podzone.net/Logos3/045.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1259658.m3u8",
+      "Logo": "https://go4.pw/SPAIN/veo7.png"
     },
     {
-      "Canal": "PERU- WILLAX TELEVISIÓN SD",
+      "Canal": "ES - WARNER FHD",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/1105664.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-willax-telvision.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1029275.m3u8",
+      "Logo": "https://go4.pw/SPAIN/WAR.png"
     },
     {
-      "Canal": "PERU - MOVISTAR DEPORTES FHD",
+      "Canal": "ES - WARNER HD",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/1092642.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-movistar-deportes.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1029274.m3u8",
+      "Logo": "https://go4.pw/SPAIN/WAR.png"
     },
     {
-      "Canal": "PERU - LIGA1",
+      "Canal": "ES - WARNER SD",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/1151342.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-liga-1.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1061228.m3u8",
+      "Logo": "https://go4.pw/SPAIN/WAR.png"
     },
     {
-      "Canal": "PERU - LIGA 1 MAX",
+      "Canal": "ES - WARNERBROS HEVC",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/1151341.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-liga-1.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1026526.m3u8",
+      "Logo": "https://go4.pw/SPAIN/WAR.png"
     },
     {
-      "Canal": "PERU - L1 MAX HD",
+      "Canal": "ES - WARNERBROS HD",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/1230397.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-liga-1.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1018481.m3u8",
+      "Logo": "https://go4.pw/SPAIN/WAR.png"
     },
     {
-      "Canal": "PERU - GOL PERU FHD",
+      "Canal": "ES - ESCAPA TV FHD",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/1123136.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-gol-peru.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1029567.m3u8",
+      "Logo": "https://go4.pw/SPAIN/ESCAPA.png"
     },
     {
-      "Canal": "PERU - GOL PERU SD",
+      "Canal": "ES - 40 Y 20 FHD",
       "Estado": "Activo",
-      "Link": "http://23.137.84.107:59000/live/marianuevo2/161128/8329.m3u8",
-      "Logo": "http://descargas.podzone.net/logos/-gol-peru.png"
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1029568.m3u8",
+      "Logo": "https://go4.pw/SPAIN/Y.png"
+    },
+    {
+      "Canal": "ES - M.COMEDIA HEVC",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1026517.m3u8",
+      "Logo": "https://go4.pw/SPAIN/CO.png"
+    },
+    {
+      "Canal": "ES - M.COMEDIA HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1018475.m3u8",
+      "Logo": "https://go4.pw/SPAIN/CO.png"
+    },
+    {
+      "Canal": "ES - COMEDY CENTRAL HEVC",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1026530.m3u8",
+      "Logo": "https://go4.pw/EUROPE/SPAIN/comedycentralhd.png"
+    },
+    {
+      "Canal": "ES - COMEDY CENTRAL HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/73070.m3u8",
+      "Logo": "https://go4.pw/EUROPE/SPAIN/comedycentralhd.png"
+    },
+    {
+      "Canal": "ES - COMEDY CENTRAL SD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1061226.m3u8",
+      "Logo": "https://go4.pw/EUROPE/SPAIN/comedycentralhd.png"
+    },
+    {
+      "Canal": "ES - FOX HEVC",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1026524.m3u8",
+      "Logo": "https://go4.pw/EUROPE/GREECE/fox.png"
+    },
+    {
+      "Canal": "ES - COSMO HEVC",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1026525.m3u8",
+      "Logo": "https://go4.pw/EUROPE/SPAIN/COSMOHD.png"
+    },
+    {
+      "Canal": "ES - COSMO HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/21326.m3u8",
+      "Logo": "https://go4.pw/EUROPE/SPAIN/COSMOHD.png"
+    },
+    {
+      "Canal": "ES - COSMO SD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1061234.m3u8",
+      "Logo": "https://go4.pw/EUROPE/SPAIN/COSMOHD.png"
+    },
+    {
+      "Canal": "ES - SYFY HEVC",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1026527.m3u8",
+      "Logo": "https://go4.pw/SPAIN/syfyy.png"
+    },
+    {
+      "Canal": "ES - SYFY HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/21279.m3u8",
+      "Logo": "https://go4.pw/SPAIN/syfyy.png"
+    },
+    {
+      "Canal": "ES - SYFY SD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1061232.m3u8",
+      "Logo": "https://go4.pw/SPAIN/syfyy.png"
+    },
+    {
+      "Canal": "ES - TCM HEVC",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1026532.m3u8",
+      "Logo": "https://go4.pw/USA/SD/41.png"
+    },
+    {
+      "Canal": "ES - TCM HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/21278.m3u8",
+      "Logo": "https://go4.pw/USA/SD/41.png"
+    },
+    {
+      "Canal": "ES - CALLE 13 HEVC",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1026528.m3u8",
+      "Logo": "https://go4.pw/EUROPE/SPAIN/CALLE13HD.png"
+    },
+    {
+      "Canal": "ES - CALLE 13 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/21333.m3u8",
+      "Logo": "https://go4.pw/EUROPE/SPAIN/CALLE13HD.png"
+    },
+    {
+      "Canal": "ES - CALLE 13 SD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1061225.m3u8",
+      "Logo": "https://go4.pw/EUROPE/SPAIN/CALLE13HD.png"
+    },
+    {
+      "Canal": "ES - HOLLYWOOD HEVC",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1026529.m3u8",
+      "Logo": "https://go4.pw/EUROPE/PORTUGALVIP/HOLLYWOOD.png"
+    },
+    {
+      "Canal": "ES -  A3 SERIES HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/131162.m3u8",
+      "Logo": "https://go4.pw/SPAIN/A3S.png"
+    },
+    {
+      "Canal": "ES - BOM CINE HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1018452.m3u8",
+      "Logo": "https://go4.pw/SPAIN/bomcine.png"
+    },
+    {
+      "Canal": "ES - BOM CINE SD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1061230.m3u8",
+      "Logo": "https://go4.pw/SPAIN/bomcine.png"
+    },
+    {
+      "Canal": "ES - BETEVE HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/21336.m3u8",
+      "Logo": "https://go4.pw/SPAIN/BETEVE.png"
+    },
+    {
+      "Canal": "ES - PARAMOUNT HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1018483.m3u8",
+      "Logo": "https://go4.pw/USA/SD/11.png"
+    },
+    {
+      "Canal": "ES - PARAMOUNT SD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1145327.m3u8",
+      "Logo": "https://go4.pw/USA/SD/11.png"
+    },
+    {
+      "Canal": "ES - STAR CHANNEL HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/21344.m3u8",
+      "Logo": "https://go4.pw/PORTUGAL/starchannel.png"
+    },
+    {
+      "Canal": "ES - STAR CHANNEL (FOX) SD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1061227.m3u8",
+      "Logo": "https://go4.pw/PORTUGAL/starchannel.png"
+    },
+    {
+      "Canal": "ES - GOL HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/76690.m3u8",
+      "Logo": "https://go4.pw/EUROPE/SPAIN/GOL0.png"
+    },
+    {
+      "Canal": "ES - VH1 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/21276.m3u8",
+      "Logo": "https://go4.pw/EUROPE/GERMANY/VH1.png"
+    },
+    {
+      "Canal": "##### GOLD TV | 24/7 SPAIN #####",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/620971.m3u8",
+      "Logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | BOM FHD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/975876.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 |  ENDFAMILIA FHD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/975880.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | HOLLIWOOD FHD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/975885.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | TNT UHD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/625165.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | NETFLIX CINE + HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/620973.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | NETFLIX CINE HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/620974.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | NETFLIX DRAMA HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/620975.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | NETFLIX ESPAÑOL HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/620976.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | NETFLIX HISTORIA HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/620988.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | NETFLIX PELÍCULAS HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/620990.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | NETFLIX SCI-FI HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/620991.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | NETFLIX TELEVISION HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/620992.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 1 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/620997.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/620998.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 3 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/620999.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 4 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621000.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 5 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621001.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 6 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621002.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 7 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621003.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 8 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621004.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 10 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621006.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 11 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621007.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 12 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621008.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 13 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621009.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 14 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621010.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 15 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621022.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 16 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621021.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 17 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621023.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 18 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621024.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 19 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621025.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 20 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621026.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 21 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621027.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 22 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621028.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 23 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621029.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 24 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/621030.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 1 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013456.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013457.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 3 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013458.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 4 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013459.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 5 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013460.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 6 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013461.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2020 1 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013462.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2020 2 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013463.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2020 3 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013464.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2020 4 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013465.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2020 5 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013466.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2021 1 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013467.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2021 2 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013468.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2021 3 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013469.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2021 4 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013470.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2021 6 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013472.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2021 7 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013473.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2021 8 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013474.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2021 9 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013475.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2021 10 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013476.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2022 1 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013499.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2022 2 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013500.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | PELICULAS 2022 3 HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/1013501.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
+    },
+    {
+      "Canal": "ES - GOLD TV 24/7 | NETFLIX NINOS HD",
+      "Estado": "Activo",
+      "Link": "http://bxsmrt.cc/live/MAGKAA3G6N/MAGYV9YTAH/620989.m3u8",
+      "Logo": "https://go4.pw/GOLDTV/goldtv.png"
     }
   ],
-
 
   "•LA CASA DE LOS FAMOSOS•": [
     {
